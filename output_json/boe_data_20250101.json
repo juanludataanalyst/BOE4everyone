@@ -1,0 +1,981 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20250101"
+            },
+            "diario": [
+                {
+                    "numero": "1",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2025-1",
+                        "url_pdf": {
+                            "szBytes": "239991",
+                            "szKBytes": "234",
+                            "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-S-2025-1.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": {
+                                "codigo": "8162",
+                                "nombre": "COMUNITAT VALENCIANA",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Simplificación administrativa",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-1",
+                                                "control": "2024/20174",
+                                                "titulo": "Ley 6/2024, de 5 de diciembre, de simplificación administrativa.",
+                                                "url_pdf": {
+                                                    "szBytes": "2245004",
+                                                    "szKBytes": "2192",
+                                                    "pagina_inicial": "1",
+                                                    "pagina_final": "293",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-1.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-1",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-1"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "1820",
+                                    "nombre": "CONSEJO GENERAL DEL PODER JUDICIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Situaciones",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-2",
+                                                    "control": "2024/18674",
+                                                    "titulo": "Acuerdo de 25 de septiembre de 2024, del Pleno del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria de la Magistrada doña Ana Isabel Gutiérrez Gegúndez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190829",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "294",
+                                                        "pagina_final": "294",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-2.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-2",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-2"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-3",
+                                                    "control": "2024/18676",
+                                                    "titulo": "Acuerdo de 9 de octubre de 2024, del Pleno del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria de la Magistrada doña Emma Galcerán Solsona.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190818",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "295",
+                                                        "pagina_final": "295",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-3.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-3",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-3"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9590",
+                                    "nombre": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-4",
+                                                "control": "2024/20304",
+                                                "titulo": "Orden EFD/1510/2024, de 26 de diciembre, por la que, a propuesta del Departamento de Educación de la Comunidad Foral de Navarra, en estimación de recurso, se nombra funcionario de carrera del Cuerpo de Profesores de Música y Artes Escénicas a don Ignacio Rodríguez Fernández, seleccionado en los procedimientos selectivos extraordinarios de estabilización, convocados por Resolución 243/2022, de 3 de noviembre.",
+                                                "url_pdf": {
+                                                    "szBytes": "199169",
+                                                    "szKBytes": "195",
+                                                    "pagina_inicial": "296",
+                                                    "pagina_final": "297",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-4.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-4",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4110",
+                                    "nombre": "MINISTERIO DE CULTURA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-5",
+                                                "control": "2024/20307",
+                                                "titulo": "Resolución de 26 de diciembre de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de octubre de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "195821",
+                                                    "szKBytes": "191",
+                                                    "pagina_inicial": "298",
+                                                    "pagina_final": "299",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-5.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-5",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-5"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "9590",
+                                    "nombre": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal laboral",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-6",
+                                                "control": "2024/20257",
+                                                "titulo": "Resolución de 23 de diciembre de 2024, de la Subsecretaría, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, como personal laboral fijo fuera de convenio, en la Agencia Estatal Comisión Española para la Lucha Antidopaje en el Deporte.",
+                                                "url_pdf": {
+                                                    "szBytes": "301876",
+                                                    "szKBytes": "295",
+                                                    "pagina_inicial": "300",
+                                                    "pagina_final": "314",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-6.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-6",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-6"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpo de Subinspectores Laborales",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7",
+                                                "control": "2024/20199",
+                                                "titulo": "Resolución de 23 de diciembre de 2024, de la Subsecretaría, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo Subinspectores Laborales, Escala de Seguridad y Salud Laboral.",
+                                                "url_pdf": {
+                                                    "szBytes": "348872",
+                                                    "szKBytes": "341",
+                                                    "pagina_inicial": "315",
+                                                    "pagina_final": "339",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-7.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "3120",
+                                    "nombre": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpo de Ingenieros Agrónomos del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-8",
+                                                "control": "2024/20316",
+                                                "titulo": "Resolución de 23 de diciembre de 2024, de la Subsecretaría, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Ingenieros Agrónomos del Estado.",
+                                                "url_pdf": {
+                                                    "szBytes": "527198",
+                                                    "szKBytes": "515",
+                                                    "pagina_inicial": "340",
+                                                    "pagina_final": "382",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-8.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Cuerpo Nacional Veterinario",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-9",
+                                                "control": "2024/20317",
+                                                "titulo": "Resolución de 23 de diciembre de 2024, de la Subsecretaría, por la que se convoca proceso selectivo para acceso, para el cambio de régimen jurídico del personal laboral fijo incluido en el anexo II del IV Convenio único para el personal laboral de la Administración General del Estado, al Cuerpo Nacional Veterinario.",
+                                                "url_pdf": {
+                                                    "szBytes": "295606",
+                                                    "szKBytes": "289",
+                                                    "pagina_inicial": "383",
+                                                    "pagina_final": "398",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-9.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-9",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-9"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9593",
+                                    "nombre": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designación",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-10",
+                                                "control": "2024/20200",
+                                                "titulo": "Resolución de 20 de diciembre de 2024, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "242968",
+                                                    "szKBytes": "237",
+                                                    "pagina_inicial": "399",
+                                                    "pagina_final": "402",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-10.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-10",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-10"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-11",
+                                                    "control": "2024/107012",
+                                                    "titulo": "Resolución de 12 de diciembre de 2024, del Ayuntamiento de Torrevieja (Alicante/Alacant), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190302",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "403",
+                                                        "pagina_final": "403",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-11.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-11",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-11"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-12",
+                                                    "control": "2024/107013",
+                                                    "titulo": "Resolución de 16 de diciembre de 2024, del Ayuntamiento de Pozuelo de Alarcón (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190821",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "404",
+                                                        "pagina_final": "404",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-12.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-12",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-12"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-13",
+                                                    "control": "2024/107014",
+                                                    "titulo": "Resolución de 16 de diciembre de 2024, de la Diputación Provincial de Cádiz, referente a la convocatoria para proveer puestos de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191059",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "405",
+                                                        "pagina_final": "405",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-13.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-13",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-13"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-14",
+                                                    "control": "2024/107051",
+                                                    "titulo": "Resolución de 17 de diciembre de 2024, del Ayuntamiento de Alcorcón (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190809",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "406",
+                                                        "pagina_final": "406",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-14.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-15",
+                                                    "control": "2024/107206",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, de la Diputación Provincial de Salamanca, referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190673",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "407",
+                                                        "pagina_final": "407",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-15.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-16",
+                                                    "control": "2024/107207",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, de la Diputación Provincial de Granada, Agencia Pública Administrativa Local Centro de Estudios Municipales y de Cooperación Internacional, referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191242",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "408",
+                                                        "pagina_final": "408",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-16.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-16",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-16"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-17",
+                                                    "control": "2024/107209",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, de la Diputación Provincial de Toledo, referente a la convocatoria para proveer puestos de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190748",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "409",
+                                                        "pagina_final": "409",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-17.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-17",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-17"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-18",
+                                                    "control": "2024/107237",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, del Ayuntamiento de Granada, referente a la convocatoria para proveer puestos de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "196351",
+                                                        "szKBytes": "192",
+                                                        "pagina_inicial": "410",
+                                                        "pagina_final": "411",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-18.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-18",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-18"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-19",
+                                                    "control": "2024/107144",
+                                                    "titulo": "Resolución de 18 de diciembre de 2024, de la Diputación Provincial de Cáceres, Organismo Autónomo de Recaudación y Gestión Tributaria, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190913",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "412",
+                                                        "pagina_final": "412",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-19.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-19",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-19"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-20",
+                                                    "control": "2024/107145",
+                                                    "titulo": "Resolución de 18 de diciembre de 2024, del Ayuntamiento de Tortosa (Tarragona), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190417",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "413",
+                                                        "pagina_final": "413",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-20.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-20",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-20"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-21",
+                                                    "control": "2024/107153",
+                                                    "titulo": "Resolución de 18 de diciembre de 2024, del Ayuntamiento de Langreo (Asturias), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190704",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "414",
+                                                        "pagina_final": "414",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-21.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-21"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-22",
+                                                    "control": "2024/107143",
+                                                    "titulo": "Resolución de 19 de diciembre de 2024, del Ayuntamiento de Pajarón (Cuenca), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190234",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "415",
+                                                        "pagina_final": "415",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-22.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-22"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-23",
+                                                    "control": "2024/107146",
+                                                    "titulo": "Resolución de 19 de diciembre de 2024, del Ayuntamiento de Narón (A Coruña), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190777",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "416",
+                                                        "pagina_final": "416",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-23.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-23",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-23"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-24",
+                                                    "control": "2024/107147",
+                                                    "titulo": "Resolución de 19 de diciembre de 2024, del Ayuntamiento de Letux (Zaragoza), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190378",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "417",
+                                                        "pagina_final": "417",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-24.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-24",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-24"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-25",
+                                                    "control": "2024/107148",
+                                                    "titulo": "Resolución de 19 de diciembre de 2024, del Ayuntamiento de Budia (Guadalajara), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190238",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "418",
+                                                        "pagina_final": "418",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-25.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-25",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-25"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-26",
+                                                    "control": "2024/107149",
+                                                    "titulo": "Resolución de 19 de diciembre de 2024, del Ayuntamiento de Narón (A Coruña), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190792",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "419",
+                                                        "pagina_final": "419",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-26.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-26"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-27",
+                                                    "control": "2024/107151",
+                                                    "titulo": "Resolución de 19 de diciembre de 2024, del Ayuntamiento de Atalaya del Cañavate (Cuenca), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190951",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "420",
+                                                        "pagina_final": "420",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-27.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-27",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-27"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-28",
+                                                    "control": "2024/107152",
+                                                    "titulo": "Resolución de 19 de diciembre de 2024, del Ayuntamiento de León, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190093",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "421",
+                                                        "pagina_final": "421",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-28.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-28",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-28"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-29",
+                                                    "control": "2024/107154",
+                                                    "titulo": "Resolución de 19 de diciembre de 2024, del Ayuntamiento de Mota del Cuervo (Cuenca), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "196323",
+                                                        "szKBytes": "192",
+                                                        "pagina_inicial": "422",
+                                                        "pagina_final": "423",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-29.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-29",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-29"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-30",
+                                                    "control": "2024/107155",
+                                                    "titulo": "Resolución de 19 de diciembre de 2024, del Ayuntamiento de Parla (Madrid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190220",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "424",
+                                                        "pagina_final": "424",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-30.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-30",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-30"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-31",
+                                                    "control": "2024/107156",
+                                                    "titulo": "Resolución de 19 de diciembre de 2024, del Ayuntamiento de Fuente de Cantos (Badajoz), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190550",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "425",
+                                                        "pagina_final": "425",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-31.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-31",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-31"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-32",
+                                                    "control": "2024/107158",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, del Ayuntamiento de Garrovillas de Alconétar (Cáceres), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190194",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "426",
+                                                        "pagina_final": "426",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-32.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-32",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-32"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Aragón. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-33",
+                                                "control": "2024/20447",
+                                                "titulo": "Resolución de 26 de diciembre de 2024, de la Subsecretaría, por la que se publica la tercera Adenda de modificación al Convenio entre la Mutualidad General de Funcionarios Civiles del Estado, el Instituto Social de las Fuerzas Armadas, la Mutualidad General Judicial y el Gobierno de Aragón, para la prestación en zonas rurales de determinados servicios sanitarios a los mutualistas y demás beneficiarios adscritos a entidades de seguro de asistencia sanitaria concertada con dichas mutualidades.",
+                                                "url_pdf": {
+                                                    "szBytes": "760285",
+                                                    "szKBytes": "742",
+                                                    "pagina_inicial": "427",
+                                                    "pagina_final": "451",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-33.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-33",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-33"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-34",
+                                                    "control": "2024/20457",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, de la Subsecretaría, por la que se publica el Convenio entre la Secretaría de Estado de Migraciones y la Universidad Nacional de Educación a Distancia, para el desarrollo de prácticas académicas externas de sus estudiantes.",
+                                                    "url_pdf": {
+                                                        "szBytes": "303454",
+                                                        "szKBytes": "296",
+                                                        "pagina_inicial": "452",
+                                                        "pagina_final": "460",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-34.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-34",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-34"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-35",
+                                                    "control": "2024/20462",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, de la Subsecretaría, por la que se publica el Convenio entre Red.es, M.P., E.P.E., y la Fundación EOI, F.S.P., para el desarrollo de las actividades de los planes de trabajo del Centro de Referencia Nacional de comercio electrónico en el ámbito de la formación profesional.",
+                                                    "url_pdf": {
+                                                        "szBytes": "265256",
+                                                        "szKBytes": "259",
+                                                        "pagina_inicial": "461",
+                                                        "pagina_final": "471",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-35.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-35",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-35"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-36",
+                                                    "control": "2024/20465",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, de la Subsecretaría, por la que se publica la Adenda de prórroga y modificación del Convenio entre la Secretaría General de Administración Digital y el Servicio Público de Empleo Estatal para el Servicio de Automatización Inteligente basado en el sistema de automatización robótica de procesos en el marco del Plan de Recuperación, Transformación y Resiliencia -financiado por la Unión Europea- Next Generation EU.",
+                                                    "url_pdf": {
+                                                        "szBytes": "216148",
+                                                        "szKBytes": "211",
+                                                        "pagina_inicial": "472",
+                                                        "pagina_final": "475",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-36.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-36",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-36"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-37",
+                                                    "control": "2024/20466",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, de la Subsecretaría, por la que se publica la cuarta Adenda de modificación y prórroga del Convenio entre el Ministerio de Agricultura, Pesca y Alimentación, el Instituto de Crédito Oficial, E.P.E., y la Sociedad Anónima Estatal de Caución Agraria, S.M.E., para la gestión de ayudas del MAPA en la Línea «ICO MAPA SAECA» en el marco de la Línea «ICO Garantía SGR/SAECA».",
+                                                    "url_pdf": {
+                                                        "szBytes": "253050",
+                                                        "szKBytes": "247",
+                                                        "pagina_inicial": "476",
+                                                        "pagina_final": "486",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-37.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-37",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-37"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de la Región de Murcia. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-38",
+                                                "control": "2024/20336",
+                                                "titulo": "Resolución 420/38558/2024, de 23 de diciembre, de la Secretaría General Técnica, por la que se publica el Convenio con la Universidad Politécnica de Cartagena, para la realización de prácticas académicas externas.",
+                                                "url_pdf": {
+                                                    "szBytes": "421016",
+                                                    "szKBytes": "411",
+                                                    "pagina_inicial": "487",
+                                                    "pagina_final": "509",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-38.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-38",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-38"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Cría Caballar de las Fuerzas Armadas. Precios públicos",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-39",
+                                                "control": "2024/20333",
+                                                "titulo": "Resolución 420/38549/2024, de 18 de diciembre, de la Secretaría General Técnica, por la que se actualiza la categorización de los caballos a la que se refiere el anexo de la Orden DEF/344/2024, de 4 de abril, por la que se establecen los precios públicos del servicio de Cría Caballar de las Fuerzas Armadas.",
+                                                "url_pdf": {
+                                                    "szBytes": "245945",
+                                                    "szKBytes": "240",
+                                                    "pagina_inicial": "510",
+                                                    "pagina_final": "512",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-39.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-39",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-39"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Cantabria. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-40",
+                                                "control": "2024/20343",
+                                                "titulo": "Resolución de 23 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica la Adenda de modificación del Convenio de encomienda de gestión por el que la Comunidad Autónoma de Cantabria encomienda al Ministerio del Interior la seguridad de los edificios de la Administración de Justicia en Cantabria.",
+                                                "url_pdf": {
+                                                    "szBytes": "225898",
+                                                    "szKBytes": "221",
+                                                    "pagina_inicial": "513",
+                                                    "pagina_final": "517",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-40.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-40",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-40"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-41",
+                                                "control": "2024/20341",
+                                                "titulo": "Resolución de 17 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de Cullera, para la incorporación de los Cuerpos de Policía Locales al Sistema de Seguimiento Integral de los casos de Violencia de Género.",
+                                                "url_pdf": {
+                                                    "szBytes": "230479",
+                                                    "szKBytes": "225",
+                                                    "pagina_inicial": "518",
+                                                    "pagina_final": "524",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-41.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-41",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-41"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de las Illes Balears. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-42",
+                                                "control": "2024/20347",
+                                                "titulo": "Resolución de 27 de noviembre de 2024, de la Autoridad Portuaria de Baleares, por la que se publica el Convenio con el Instituto Balear de la Energía, para la mejora y mantenimiento del sistema público de recargas para vehículos eléctricos en las Islas Baleares.",
+                                                "url_pdf": {
+                                                    "szBytes": "231695",
+                                                    "szKBytes": "226",
+                                                    "pagina_inicial": "525",
+                                                    "pagina_final": "531",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-42.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-42",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-42"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Delegación de competencias",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-43",
+                                                "control": "2024/20353",
+                                                "titulo": "Resolución de 19 de diciembre de 2024, de la Autoridad Portuaria de A Coruña, de delegación de competencias.",
+                                                "url_pdf": {
+                                                    "szBytes": "190497",
+                                                    "szKBytes": "186",
+                                                    "pagina_inicial": "532",
+                                                    "pagina_final": "532",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-43.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-43",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-43"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios colectivos de trabajo",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-44",
+                                                    "control": "2024/20280",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de establecimiento de complemento salarial, en el ámbito territorial de la Comunidad Foral de Navarra, del VII Convenio colectivo de empresas de enseñanza privada sostenidas total o parcialmente con fondos públicos.",
+                                                    "url_pdf": {
+                                                        "szBytes": "258919",
+                                                        "szKBytes": "253",
+                                                        "pagina_inicial": "533",
+                                                        "pagina_final": "536",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-44.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-44",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-44"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-45",
+                                                    "control": "2024/20281",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo Marco del grupo Ferroglobe en España.",
+                                                    "url_pdf": {
+                                                        "szBytes": "331450",
+                                                        "szKBytes": "324",
+                                                        "pagina_inicial": "537",
+                                                        "pagina_final": "554",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-45.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-45",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-45"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-46",
+                                                    "control": "2024/20283",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el Convenio Colectivo del grupo Iskaypet.",
+                                                    "url_pdf": {
+                                                        "szBytes": "507172",
+                                                        "szKBytes": "495",
+                                                        "pagina_inicial": "555",
+                                                        "pagina_final": "596",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-46.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-46",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-46"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-47",
+                                                    "control": "2024/20284",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el XXV Convenio colectivo del sector de la banca.",
+                                                    "url_pdf": {
+                                                        "szBytes": "892011",
+                                                        "szKBytes": "871",
+                                                        "pagina_inicial": "597",
+                                                        "pagina_final": "664",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-47.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-47",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-47"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-48",
+                                                    "control": "2024/20356",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de establecimiento de complemento salarial para el año 2023, para el personal docente en pago delegado y el personal no docente, en el ámbito de la Comunidad Foral de Navarra, del VII Convenio de empresas de enseñanza privada sostenidas total o parcialmente con fondos públicos.",
+                                                    "url_pdf": {
+                                                        "szBytes": "254374",
+                                                        "szKBytes": "248",
+                                                        "pagina_inicial": "665",
+                                                        "pagina_final": "668",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-48.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-48",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-48"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Delegación de competencias",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-49",
+                                                "control": "2024/20286",
+                                                "titulo": "Resolución de 20 de diciembre de 2024, del Consorcio para el Diseño, Construcción, Equipamiento y Explotación de la Plataforma Oceánica de Canarias, sobre delegación de competencias.",
+                                                "url_pdf": {
+                                                    "szBytes": "190678",
+                                                    "szKBytes": "186",
+                                                    "pagina_inicial": "669",
+                                                    "pagina_final": "669",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-49.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-49",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-49"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9534",
+                                    "nombre": "COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Sector gasista",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-50",
+                                                    "control": "2024/20289",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Comisión Nacional de los Mercados y la Competencia, sobre la adenda del cálculo, supervisión y valoración de los saldos de mermas en el sistema gasista correspondientes al año de gas 2022 y su afección a la retribución de los titulares de las instalaciones.",
+                                                    "url_pdf": {
+                                                        "szBytes": "1239667",
+                                                        "szKBytes": "1211",
+                                                        "pagina_inicial": "670",
+                                                        "pagina_final": "694",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-50.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-50",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-50"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-51",
+                                                    "control": "2024/20290",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Comisión Nacional de los Mercados y la Competencia, sobre la adenda del cálculo, supervisión y valoración de los saldos de mermas en el sistema gasista correspondientes al año de gas 2023 y su afección a la retribución de los titulares de las instalaciones.",
+                                                    "url_pdf": {
+                                                        "szBytes": "927624",
+                                                        "szKBytes": "906",
+                                                        "pagina_inicial": "695",
+                                                        "pagina_final": "713",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-51.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-51",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-51"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Días inhábiles",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-52",
+                                                "control": "2024/20122",
+                                                "titulo": "Resolución de 19 de diciembre de 2024, de la Universidad Nacional de Educación a Distancia, referente a la declaración de días inhábiles a efectos de cómputo de plazos en procedimientos administrativos.",
+                                                "url_pdf": {
+                                                    "szBytes": "191444",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "714",
+                                                    "pagina_final": "714",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-52.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-52",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-52"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Planes de estudios",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-53",
+                                                "control": "2024/20404",
+                                                "titulo": "Resolución de 12 de diciembre de 2024, de la Universidad Alfonso X el Sabio, por la que se publica el plan de estudios de Máster Universitario en Terapia Manual Ortopédica en Patologías Prevalentes.",
+                                                "url_pdf": {
+                                                    "szBytes": "208282",
+                                                    "szKBytes": "203",
+                                                    "pagina_inicial": "715",
+                                                    "pagina_final": "715",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/01/pdfs/BOE-A-2025-53.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-53",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-53"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1124 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20240502"
+            },
+            "diario": [
+                {
+                    "numero": "107",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2024-107",
+                        "url_pdf": {
+                            "szBytes": "241324",
+                            "szKBytes": "236",
+                            "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-S-2024-107.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": {
+                                "codigo": "9531",
+                                "nombre": "COMUNIDAD DE CASTILLA Y LEÓN",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Servicios sociales",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8834",
+                                                "control": "2024/7113",
+                                                "titulo": "Ley 3/2024, de 12 de abril, reguladora del modelo de atención en los centros de carácter residencial y centros de día de servicios sociales para cuidados de larga duración en Castilla y León.",
+                                                "url_pdf": {
+                                                    "szBytes": "452986",
+                                                    "szKBytes": "442",
+                                                    "pagina_inicial": "50146",
+                                                    "pagina_final": "50185",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8834.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8834",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8834"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "1820",
+                                    "nombre": "CONSEJO GENERAL DEL PODER JUDICIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Situaciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8835",
+                                                "control": "2024/5951",
+                                                "titulo": "Acuerdo de 28 de febrero de 2024, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Julio Luis Gallego Otero.",
+                                                "url_pdf": {
+                                                    "szBytes": "191421",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "50186",
+                                                    "pagina_final": "50186",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8835.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8835",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8835"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Situaciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8836",
+                                                "control": "2024/7197",
+                                                "titulo": "Resolución de 22 de abril de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se declara la jubilación forzosa del notario de Madrid don Luis Miguel Maíz Cal.",
+                                                "url_pdf": {
+                                                    "szBytes": "192041",
+                                                    "szKBytes": "188",
+                                                    "pagina_inicial": "50187",
+                                                    "pagina_final": "50187",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8836.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8836",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8836"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8837",
+                                                "control": "2024/7198",
+                                                "titulo": "Resolución de 25 de abril de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 23 de marzo de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "222182",
+                                                    "szKBytes": "217",
+                                                    "pagina_inicial": "50188",
+                                                    "pagina_final": "50189",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8837.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8837",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8837"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4110",
+                                    "nombre": "MINISTERIO DE CULTURA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8838",
+                                                "control": "2024/7200",
+                                                "titulo": "Resolución de 25 de abril de 2024, del Instituto de la Cinematografía y de las Artes Audiovisuales, por la que se nombran vocales de la Comisión de ayudas a la producción de largometrajes y cortometrajes.",
+                                                "url_pdf": {
+                                                    "szBytes": "199120",
+                                                    "szKBytes": "194",
+                                                    "pagina_inicial": "50190",
+                                                    "pagina_final": "50191",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8838.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8838",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8838"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8839",
+                                                "control": "2024/7276",
+                                                "titulo": "Resolución de 26 de abril de 2024, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, del Cuerpo Facultativo de Sanidad Penitenciaria.",
+                                                "url_pdf": {
+                                                    "szBytes": "197520",
+                                                    "szKBytes": "193",
+                                                    "pagina_inicial": "50192",
+                                                    "pagina_final": "50193",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8839.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8839",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8839"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8840",
+                                                "control": "2024/7202",
+                                                "titulo": "Resolución de 25 de abril de 2024, de la Dirección General de la Función Pública, por la que se publica la adjudicación del puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "194037",
+                                                    "szKBytes": "189",
+                                                    "pagina_inicial": "50194",
+                                                    "pagina_final": "50194",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8840.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8840",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8840"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-8841",
+                                                    "control": "2024/7009",
+                                                    "titulo": "Resolución de 22 de abril de 2024, de la Universidad de Sevilla, por la que se nombra Catedrático de Universidad a don Fernando Fernández Sánchez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191530",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50195",
+                                                        "pagina_final": "50195",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8841.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8841",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8841"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8842",
+                                                    "control": "2024/7010",
+                                                    "titulo": "Resolución de 22 de abril de 2024, de la Universidad de Sevilla, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192052",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "50196",
+                                                        "pagina_final": "50196",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8842.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8842",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8842"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8843",
+                                                    "control": "2024/7015",
+                                                    "titulo": "Resolución de 23 de abril de 2024, de la Universidad de Málaga, por la que se nombra Catedrática de Universidad a doña María del Carmen Ruiz Delgado.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192181",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "50197",
+                                                        "pagina_final": "50197",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8843.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8843",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8843"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8844",
+                                                    "control": "2024/7016",
+                                                    "titulo": "Resolución de 23 de abril de 2024, de la Universidad de Málaga, por la que se nombra Catedrático de Universidad a don Rafael Ventura Fernández.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194454",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "50198",
+                                                        "pagina_final": "50198",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8844.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8844",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8844"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8845",
+                                                    "control": "2024/7017",
+                                                    "titulo": "Resolución de 23 de abril de 2024, de la Universidad de Málaga, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194071",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "50199",
+                                                        "pagina_final": "50199",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8845.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8845",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8845"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8846",
+                                                    "control": "2024/7065",
+                                                    "titulo": "Resolución de 23 de abril de 2024, de la Universidad de Murcia, por la que se nombra Catedrática de Universidad a doña María Falcón Romero.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191220",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50200",
+                                                        "pagina_final": "50200",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8846.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8846",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8846"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8847",
+                                                    "control": "2024/7066",
+                                                    "titulo": "Resolución de 23 de abril de 2024, de la Universidad de Murcia, por la que se nombran Catedráticas de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191085",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50201",
+                                                        "pagina_final": "50201",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8847.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8847",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8847"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8848",
+                                                    "control": "2024/7067",
+                                                    "titulo": "Resolución de 23 de abril de 2024, de la Universidad Jaume I, por la que se nombra Catedrático de Universidad a don Juan Ignacio Climente Plasencia.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194578",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "50202",
+                                                        "pagina_final": "50202",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8848.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8848",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8848"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpo de Diplomados Comerciales del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8849",
+                                                "control": "2024/7217",
+                                                "titulo": "Resolución de 25 de abril de 2024, de la Subsecretaría, por la que se aprueba la modificación del programa correspondiente a la convocatoria de pruebas selectivas para ingreso en el Cuerpo de Diplomados Comerciales del Estado.",
+                                                "url_pdf": {
+                                                    "szBytes": "224778",
+                                                    "szKBytes": "220",
+                                                    "pagina_inicial": "50203",
+                                                    "pagina_final": "50208",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8849.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8849",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8849"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8850",
+                                                "control": "2024/101378",
+                                                "titulo": "Resolución de 19 de abril de 2024, del Ayuntamiento de L'Hospitalet de Llobregat (Barcelona), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+                                                "url_pdf": {
+                                                    "szBytes": "191337",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "50209",
+                                                    "pagina_final": "50209",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8850.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8850",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8850"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-8851",
+                                                    "control": "2024/101389",
+                                                    "titulo": "Resolución de 1 de marzo de 2024, del Consorcio de Servicio de Prevención, Extinción de Incendios, Protección Civil y Salvamento de la Provincia de Guadalajara (Guadalajara), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190583",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50210",
+                                                        "pagina_final": "50210",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8851.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8851",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8851"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8852",
+                                                    "control": "2024/101407",
+                                                    "titulo": "Resolución de 1 de abril de 2024, del Ayuntamiento de Villa de Mazo (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190875",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50211",
+                                                        "pagina_final": "50211",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8852.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8852",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8852"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8853",
+                                                    "control": "2024/101402",
+                                                    "titulo": "Resolución de 12 de abril de 2024, de la Entidad Local Menor de Zurbarán (Badajoz), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191403",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50212",
+                                                        "pagina_final": "50212",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8853.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8853",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8853"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8854",
+                                                    "control": "2024/101379",
+                                                    "titulo": "Resolución de 15 de abril de 2024, del Ayuntamiento de Navalvillar de Pela (Badajoz), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192270",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "50213",
+                                                        "pagina_final": "50213",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8854.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8854",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8854"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8855",
+                                                    "control": "2024/101396",
+                                                    "titulo": "Resolución de 17 de abril de 2024, del Consejo Comarcal del Moianès (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190718",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50214",
+                                                        "pagina_final": "50214",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8855.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8855",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8855"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8856",
+                                                    "control": "2024/101404",
+                                                    "titulo": "Resolución de 17 de abril de 2024, del Consejo Comarcal del Moianès (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190804",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50215",
+                                                        "pagina_final": "50215",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8856.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8856",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8856"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8857",
+                                                    "control": "2024/101406",
+                                                    "titulo": "Resolución de 17 de abril de 2024, del Consejo Comarcal del Moianès (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190785",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50216",
+                                                        "pagina_final": "50216",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8857.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8857",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8857"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8858",
+                                                    "control": "2024/101390",
+                                                    "titulo": "Resolución de 18 de abril de 2024, del Ayuntamiento de Burjassot (Valencia/València), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191082",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50217",
+                                                        "pagina_final": "50217",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8858.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8858",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8858"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8859",
+                                                    "control": "2024/101392",
+                                                    "titulo": "Resolución de 19 de abril de 2024, del Ayuntamiento de Burjassot (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191270",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50218",
+                                                        "pagina_final": "50218",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8859.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8859",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8859"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8860",
+                                                    "control": "2024/101398",
+                                                    "titulo": "Resolución de 19 de abril de 2024, del Ayuntamiento de El Campello (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190609",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50219",
+                                                        "pagina_final": "50219",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8860.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8860",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8860"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8861",
+                                                    "control": "2024/101384",
+                                                    "titulo": "Resolución de 22 de abril de 2024, del Ayuntamiento de Palafolls (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190442",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50220",
+                                                        "pagina_final": "50220",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8861.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8861",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8861"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8862",
+                                                    "control": "2024/101388",
+                                                    "titulo": "Resolución de 22 de abril de 2024, del Ayuntamiento de Agaete (Las Palmas), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "197801",
+                                                        "szKBytes": "193",
+                                                        "pagina_inicial": "50221",
+                                                        "pagina_final": "50222",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8862.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8862",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8862"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8863",
+                                                    "control": "2024/101394",
+                                                    "titulo": "Resolución de 22 de abril de 2024, del Ayuntamiento de Requena (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191688",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50223",
+                                                        "pagina_final": "50223",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8863.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8863",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8863"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8864",
+                                                    "control": "2024/101395",
+                                                    "titulo": "Resolución de 22 de abril de 2024, del Ayuntamiento de Agaete (Las Palmas), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190590",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50224",
+                                                        "pagina_final": "50224",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8864.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8864",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8864"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8865",
+                                                    "control": "2024/101399",
+                                                    "titulo": "Resolución de 22 de abril de 2024, del Ayuntamiento de El Campello (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190693",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50225",
+                                                        "pagina_final": "50225",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8865.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8865",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8865"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8866",
+                                                    "control": "2024/101405",
+                                                    "titulo": "Resolución de 22 de abril de 2024, del Ayuntamiento de Algemesí (Valencia/València), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190629",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50226",
+                                                        "pagina_final": "50226",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8866.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8866",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8866"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8867",
+                                                    "control": "2024/101410",
+                                                    "titulo": "Resolución de 22 de abril de 2024, del Ayuntamiento de Algemesí (Valencia/València), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190508",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50227",
+                                                        "pagina_final": "50227",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8867.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8867",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8867"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8868",
+                                                    "control": "2024/101382",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de La Puebla de Cazalla (Sevilla), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190993",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50228",
+                                                        "pagina_final": "50228",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8868.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8868",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8868"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8869",
+                                                    "control": "2024/101383",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Logroño (La Rioja), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191197",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50229",
+                                                        "pagina_final": "50229",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8869.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8869",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8869"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8870",
+                                                    "control": "2024/101385",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Almuñécar (Granada), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190658",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50230",
+                                                        "pagina_final": "50230",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8870.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8870",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8870"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8871",
+                                                    "control": "2024/101386",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Requena (Valencia/València), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190466",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50231",
+                                                        "pagina_final": "50231",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8871.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8871",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8871"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8872",
+                                                    "control": "2024/101387",
+                                                    "titulo": "Resolución de 23 de abril de 2024, de la Diputación Provincial de Guadalajara, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190356",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50232",
+                                                        "pagina_final": "50232",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8872.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8872",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8872"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8873",
+                                                    "control": "2024/101391",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Socovos (Albacete), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191530",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50233",
+                                                        "pagina_final": "50233",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8873.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8873",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8873"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8874",
+                                                    "control": "2024/101393",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Torelló (Barcelona), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190982",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50234",
+                                                        "pagina_final": "50234",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8874.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8874",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8874"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8875",
+                                                    "control": "2024/101397",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Santa Cruz de los Cáñamos (Ciudad Real), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191535",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50235",
+                                                        "pagina_final": "50235",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8875.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8875",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8875"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8876",
+                                                    "control": "2024/101400",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Trillo (Guadalajara), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190941",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50236",
+                                                        "pagina_final": "50236",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8876.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8876",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8876"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8877",
+                                                    "control": "2024/101403",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Torrent (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190782",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50237",
+                                                        "pagina_final": "50237",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8877.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8877",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8877"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8878",
+                                                    "control": "2024/101408",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Malagón (Ciudad Real), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193452",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "50238",
+                                                        "pagina_final": "50238",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8878.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8878",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8878"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8879",
+                                                    "control": "2024/101409",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Tavernes de la Valldigna (Valencia/València), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191064",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50239",
+                                                        "pagina_final": "50239",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8879.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8879",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8879"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8880",
+                                                    "control": "2024/101412",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Motilla del Palancar (Cuenca), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190838",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50240",
+                                                        "pagina_final": "50240",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8880.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8880",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8880"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8881",
+                                                    "control": "2024/101413",
+                                                    "titulo": "Resolución de 23 de abril de 2024, del Ayuntamiento de Albaida (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190632",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50241",
+                                                        "pagina_final": "50241",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8881.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8881",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8881"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8882",
+                                                    "control": "2024/101563",
+                                                    "titulo": "Resolución de 26 de abril de 2024, del Consorcio de Servicio de Prevención, Extinción de Incendios, Protección Civil y Salvamento de la Provincia de Guadalajara (Guadalajara), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191236",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50242",
+                                                        "pagina_final": "50242",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8882.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8882",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8882"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8883",
+                                                    "control": "2024/101564",
+                                                    "titulo": "Resolución de 26 de abril de 2024, del Consorcio de Servicio de Prevención, Extinción de Incendios, Protección Civil y Salvamento de la Provinica de Guadalajara (Guadalajara), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191222",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50243",
+                                                        "pagina_final": "50243",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8883.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8883",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8883"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8884",
+                                                    "control": "2024/101561",
+                                                    "titulo": "Resolución de 29 de abril de 2024, del Ayuntamiento de Logroño (La Rioja), que deja sin efecto la de 15 de marzo de 2024, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190192",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "50244",
+                                                        "pagina_final": "50244",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8884.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8884",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8884"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8885",
+                                                    "control": "2024/101565",
+                                                    "titulo": "Resolución de 29 de abril de 2024, del Ayuntamiento de Moncada (Valencia/València), de corrección de errores de la de 21 de marzo de 2024, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191195",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "50245",
+                                                        "pagina_final": "50245",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8885.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8885",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8885"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpos docentes universitarios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8886",
+                                                "control": "2024/7223",
+                                                "titulo": "Resolución de 23 de abril de 2024, de la Universidad Autónoma de Barcelona, por la que se convoca concurso de acceso a plaza de cuerpos docentes universitarios.",
+                                                "url_pdf": {
+                                                    "szBytes": "208405",
+                                                    "szKBytes": "204",
+                                                    "pagina_inicial": "50246",
+                                                    "pagina_final": "50247",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8886.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8886",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8886"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-8887",
+                                                    "control": "2024/7087",
+                                                    "titulo": "Resolución de 24 de abril de 2024, de la Dirección General del Catastro, por la que se publica el Convenio con el Ayuntamiento de Murcia.",
+                                                    "url_pdf": {
+                                                        "szBytes": "242281",
+                                                        "szKBytes": "237",
+                                                        "pagina_inicial": "50248",
+                                                        "pagina_final": "50256",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8887.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8887",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8887"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8888",
+                                                    "control": "2024/7088",
+                                                    "titulo": "Resolución de 24 de abril de 2024, de la Dirección General del Catastro, por la que se publica el Convenio con el Colegio Profesional de Economistas de Almería.",
+                                                    "url_pdf": {
+                                                        "szBytes": "244404",
+                                                        "szKBytes": "239",
+                                                        "pagina_inicial": "50257",
+                                                        "pagina_final": "50263",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8888.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8888",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8888"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8889",
+                                                    "control": "2024/7161",
+                                                    "titulo": "Resolución de 24 de abril de 2024, de la Dirección General del Catastro, por la que se publica el Convenio con el Ayuntamiento de Murcia.",
+                                                    "url_pdf": {
+                                                        "szBytes": "265558",
+                                                        "szKBytes": "259",
+                                                        "pagina_inicial": "50264",
+                                                        "pagina_final": "50275",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8889.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8889",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8889"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8890",
+                                                "control": "2024/7244",
+                                                "titulo": "Resolución de 26 de abril de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría General de Instituciones Penitenciarias y el Ayuntamiento Miajadas, para el cumplimiento de las penas de trabajos en beneficio de la comunidad.",
+                                                "url_pdf": {
+                                                    "szBytes": "279703",
+                                                    "szKBytes": "273",
+                                                    "pagina_inicial": "50276",
+                                                    "pagina_final": "50283",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8890.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8890",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8890"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma del País Vasco. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8891",
+                                                "control": "2024/7351",
+                                                "titulo": "Resolución de 26 de abril de 2024, de la Dirección General del Agua, por la que se publica el Convenio con las Confederaciones Hidrográficas del Cantábrico, O.A. y del Ebro, O.A., la Comunidad Autónoma del País Vasco y Uraren Euskal Agentzia/Agencia Vasca del Agua, por el que se encomiendan diversas actividades en materia de dominio público hidráulico en las cuencas intercomunitarias del territorio de la Comunidad Autónoma del País Vasco.",
+                                                "url_pdf": {
+                                                    "szBytes": "306998",
+                                                    "szKBytes": "300",
+                                                    "pagina_inicial": "50284",
+                                                    "pagina_final": "50302",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8891.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8891",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8891"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4110",
+                                    "nombre": "MINISTERIO DE CULTURA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad de Castilla y León. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8892",
+                                                "control": "2024/7184",
+                                                "titulo": "Resolución de 19 de abril de 2024, de la Biblioteca Nacional de España, O.A., por la que se publica el Convenio con la Universidad de Salamanca, para prácticas externas curriculares y extracurriculares.",
+                                                "url_pdf": {
+                                                    "szBytes": "255681",
+                                                    "szKBytes": "250",
+                                                    "pagina_inicial": "50303",
+                                                    "pagina_final": "50311",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8892.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8892",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8892"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad de Madrid. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8893",
+                                                "control": "2024/7043",
+                                                "titulo": "Resolución de 22 de abril de 2024, del Instituto de la Cinematografía y de las Artes Audiovisuales, O.A., por la que se publica la Adenda al Convenio con la Universidad Autónoma de Madrid, para la realización de prácticas externas.",
+                                                "url_pdf": {
+                                                    "szBytes": "203572",
+                                                    "szKBytes": "199",
+                                                    "pagina_inicial": "50312",
+                                                    "pagina_final": "50314",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8893.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8893",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8893"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-8894",
+                                                    "control": "2024/6967",
+                                                    "titulo": "Resolución de 22 de abril de 2024, de la Dirección General del Libro, del Cómic y de la Lectura, por la que se publica la Adenda de prórroga del Convenio con la Federación Española de Municipios y Provincias, para la colaboración en la gestión de la campaña María Moliner de fomento de la lectura en municipios de menos de 50.000 habitantes.",
+                                                    "url_pdf": {
+                                                        "szBytes": "199409",
+                                                        "szKBytes": "195",
+                                                        "pagina_inicial": "50315",
+                                                        "pagina_final": "50316",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8894.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8894",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8894"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8895",
+                                                    "control": "2024/7094",
+                                                    "titulo": "Resolución de 22 de abril de 2024, de la Dirección General de Patrimonio Cultural y Bellas Artes, por la que se publica el Convenio con Global Digital Heritage, para la digitalización y cesión de archivos 3D de bienes culturales del Museo de América.",
+                                                    "url_pdf": {
+                                                        "szBytes": "232801",
+                                                        "szKBytes": "227",
+                                                        "pagina_inicial": "50317",
+                                                        "pagina_final": "50322",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8895.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8895",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8895"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de la Región de Murcia. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8896",
+                                                "control": "2024/7045",
+                                                "titulo": "Resolución de 22 de abril de 2024, del Instituto Nacional de Estadística, por la que se publica el Convenio con la Universidad de Murcia, para la realización de prácticas académicas no retribuidas.",
+                                                "url_pdf": {
+                                                    "szBytes": "277999",
+                                                    "szKBytes": "271",
+                                                    "pagina_inicial": "50323",
+                                                    "pagina_final": "50331",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8896.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8896",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8896"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunitat Valenciana. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8897",
+                                                "control": "2024/7186",
+                                                "titulo": "Resolución de 24 de abril de 2024, del Instituto Nacional de Estadística, por la que se publica el Convenio con el Instituto Valenciano de Estadística, sobre cooperación estadística e intercambio de información.",
+                                                "url_pdf": {
+                                                    "szBytes": "223072",
+                                                    "szKBytes": "218",
+                                                    "pagina_inicial": "50332",
+                                                    "pagina_final": "50337",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8897.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8897",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8897"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Deuda del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-8898",
+                                                "control": "2024/7046",
+                                                "titulo": "Resolución de 23 de abril de 2024, de la Dirección General del Tesoro y Política Financiera, por la que se publican los resultados de las subastas de Bonos y Obligaciones del Estado celebradas el día 18 de abril de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "235329",
+                                                    "szKBytes": "230",
+                                                    "pagina_inicial": "50338",
+                                                    "pagina_final": "50340",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/05/02/pdfs/BOE-A-2024-8898.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8898",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8898"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

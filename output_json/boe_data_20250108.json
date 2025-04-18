@@ -1,0 +1,2128 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20250108"
+            },
+            "diario": [
+                {
+                    "numero": "7",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2025-7",
+                        "url_pdf": {
+                            "szBytes": "333727",
+                            "szKBytes": "326",
+                            "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-S-2025-7.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": {
+                                "codigo": "9595",
+                                "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Organización",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-346",
+                                                "control": "2025/179",
+                                                "titulo": "Real Decreto 1/2025, de 7 de enero, por el que se crea el Comisionado para la celebración de los 50 años de España en Libertad.",
+                                                "url_pdf": {
+                                                    "szBytes": "221244",
+                                                    "szKBytes": "216",
+                                                    "pagina_inicial": "3766",
+                                                    "pagina_final": "3770",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-346.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-346",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-346"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "1820",
+                                    "nombre": "CONSEJO GENERAL DEL PODER JUDICIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-347",
+                                                    "control": "2025/187",
+                                                    "titulo": "Real Decreto 1269/2024, de 10 de diciembre, por el que se nombra Decana de los Juzgados de Córdoba a la Magistrada doña Eva María Álvarez Donoso.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191718",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3771",
+                                                        "pagina_final": "3771",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-347.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-347",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-347"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-348",
+                                                    "control": "2025/188",
+                                                    "titulo": "Real Decreto 1270/2024, de 10 de diciembre, por el que se nombra Decana de los Juzgados de Sevilla a la Magistrada doña María de los Reyes Vila Pariente.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191471",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3772",
+                                                        "pagina_final": "3772",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-348.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-348",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-348"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-349",
+                                                    "control": "2025/194",
+                                                    "titulo": "Real Decreto 1276/2024, de 10 de diciembre, por el que se nombra en propiedad a don Manuel Marchena Gómez, Magistrado de la Sala Segunda del Tribunal Supremo.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191237",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3773",
+                                                        "pagina_final": "3773",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-349.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-349",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-349"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-350",
+                                                    "control": "2025/189",
+                                                    "titulo": "Real Decreto 1271/2024, de 10 de diciembre, por el que se destina a los Magistrados y a las Magistradas que se relacionan, como consecuencia del concurso resuelto por Acuerdo de la Comisión Permanente del Consejo General del Poder Judicial.",
+                                                    "url_pdf": {
+                                                        "szBytes": "272924",
+                                                        "szKBytes": "267",
+                                                        "pagina_inicial": "3774",
+                                                        "pagina_final": "3785",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-350.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-350",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-350"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-351",
+                                                    "control": "2025/190",
+                                                    "titulo": "Real Decreto 1272/2024, de 10 de diciembre, por el que se adjudica en propiedad la plaza de Jueza de adscripción territorial del Tribunal Superior de Justicia de Madrid a la Magistrada doña Alejandra Fontana Sánchez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191439",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3786",
+                                                        "pagina_final": "3786",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-351.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-351",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-351"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-352",
+                                                    "control": "2025/191",
+                                                    "titulo": "Real Decreto 1273/2024, de 10 de diciembre, por el que se adjudica en propiedad la plaza del Juzgado de Primera Instancia número 17 de Palma al Magistrado don Arnau Piqué Pons.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191134",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3787",
+                                                        "pagina_final": "3787",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-352.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-352",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-352"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-353",
+                                                    "control": "2025/192",
+                                                    "titulo": "Real Decreto 1274/2024, de 10 de diciembre, por el que se adjudica en propiedad la plaza del Juzgado de Primera Instancia e Instrucción número 2 de Segovia a la Magistrada doña Cecilia Fernández Prieto.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191501",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3788",
+                                                        "pagina_final": "3788",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-353.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-353",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-353"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-354",
+                                                    "control": "2025/193",
+                                                    "titulo": "Real Decreto 1275/2024, de 10 de diciembre, por el que se adjudica en propiedad la plaza de Magistrada de la Audiencia Provincial de Barcelona, correspondiente al orden penal, a doña Raquel Piquero Sanz.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191503",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3789",
+                                                        "pagina_final": "3789",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-354.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-354",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-354"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-355",
+                                                    "control": "2025/195",
+                                                    "titulo": "Real Decreto 1277/2024, de 10 de diciembre, por el que se adjudica en propiedad la plaza de Magistrada de la Audiencia Provincial de Toledo a doña Sabina Arganda Rodríguez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191163",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3790",
+                                                        "pagina_final": "3790",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-355.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-355",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-355"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Situaciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-356",
+                                                "control": "2024/18672",
+                                                "titulo": "Acuerdo de 15 de octubre de 2024, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña Josefa Nieto Romero.",
+                                                "url_pdf": {
+                                                    "szBytes": "191369",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "3791",
+                                                    "pagina_final": "3791",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-356.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-356",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-356"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9562",
+                                    "nombre": "MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Ceses",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-357",
+                                                "control": "2025/180",
+                                                "titulo": "Real Decreto 2/2025, de 7 de enero, por el que se dispone el cese de don Santiago Jiménez Martín como Embajador de España en la República Oriental del Uruguay.",
+                                                "url_pdf": {
+                                                    "szBytes": "191286",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "3792",
+                                                    "pagina_final": "3792",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-357.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-357",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-357"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Designaciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-358",
+                                                "control": "2025/181",
+                                                "titulo": "Real Decreto 3/2025, de 7 de enero, por el que se designa Embajador de España en la República de Colombia a don Santiago Jiménez Martín.",
+                                                "url_pdf": {
+                                                    "szBytes": "190885",
+                                                    "szKBytes": "186",
+                                                    "pagina_inicial": "3793",
+                                                    "pagina_final": "3793",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-358.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-358",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-358"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-359",
+                                                    "control": "2025/182",
+                                                    "titulo": "Real Decreto 4/2025, de 7 de enero, por el que se nombra Directora General de Nuevas Formas de Empleo a doña Lucila Finkel Morgenstern.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190483",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "3794",
+                                                        "pagina_final": "3794",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-359.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-359",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-359"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-360",
+                                                    "control": "2025/183",
+                                                    "titulo": "Real Decreto 5/2025, de 7 de enero, por el que se nombra a don Fernando Rocha Sánchez miembro del Consejo Económico y Social en representación de las organizaciones sindicales.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190567",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "3795",
+                                                        "pagina_final": "3795",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-360.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-360",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-360"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-361",
+                                                    "control": "2025/184",
+                                                    "titulo": "Real Decreto 7/2025, de 7 de enero, por el que se nombra Directora General de la Oficina Española del Cambio Climático a doña Elena Pita Domínguez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190983",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3796",
+                                                        "pagina_final": "3796",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-361.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-361",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-361"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-362",
+                                                    "control": "2025/185",
+                                                    "titulo": "Real Decreto 8/2025, de 7 de enero, por el que se nombra Directora del Instituto para la Transición Justa, O.A., a doña Judit Carreras García.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190974",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "3797",
+                                                        "pagina_final": "3797",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-362.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-362",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-362"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4110",
+                                    "nombre": "MINISTERIO DE CULTURA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-363",
+                                                "control": "2025/186",
+                                                "titulo": "Real Decreto 9/2025, de 7 de enero, por el que se nombra Directora del Gabinete del Ministro de Cultura a doña María Corrales Pons.",
+                                                "url_pdf": {
+                                                    "szBytes": "190063",
+                                                    "szKBytes": "186",
+                                                    "pagina_inicial": "3798",
+                                                    "pagina_final": "3798",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-363.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-363",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-363"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-364",
+                                                    "control": "2025/163",
+                                                    "titulo": "Resolución de 17 de diciembre de 2024, de la Universidad de Oviedo, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194396",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "3799",
+                                                        "pagina_final": "3799",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-364.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-364",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-364"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-365",
+                                                    "control": "2025/164",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Universidad de Alicante, por la que se nombra Catedrática de Universidad a doña María Elia Gutiérrez Mozo.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191521",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3800",
+                                                        "pagina_final": "3800",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-365.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-365",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-365"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-366",
+                                                    "control": "2025/165",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Universidad de Alicante, por la que se nombra Catedrático de Universidad a don Miguel Cano González.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191298",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "3801",
+                                                        "pagina_final": "3801",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-366.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-366",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-366"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "1820",
+                                    "nombre": "CONSEJO GENERAL DEL PODER JUDICIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Carrera Judicial",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-367",
+                                                "control": "2024/19952",
+                                                "titulo": "Acuerdo de 17 de diciembre de 2024, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se convoca concurso para la provisión de cargos judiciales entre miembros de la Carrera Judicial, con categoría de Juez/a.",
+                                                "url_pdf": {
+                                                    "szBytes": "212706",
+                                                    "szKBytes": "208",
+                                                    "pagina_inicial": "3802",
+                                                    "pagina_final": "3805",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-367.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-367",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-367"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpo Especial de Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-368",
+                                                "control": "2024/20488",
+                                                "titulo": "Orden PJC/1525/2024, de 10 de diciembre, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, al Cuerpo Especial de Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses.",
+                                                "url_pdf": {
+                                                    "szBytes": "514092",
+                                                    "szKBytes": "502",
+                                                    "pagina_inicial": "3806",
+                                                    "pagina_final": "3854",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-368.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-368",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-368"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal estatutario de los servicios de salud",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-369",
+                                                    "control": "2025/66",
+                                                    "titulo": "Resolución 400/38553/2024, de 20 de diciembre de 2024, de la Subsecretaría, por la que se publica la relación de aspirantes que han aprobado en el proceso selectivo de ingreso, por el sistema general de acceso libre, para el acceso a la condición de personal estatutario fijo, en plazas de la categoría de Titulado/a Especialista en Ciencias de la Salud, y Titulado/a Sanitario/a, en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38498/2023, de 18 de diciembre.",
+                                                    "url_pdf": {
+                                                        "szBytes": "299130",
+                                                        "szKBytes": "292",
+                                                        "pagina_inicial": "3855",
+                                                        "pagina_final": "3861",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-369.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-369",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-369"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-370",
+                                                    "control": "2025/67",
+                                                    "titulo": "Resolución 400/38554/2024, de 20 de diciembre, de la Subsecretaría, por la que se publica la relación de aspirantes que han aprobado en el proceso selectivo de ingreso, por el sistema general de acceso libre, para el acceso a la condición de personal estatutario fijo, en plazas de la categoría de Enfermero/a, en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38492/2023, de 15 de diciembre.",
+                                                    "url_pdf": {
+                                                        "szBytes": "521711",
+                                                        "szKBytes": "509",
+                                                        "pagina_inicial": "3862",
+                                                        "pagina_final": "3870",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-370.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-370",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-370"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-371",
+                                                    "control": "2025/68",
+                                                    "titulo": "Resolución 400/38555/2024, de 20 de diciembre de 2024, de la Subsecretaría, por la que se publica la relación de aspirantes que han aprobado en el proceso selectivo de ingreso, por el sistema general de acceso libre, para el acceso a la condición de personal estatutario fijo, en plazas de la categoría de Técnico/a Superior en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38499/2023, de 18 de diciembre.",
+                                                    "url_pdf": {
+                                                        "szBytes": "229367",
+                                                        "szKBytes": "224",
+                                                        "pagina_inicial": "3871",
+                                                        "pagina_final": "3874",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-371.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-371",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-371"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-372",
+                                                    "control": "2025/69",
+                                                    "titulo": "Resolución 400/38556/2024, de 20 de diciembre, de la Subsecretaría, por la que se publica la relación de aspirantes que han aprobado el proceso selectivo de ingreso, por el sistema general de acceso libre, para el acceso a la condición de personal estatutario fijo, en plazas de la categoría de Técnico/a Medio Sanitario: Cuidados Auxiliares de Enfermería, en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38493/2023, de 15 de diciembre.",
+                                                    "url_pdf": {
+                                                        "szBytes": "323781",
+                                                        "szKBytes": "316",
+                                                        "pagina_inicial": "3875",
+                                                        "pagina_final": "3880",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-372.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-372",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-372"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-373",
+                                                    "control": "2025/70",
+                                                    "titulo": "Resolución 400/38557/2024, de 20 de diciembre, de la Subsecretaría, por la que se publica la relación de aspirantes que han aprobado el proceso selectivo de ingreso, por el sistema general de acceso libre, para el acceso a la condición de personal estatutario fijo, en plazas de la categoría de Celador/a en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38494/2023, de 15 de diciembre.",
+                                                    "url_pdf": {
+                                                        "szBytes": "227083",
+                                                        "szKBytes": "222",
+                                                        "pagina_inicial": "3881",
+                                                        "pagina_final": "3884",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-373.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-373",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-373"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Escala Auxiliar de Organismos Autónomos",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-374",
+                                                "control": "2025/132",
+                                                "titulo": "Resolución de 26 de diciembre de 2024, de la Secretaría de Estado de Función Pública, por la que se publica la relación definitiva de aspirantes que han superado el proceso selectivo para el acceso a la Escala Auxiliar de Organismos Autónomos para el cambio de régimen jurídico del personal laboral fijo incluido en el anexo II del IV Convenio Único para el personal laboral de la Administración General del Estado, convocado por Resolución de 15 de diciembre de 2023.",
+                                                "url_pdf": {
+                                                    "szBytes": "354130",
+                                                    "szKBytes": "346",
+                                                    "pagina_inicial": "3885",
+                                                    "pagina_final": "3890",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-374.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-374",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-374"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpos docentes universitarios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-375",
+                                                    "control": "2024/20034",
+                                                    "titulo": "Resolución de 16 de diciembre de 2024, de la Universidad Politécnica de Cataluña, por la que se publica la modificación de la Comisión evaluadora del concurso de acceso a plazas de cuerpos docentes universitarios, convocado por Resolución de 31 de octubre de 2024.",
+                                                    "url_pdf": {
+                                                        "szBytes": "223743",
+                                                        "szKBytes": "218",
+                                                        "pagina_inicial": "3891",
+                                                        "pagina_final": "3892",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-375.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-375",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-375"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-376",
+                                                    "control": "2024/20035",
+                                                    "titulo": "Resolución de 16 de diciembre de 2024, de la Universidad Politécnica de Cataluña, por la que se publica la modificación de la Comisión evaluadora del concurso de acceso a plaza de cuerpos docentes universitarios, convocado por Resolución de 31 de octubre de 2024.",
+                                                    "url_pdf": {
+                                                        "szBytes": "210276",
+                                                        "szKBytes": "205",
+                                                        "pagina_inicial": "3893",
+                                                        "pagina_final": "3894",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-376.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-376",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-376"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-377",
+                                                    "control": "2024/20396",
+                                                    "titulo": "Resolución de 23 de diciembre de 2024, de la Universidad de Murcia, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
+                                                    "url_pdf": {
+                                                        "szBytes": "317593",
+                                                        "szKBytes": "310",
+                                                        "pagina_inicial": "3895",
+                                                        "pagina_final": "3915",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-377.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-377",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-377"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-378",
+                                                    "control": "2024/20397",
+                                                    "titulo": "Resolución de 23 de diciembre de 2024, de la Universidad de Murcia, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
+                                                    "url_pdf": {
+                                                        "szBytes": "305530",
+                                                        "szKBytes": "298",
+                                                        "pagina_inicial": "3916",
+                                                        "pagina_final": "3934",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-378.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-378",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-378"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-379",
+                                                    "control": "2024/20398",
+                                                    "titulo": "Resolución de 23 de diciembre de 2024, de la Universidad de Murcia, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
+                                                    "url_pdf": {
+                                                        "szBytes": "290803",
+                                                        "szKBytes": "284",
+                                                        "pagina_inicial": "3935",
+                                                        "pagina_final": "3951",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-379.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-379",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-379"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Fundaciones",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-380",
+                                                    "control": "2025/19",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se publican extinciones de fundaciones inscritas en el Registro de Fundaciones de competencia estatal.",
+                                                    "url_pdf": {
+                                                        "szBytes": "195331",
+                                                        "szKBytes": "191",
+                                                        "pagina_inicial": "3952",
+                                                        "pagina_final": "3953",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-380.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-380",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-380"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-381",
+                                                    "control": "2025/20",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se publican modificaciones estatutarias de fundaciones inscritas en el Registro de Fundaciones de competencia estatal.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194992",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "3954",
+                                                        "pagina_final": "3955",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-381.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-381",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-381"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Registro Civil. Gestión informatizada",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-382",
+                                                    "control": "2025/79",
+                                                    "titulo": "Resolución de 23 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se acuerda la entrada en servicio efectiva de la aplicación informática Dicireg en las Oficinas del Registro Civil del Partido Judicial de Gandía, para el funcionamiento de las mismas conforme a las previsiones contenidas en la Ley 20/2011, de 21 de julio, del Registro Civil.",
+                                                    "url_pdf": {
+                                                        "szBytes": "203718",
+                                                        "szKBytes": "199",
+                                                        "pagina_inicial": "3956",
+                                                        "pagina_final": "3958",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-382.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-382",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-382"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-383",
+                                                    "control": "2025/80",
+                                                    "titulo": "Resolución de 23 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se acuerda la entrada en servicio efectiva de la aplicación informática Dicireg en las Oficinas del Registro Civil del Partido Judicial de Nules, para el funcionamiento de las mismas conforme a las previsiones contenidas en la Ley 20/2011, de 21 de julio, del Registro Civil.",
+                                                    "url_pdf": {
+                                                        "szBytes": "203878",
+                                                        "szKBytes": "199",
+                                                        "pagina_inicial": "3959",
+                                                        "pagina_final": "3961",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-383.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-383",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-383"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-384",
+                                                    "control": "2025/81",
+                                                    "titulo": "Resolución de 23 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se acuerda la entrada en servicio efectiva de la aplicación informática Dicireg en las Oficinas del Registro Civil del Partido Judicial de Berga, para el funcionamiento de las mismas conforme a las previsiones contenidas en la Ley 20/2011, de 21 de julio, del Registro Civil.",
+                                                    "url_pdf": {
+                                                        "szBytes": "204138",
+                                                        "szKBytes": "199",
+                                                        "pagina_inicial": "3962",
+                                                        "pagina_final": "3964",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-384.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-384",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-384"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-385",
+                                                    "control": "2025/82",
+                                                    "titulo": "Resolución de 23 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se acuerda la entrada en servicio efectiva de la aplicación informática Dicireg en las Oficinas del Registro Civil del Partido Judicial de Falset, para el funcionamiento de las mismas conforme a las previsiones contenidas en la Ley 20/2011, de 21 de julio, del Registro Civil.",
+                                                    "url_pdf": {
+                                                        "szBytes": "204130",
+                                                        "szKBytes": "199",
+                                                        "pagina_inicial": "3965",
+                                                        "pagina_final": "3967",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-385.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-385",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-385"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Armas de fuego",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-386",
+                                                    "control": "2025/84",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Dirección General de la Guardia Civil, por la que se disponen las medidas de seguridad para el almacenamiento de armas de fuego durante el transporte.",
+                                                    "url_pdf": {
+                                                        "szBytes": "205868",
+                                                        "szKBytes": "201",
+                                                        "pagina_inicial": "3968",
+                                                        "pagina_final": "3970",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-386.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-386",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-386"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-387",
+                                                    "control": "2025/85",
+                                                    "titulo": "Resolución de 4 de diciembre de 2024, de la Dirección General de la Guardia Civil, por la que se determinan las medidas de seguridad mínimas que deben reunir las cajas fuertes o armeros para guardar las armas en domicilios particulares.",
+                                                    "url_pdf": {
+                                                        "szBytes": "205253",
+                                                        "szKBytes": "200",
+                                                        "pagina_inicial": "3971",
+                                                        "pagina_final": "3973",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-387.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-387",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-387"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-388",
+                                                "control": "2025/96",
+                                                "titulo": "Resolución de 27 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de Osuna, para la incorporación de los Cuerpos de Policía Locales al Sistema de Seguimiento Integral de los casos de Violencia de Género.",
+                                                "url_pdf": {
+                                                    "szBytes": "235966",
+                                                    "szKBytes": "230",
+                                                    "pagina_inicial": "3974",
+                                                    "pagina_final": "3980",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-388.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-388",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-388"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad de Madrid. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-389",
+                                                "control": "2025/138",
+                                                "titulo": "Resolución de 15 de diciembre de 2024, de la Dirección de la Agencia Estatal de Seguridad Aérea, por la que se publica el Convenio con la Universidad Politécnica de Madrid, para la cooperación educativa y la realización de prácticas externas.",
+                                                "url_pdf": {
+                                                    "szBytes": "287020",
+                                                    "szKBytes": "280",
+                                                    "pagina_inicial": "3981",
+                                                    "pagina_final": "3991",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-389.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-389",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-389"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios colectivos de trabajo",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-390",
+                                                "control": "2025/22",
+                                                "titulo": "Resolución de 27 de diciembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el III Convenio colectivo de Siemens Mobility, SLU.",
+                                                "url_pdf": {
+                                                    "szBytes": "848451",
+                                                    "szKBytes": "829",
+                                                    "pagina_inicial": "3992",
+                                                    "pagina_final": "4058",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-390.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-390",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-390"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9591",
+                                    "nombre": "MINISTERIO DE INDUSTRIA Y TURISMO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Ayudas",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-391",
+                                                "control": "2025/172",
+                                                "titulo": "Resolución de 3 de enero de 2025, de la Secretaría de Estado de Industria, por la que se publica el Acuerdo del Consejo de Ministros de 10 de diciembre de 2024, por el que se establece la actividad y el funcionamiento del mecanismo de financiación para las PYMES afectadas por la DANA. Mecanismo REINICIA+FEPYME DANA.",
+                                                "url_pdf": {
+                                                    "szBytes": "234077",
+                                                    "szKBytes": "229",
+                                                    "pagina_inicial": "4059",
+                                                    "pagina_final": "4065",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-391.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-391",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-391"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunitat Valenciana. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-392",
+                                                "control": "2025/174",
+                                                "titulo": "Resolución de 26 de diciembre de 2024, de la Presidencia de la Confederación Hidrográfica del Júcar, O.A., por la que se publica la Adenda de modificación del Convenio con la Universitat Politècnica de València, para la realización de prácticas académicas externas.",
+                                                "url_pdf": {
+                                                    "szBytes": "215382",
+                                                    "szKBytes": "210",
+                                                    "pagina_inicial": "4066",
+                                                    "pagina_final": "4068",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-392.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-392",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-392"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Impacto ambiental",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-393",
+                                                    "control": "2025/147",
+                                                    "titulo": "Resolución de 23 de diciembre de 2024, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Planta de almacenamiento de energía Broza Solar, de 10,9 MW, para la hibridación con el parque fotovoltaico Broza Solar, y su infraestructura de evacuación, en la provincia de Guadalajara».",
+                                                    "url_pdf": {
+                                                        "szBytes": "2263711",
+                                                        "szKBytes": "2211",
+                                                        "pagina_inicial": "4069",
+                                                        "pagina_final": "4077",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-393.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-393",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-393"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-394",
+                                                    "control": "2025/148",
+                                                    "titulo": "Resolución de 26 de diciembre de 2024, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Zona de almacenamiento controlado de escorrentía en el entorno de la rambla del Albujón o Fuente Álamo junto a la localidad de El Estrecho de Fuente Álamo, en el término municipal de Cartagena (Murcia)».",
+                                                    "url_pdf": {
+                                                        "szBytes": "234066",
+                                                        "szKBytes": "229",
+                                                        "pagina_inicial": "4078",
+                                                        "pagina_final": "4082",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-394.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-394",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-394"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Canarias. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-395",
+                                                "control": "2025/149",
+                                                "titulo": "Resolución de 30 de diciembre de 2024, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica la Adenda modificativa del Convenio con el Gobierno de Canarias, para la realización de actuaciones científico-técnicas en relación con la creación y puesta en marcha del «Laboratorio de Calidad del Aire de Canarias para el estudio de los aerosoles y las calimas de polvo desértico».",
+                                                "url_pdf": {
+                                                    "szBytes": "252438",
+                                                    "szKBytes": "247",
+                                                    "pagina_inicial": "4083",
+                                                    "pagina_final": "4087",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-395.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-395",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-395"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1020",
+                                    "nombre": "BANCO DE ESPAÑA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Mercado de divisas",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-396",
+                                                    "control": "2025/177",
+                                                    "titulo": "Resolución de 6 de enero de 2025, del Banco de España, por la que se publican los cambios del euro correspondientes al día 6 de enero de 2025, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+                                                    "url_pdf": {
+                                                        "szBytes": "216762",
+                                                        "szKBytes": "212",
+                                                        "pagina_inicial": "4088",
+                                                        "pagina_final": "4089",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-396.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-396",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-396"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-397",
+                                                    "control": "2025/178",
+                                                    "titulo": "Resolución de 7 de enero de 2025, del Banco de España, por la que se publican los cambios del euro correspondientes al día 7 de enero de 2025, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+                                                    "url_pdf": {
+                                                        "szBytes": "216901",
+                                                        "szKBytes": "212",
+                                                        "pagina_inicial": "4090",
+                                                        "pagina_final": "4091",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-397.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-397",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-397"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Préstamos hipotecarios. Índices",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-398",
+                                                "control": "2025/154",
+                                                "titulo": "Resolución de 2 de enero de 2025, del Banco de España, por la que se publican los índices y tipos de referencia aplicables para el cálculo del valor de mercado en la compensación por riesgo de tipo de interés de los préstamos hipotecarios, así como para el cálculo del diferencial que se ha de aplicar para la obtención del valor de mercado de los préstamos o créditos que se cancelan anticipadamente.",
+                                                "url_pdf": {
+                                                    "szBytes": "201270",
+                                                    "szKBytes": "197",
+                                                    "pagina_inicial": "4092",
+                                                    "pagina_final": "4092",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-398.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-398",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-398"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9534",
+                                    "nombre": "COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Telecomunicaciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-399",
+                                                "control": "2025/125",
+                                                "titulo": "Resolución de 27 de diciembre de 2024, de la Comisión Nacional de los Mercados y la Competencia, por la que se aprueba la determinación de la tasa anual de coste de capital a aplicar en la contabilidad de costes del ejercicio 2024 de Telefónica, y se acuerda su notificación a la Comisión Europea y al Organismo de Reguladores de Comunicaciones Electrónicas.",
+                                                "url_pdf": {
+                                                    "szBytes": "198250",
+                                                    "szKBytes": "194",
+                                                    "pagina_inicial": "4093",
+                                                    "pagina_final": "4094",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-399.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-399",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-399"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Planes de estudios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-400",
+                                                    "control": "2025/31",
+                                                    "titulo": "Resolución de 30 de julio de 2024, de la Universidad Católica San Antonio, por la que se publica el plan de estudios de Máster Universitario en Arquitectura.",
+                                                    "url_pdf": {
+                                                        "szBytes": "215437",
+                                                        "szKBytes": "210",
+                                                        "pagina_inicial": "4095",
+                                                        "pagina_final": "4096",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-400.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-400",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-400"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-401",
+                                                    "control": "2025/33",
+                                                    "titulo": "Resolución de 30 de julio de 2024, de la Universidad Católica San Antonio, por la que se publica el plan de estudios de Máster Universitario en Dirección Estratégica de Proyectos.",
+                                                    "url_pdf": {
+                                                        "szBytes": "220313",
+                                                        "szKBytes": "215",
+                                                        "pagina_inicial": "4097",
+                                                        "pagina_final": "4098",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-401.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-401",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-401"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-402",
+                                                    "control": "2025/35",
+                                                    "titulo": "Resolución de 30 de julio de 2024, de la Universidad Católica San Antonio, por la que se publica la modificación del plan de estudios de Máster Universitario en Desarrollo Social.",
+                                                    "url_pdf": {
+                                                        "szBytes": "214713",
+                                                        "szKBytes": "210",
+                                                        "pagina_inicial": "4099",
+                                                        "pagina_final": "4100",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-402.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-402",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-402"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-403",
+                                                    "control": "2025/36",
+                                                    "titulo": "Resolución de 30 de julio de 2024, de la Universidad Católica San Antonio, por la que se publica la modificación del plan de estudios de Máster Universitario en Diagnóstico por la Imagen en Cardiología.",
+                                                    "url_pdf": {
+                                                        "szBytes": "212980",
+                                                        "szKBytes": "208",
+                                                        "pagina_inicial": "4101",
+                                                        "pagina_final": "4102",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-403.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-403",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-403"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-404",
+                                                    "control": "2025/37",
+                                                    "titulo": "Resolución de 30 de julio de 2024, de la Universidad Católica San Antonio, por la que se publica la modificación del plan de estudios de Máster Universitario en Dirección de Hoteles y Empresas de Restauración/Master's Degree in Hospitality Management.",
+                                                    "url_pdf": {
+                                                        "szBytes": "221362",
+                                                        "szKBytes": "216",
+                                                        "pagina_inicial": "4103",
+                                                        "pagina_final": "4104",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-404.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-404",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-404"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-405",
+                                                    "control": "2025/46",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Universidad de Girona, por la que se publica el plan de estudios de Graduado o Graduada en Ciencias Políticas y de la Administración.",
+                                                    "url_pdf": {
+                                                        "szBytes": "287900",
+                                                        "szKBytes": "281",
+                                                        "pagina_inicial": "4105",
+                                                        "pagina_final": "4108",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-405.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-405",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-405"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-406",
+                                                    "control": "2025/47",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Universidad de Girona, por la que se publica el plan de estudios del Máster Universitario en Gestión Administrativa.",
+                                                    "url_pdf": {
+                                                        "szBytes": "212726",
+                                                        "szKBytes": "208",
+                                                        "pagina_inicial": "4109",
+                                                        "pagina_final": "4110",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-406.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-406",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-406"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-407",
+                                                    "control": "2025/48",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Universidad de Girona, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Criminología.",
+                                                    "url_pdf": {
+                                                        "szBytes": "326087",
+                                                        "szKBytes": "318",
+                                                        "pagina_inicial": "4111",
+                                                        "pagina_final": "4115",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-407.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-407",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-407"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-408",
+                                                    "control": "2025/49",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Universidad de Girona, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Derecho.",
+                                                    "url_pdf": {
+                                                        "szBytes": "373175",
+                                                        "szKBytes": "364",
+                                                        "pagina_inicial": "4116",
+                                                        "pagina_final": "4122",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-408.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-408",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-408"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-409",
+                                                    "control": "2025/50",
+                                                    "titulo": "Resolución de 20 de diciembre de 2024, de la Universidad de Girona, por la que se publica la modificación del plan de estudios de Máster Universitario en Abogacía y Procura.",
+                                                    "url_pdf": {
+                                                        "szBytes": "215582",
+                                                        "szKBytes": "211",
+                                                        "pagina_inicial": "4123",
+                                                        "pagina_final": "4124",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-A-2025-409.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-409",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-409"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5A",
+                            "nombre": "V. Anuncios. - A. Contratación del Sector Público",
+                            "departamento": [
+                                {
+                                    "codigo": "1220",
+                                    "nombre": "CORTES GENERALES",
+                                    "item": {
+                                        "identificador": "BOE-B-2025-355",
+                                        "titulo": "Anuncio de formalización de contratos de: Mesa del Congreso de los Diputados. Objeto: Suministro de energía eléctrica y gas natural para los edificios del Congreso de los Diputados. Expediente: CON-P2024/5200005.0.",
+                                        "url_pdf": {
+                                            "szBytes": "229827",
+                                            "szKBytes": "224",
+                                            "pagina_inicial": "601",
+                                            "pagina_final": "603",
+                                            "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-355.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-355",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-355"
+                                    }
+                                },
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-356",
+                                            "titulo": "Anuncio de licitación de: Junta de Contratación del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. Objeto: Servicio de asistencia sanitaria para el personal destinado en el exterior. Expediente: MPR20240256.",
+                                            "url_pdf": {
+                                                "szBytes": "233351",
+                                                "szKBytes": "228",
+                                                "pagina_inicial": "604",
+                                                "pagina_final": "607",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-356.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-356",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-356"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-357",
+                                            "titulo": "Anuncio de licitación de: Junta de Contratación del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. Objeto: Servicio de manipulación, clasificación, registro y envío de los documentos que se reciben en el Registro del Ministerio de la Presidencia, Justicia y relaciones con las Cortes. Expediente: ASE/2024/068.",
+                                            "url_pdf": {
+                                                "szBytes": "228341",
+                                                "szKBytes": "223",
+                                                "pagina_inicial": "608",
+                                                "pagina_final": "610",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-357.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-357",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-357"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-358",
+                                            "titulo": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Objeto: Asistencia técnica para la realización de servicios de consultoría en la oficina técnica de la Jefatura de servicios técnicos y ciberespacio. Expediente: 2024/EA15/00001634.",
+                                            "url_pdf": {
+                                                "szBytes": "222414",
+                                                "szKBytes": "217",
+                                                "pagina_inicial": "611",
+                                                "pagina_final": "613",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-358.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-358",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-358"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-359",
+                                            "titulo": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de medalla de campaña. Expediente: 2024/ETSAE0906/00004871E.",
+                                            "url_pdf": {
+                                                "szBytes": "219358",
+                                                "szKBytes": "214",
+                                                "pagina_inicial": "614",
+                                                "pagina_final": "615",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-359.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-359",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-359"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-360",
+                                            "titulo": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Suministro y mantenimiento de hardware / software de Equipos de Diagnosis Multimarca Multisistemas (EDMMS) de dotación en el Ejército de Tierra. Expediente: 2024/ETSAE0906/00004543E.",
+                                            "url_pdf": {
+                                                "szBytes": "220174",
+                                                "szKBytes": "215",
+                                                "pagina_inicial": "616",
+                                                "pagina_final": "617",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-360.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-360",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-360"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-361",
+                                            "titulo": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de estaciones sanitarias de descontaminación NBQ. Expediente: 2024/ETSAE0906/00003602E.",
+                                            "url_pdf": {
+                                                "szBytes": "218142",
+                                                "szKBytes": "213",
+                                                "pagina_inicial": "618",
+                                                "pagina_final": "619",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-361.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-361",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-361"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-362",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Andalucía, Ceuta y Melilla. Objeto: Servicio de limpieza integral de los edificios y centros de la Delegación de la AEAT de Granada. Expediente: 24180070100.",
+                                            "url_pdf": {
+                                                "szBytes": "217085",
+                                                "szKBytes": "212",
+                                                "pagina_inicial": "620",
+                                                "pagina_final": "621",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-362.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-362",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-362"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-363",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Andalucía, Ceuta y Melilla. Objeto: Limpieza integral de los edificios y centros dependientes de D.E. Andalucía, Ceuta y Melilla (Sede Sevilla) de la AEAT. Expediente: 24A10067700.",
+                                            "url_pdf": {
+                                                "szBytes": "216887",
+                                                "szKBytes": "212",
+                                                "pagina_inicial": "622",
+                                                "pagina_final": "623",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-363.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-363",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-363"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-364",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Andalucía, Ceuta y Melilla. Objeto: Servicio de limpieza integral de los edificios y centros de la Delegación de la AEAT de Ceuta. Expediente: 24550074400.",
+                                            "url_pdf": {
+                                                "szBytes": "215679",
+                                                "szKBytes": "211",
+                                                "pagina_inicial": "624",
+                                                "pagina_final": "625",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-364.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-364",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-364"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-365",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación de Economía y Hacienda en Pontevedra. Objeto: Servicio de Vigilancia y Seguridad del edificio de la Delegación de Economía y Hacienda en Pontevedra, calle Andrés Muruais nº 4, Pontevedra. Expediente: 0624POVIGIL.",
+                                            "url_pdf": {
+                                                "szBytes": "209554",
+                                                "szKBytes": "205",
+                                                "pagina_inicial": "626",
+                                                "pagina_final": "626",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-365.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-365",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-365"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-366",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación de Economía y Hacienda en Pontevedra. Objeto: Contratación de los servicios de limpieza, para el periodo de 1 de enero a 31 de diciembre de 2025, en el edificio de la Delegación de Economía y Hacienda, Gerencia Territorial del Catastro, calle Andrés Muruais nº 4, Pontevedra. Expediente: 0324POLIMP.",
+                                            "url_pdf": {
+                                                "szBytes": "215126",
+                                                "szKBytes": "210",
+                                                "pagina_inicial": "627",
+                                                "pagina_final": "628",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-366.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-366",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-366"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-367",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Navarra. Objeto: Servicio de limpieza de la Delegación Especial de la AEAT en Navarra. Expediente: 24B40083400.",
+                                            "url_pdf": {
+                                                "szBytes": "217942",
+                                                "szKBytes": "213",
+                                                "pagina_inicial": "629",
+                                                "pagina_final": "630",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-367.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-367",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-367"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-368",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Navarra. Objeto: mantenimiento de las instalaciones térmicas de los centros dependientes de la Delegación Especial de Navarra. Expediente: 24B40092400.",
+                                            "url_pdf": {
+                                                "szBytes": "217006",
+                                                "szKBytes": "212",
+                                                "pagina_inicial": "631",
+                                                "pagina_final": "632",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-368.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-368",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-368"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-369",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Navarra. Objeto: Mantenimiento Sistemas de seguridad y extintores edificios de la AEAT enNavarra. Expediente: 24B40094000.",
+                                            "url_pdf": {
+                                                "szBytes": "217156",
+                                                "szKBytes": "212",
+                                                "pagina_inicial": "633",
+                                                "pagina_final": "634",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-369.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-369",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-369"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-370",
+                                            "titulo": "Anuncio de formalización de contratos de: Gerencia de la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo, M.P. Objeto: Suministro de materias primas para la alimentación de los internos de los centros penitenciarios de Cuenca, Madrid III, Madrid VI y Madrid VII. Expediente: 2024/00036.",
+                                            "url_pdf": {
+                                                "szBytes": "241451",
+                                                "szKBytes": "236",
+                                                "pagina_inicial": "635",
+                                                "pagina_final": "638",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-370.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-370",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-370"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-371",
+                                            "titulo": "Anuncio de licitación de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Contratación de consumibles pago por uso para 119 impresoras multifuncionales Xerox Versalink C405, años 2025 - 2028. Expediente: Z25IN002/V10.",
+                                            "url_pdf": {
+                                                "szBytes": "225251",
+                                                "szKBytes": "220",
+                                                "pagina_inicial": "639",
+                                                "pagina_final": "641",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-371.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-371",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-371"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-372",
+                                            "titulo": "Anuncio de formalización de contratos de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Adquisición de reactivos y fungibles de la marca LIFE TECHNOLOGIES para laboratorios de Biología- ADN de la Comisaría General de Policía Científica. Expediente: Z24PC012/M10.",
+                                            "url_pdf": {
+                                                "szBytes": "218626",
+                                                "szKBytes": "214",
+                                                "pagina_inicial": "642",
+                                                "pagina_final": "643",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-372.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-372",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-372"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-373",
+                                            "titulo": "Anuncio de formalización de contratos de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: adquisición de material fungible específico de la marca QIAGEN para el Laboratorio de Biología-ADN de la Comisaría General de Policía Científica y sus Laboratorios Territoriales dependientes. Expediente: Z24PC013/M10.",
+                                            "url_pdf": {
+                                                "szBytes": "215044",
+                                                "szKBytes": "210",
+                                                "pagina_inicial": "644",
+                                                "pagina_final": "645",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-373.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-373",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-373"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-374",
+                                            "titulo": "Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicios de asistencia técnica para el control y vigilancia en la ejecución de la obra de sustitución de traviesas RS por monobloque en 75,912 kms, en el distrito de Tardienta. Expediente: 3.23/27507.0215.",
+                                            "url_pdf": {
+                                                "szBytes": "217840",
+                                                "szKBytes": "213",
+                                                "pagina_inicial": "646",
+                                                "pagina_final": "647",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-374.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-374",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-374"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-375",
+                                            "titulo": "Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicio de inspección en instalaciones de combustible de ADIF por OCA 2025-2029. Expediente: 2.24/23108.0136.",
+                                            "url_pdf": {
+                                                "szBytes": "233282",
+                                                "szKBytes": "228",
+                                                "pagina_inicial": "648",
+                                                "pagina_final": "650",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-375.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-375",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-375"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-376",
+                                            "titulo": "Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Suministro e instalacion de equipamiento para la red ip de explotación en Galicia. Expediente: 3.24/27510.0095.",
+                                            "url_pdf": {
+                                                "szBytes": "217162",
+                                                "szKBytes": "212",
+                                                "pagina_inicial": "651",
+                                                "pagina_final": "652",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-376.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-376",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-376"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-377",
+                                            "titulo": "Anuncio de licitación de: ADIF Alta Velocidad - Consejo de Administración. Objeto: Realizacion de pruebas de infraestructura con material rodante de ancho estandar (1435) (4 lotes). Expediente: 3.24/20810.0048.",
+                                            "url_pdf": {
+                                                "szBytes": "228309",
+                                                "szKBytes": "223",
+                                                "pagina_inicial": "653",
+                                                "pagina_final": "655",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-377.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-377",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-377"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-378",
+                                            "titulo": "Anuncio de formalización de contratos de: ADIF -Consejo de Administración. Objeto: Acuerdo marco de suministro y transporte de carril con destino a las actuaciones para la adecuacion de las autopistas ferroviarias en los ambitos noreste y centro y ampliación de vias de apartado de Humanes de Mohernando, Jadraque,Arcos de Jalón y Sigüenza. Expediente: 3.24/27510.0099.",
+                                            "url_pdf": {
+                                                "szBytes": "219079",
+                                                "szKBytes": "214",
+                                                "pagina_inicial": "656",
+                                                "pagina_final": "657",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-378.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-378",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-378"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-379",
+                                            "titulo": "Anuncio de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias (ADIF), por el que se comunica la nueva fecha de apertura de ofertas económicas del procedimiento de contratación de \"Adquisición de licencias sobre software CDN\". (Expediente: 3.24/41110.0162).",
+                                            "url_pdf": {
+                                                "szBytes": "202023",
+                                                "szKBytes": "197",
+                                                "pagina_inicial": "658",
+                                                "pagina_final": "658",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-379.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-379",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-379"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-380",
+                                            "titulo": "Anuncio de licitación de: Secretaría de Estado de Medio Ambiente. Objeto: Cambio a tecnología LED de los sistemas de alumbrado de las presas y sus poblados de la zona de Córdoba e instalaciones eléctricas asociadas, en el marco del Plan de Recuperación, Transformación y Resiliencia (PRTR). Expediente: P04.C11.I4.P02.S09.A04.01.",
+                                            "url_pdf": {
+                                                "szBytes": "239317",
+                                                "szKBytes": "234",
+                                                "pagina_inicial": "659",
+                                                "pagina_final": "662",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-380.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-380",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-380"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-381",
+                                            "titulo": "Anuncio de licitación de: Dirección General de Biodiversidad, Bosques y Desertificación. Objeto: Servicio con medios aéreos de apoyo a las Comunidades Autónomas en la extinción de incendios forestales. Años 2025, 2026 y 2027. Expediente: 24PFSV214.",
+                                            "url_pdf": {
+                                                "szBytes": "252212",
+                                                "szKBytes": "246",
+                                                "pagina_inicial": "663",
+                                                "pagina_final": "668",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-381.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-381",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-381"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+                                    "item": {
+                                        "identificador": "BOE-B-2025-382",
+                                        "titulo": "Anuncio de formalización de contratos de: Instituto Nacional de Estadística INE. Objeto: Recogida de la Encuesta de Condiciones de Vida en 2025. Expediente: 2024N0059015.",
+                                        "url_pdf": {
+                                            "szBytes": "217660",
+                                            "szKBytes": "213",
+                                            "pagina_inicial": "669",
+                                            "pagina_final": "670",
+                                            "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-382.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-382",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-382"
+                                    }
+                                },
+                                {
+                                    "codigo": "4335",
+                                    "nombre": "MINISTERIO DE SANIDAD",
+                                    "item": {
+                                        "identificador": "BOE-B-2025-383",
+                                        "titulo": "Anuncio de formalización de contratos de: Gerencia de Atención Sanitaria del Instituto Nacional de Gestión Sanitaria en Ceuta. Objeto: Suministro de medicamentos . Expediente: PNSP/2024/013/GCE.",
+                                        "url_pdf": {
+                                            "szBytes": "219133",
+                                            "szKBytes": "214",
+                                            "pagina_inicial": "671",
+                                            "pagina_final": "672",
+                                            "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-383.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-383",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-383"
+                                    }
+                                },
+                                {
+                                    "codigo": "9588",
+                                    "nombre": "MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030",
+                                    "item": {
+                                        "identificador": "BOE-B-2025-384",
+                                        "titulo": "Anuncio de formalización de contratos de: Subdirección General de la Oficina Presupuestaria y Gestión Económica. Objeto: Servicio de asistencia técnica para llevar a cabo un estudio cualitativo de discurso en la opinión pública sobre el cambio de modelo de cuidados de larga duración del Sistema para la Autonomía y Atención a la Dependencia (SAAD): un proceso de desinstitucionalización. plan de recuperación, transformación y resiliencia-financiado por la unión europea-Next Generation UE. Expediente: 242950PSS001.",
+                                        "url_pdf": {
+                                            "szBytes": "218263",
+                                            "szKBytes": "213",
+                                            "pagina_inicial": "673",
+                                            "pagina_final": "674",
+                                            "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-384.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-384",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-384"
+                                    }
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-385",
+                                            "titulo": "Anuncio de formalización de contratos de: Consorcio IFMIF-DONES España. Objeto: Suministro de licencias de software y servicios de diseño, implementación, configuración y actualización de un sistema de gestión de ciclo de vida de producto (PLM) en el proyecto IFMIF-DONES. Expediente: esDONES/2024/0001.",
+                                            "url_pdf": {
+                                                "szBytes": "227235",
+                                                "szKBytes": "222",
+                                                "pagina_inicial": "675",
+                                                "pagina_final": "677",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-385.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-385",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-385"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-386",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección del Instituto de Salud Carlos III. Objeto: Servicio de asistencia y consultoría especializada para la externalización del cargo de Delegado de Protección de Datos en el ISCIII. Expediente: GG0039/2024.",
+                                            "url_pdf": {
+                                                "szBytes": "219060",
+                                                "szKBytes": "214",
+                                                "pagina_inicial": "678",
+                                                "pagina_final": "679",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-386.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-386",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-386"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-387",
+                                            "titulo": "Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Suministro periódico de CO2 licuado y arrendamiento de un tanque de 6.000 litros para el Centro de Investigaciones Interdisciplinares de Alcalá (CI2A‐CSIC). Expediente: 32953/24.",
+                                            "url_pdf": {
+                                                "szBytes": "217783",
+                                                "szKBytes": "213",
+                                                "pagina_inicial": "680",
+                                                "pagina_final": "681",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-387.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-387",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-387"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-388",
+                                            "titulo": "Anuncio de formalización de contratos de: TGSS-Dirección provincial de Cuenca. Objeto: Servicio de organización y gestión del archivo-almacén de la Dirección Provincial de Cuenca. Expediente: 2024/160022.",
+                                            "url_pdf": {
+                                                "szBytes": "214205",
+                                                "szKBytes": "209",
+                                                "pagina_inicial": "682",
+                                                "pagina_final": "683",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-388.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-388",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-388"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-389",
+                                            "titulo": "Anuncio de formalización de contratos de: INSS-Dirección Provincial de Málaga. Objeto: Prórroga del ejercicio 2025 por interposición de recurso especial (Del 1/1/25 AL 30/9/25 o hasta el último día del mes en que se realice la formalización del nuevo contrato con Nº Expte 29/VC 258/2024), cuyo objeto son los Servicios de Vigilancia y Seguridad tanto en el edificio sede de la Dirección Provincial del INSS de Málaga como en sus centros dependientes. Expediente: 29 PR 1/24 VC 328/2023.",
+                                            "url_pdf": {
+                                                "szBytes": "211387",
+                                                "szKBytes": "206",
+                                                "pagina_inicial": "684",
+                                                "pagina_final": "684",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-389.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-389",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-389"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "item": {
+                                        "identificador": "BOE-B-2025-390",
+                                        "titulo": "Anuncio de formalización de contratos de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de elaboración, análisis, y publicación de los informes anuales 2023 y 2024. Expediente: 004/24-DG.",
+                                        "url_pdf": {
+                                            "szBytes": "217380",
+                                            "szKBytes": "212",
+                                            "pagina_inicial": "685",
+                                            "pagina_final": "686",
+                                            "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-390.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-390",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-390"
+                                    }
+                                },
+                                {
+                                    "codigo": "9534",
+                                    "nombre": "COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA",
+                                    "item": {
+                                        "identificador": "BOE-B-2025-391",
+                                        "titulo": "Anuncio de formalización de contratos de: Secretaría General de la Comisión Nacional de los Mercados y la Competencia. Objeto: Servicio de gestión de residuos para la sede de Madrid de la CNMC. Expediente: 240210.",
+                                        "url_pdf": {
+                                            "szBytes": "215774",
+                                            "szKBytes": "211",
+                                            "pagina_inicial": "687",
+                                            "pagina_final": "688",
+                                            "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-391.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-391",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-391"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5B",
+                            "nombre": "V. Anuncios. - B. Otros anuncios oficiales",
+                            "departamento": [
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-392",
+                                            "titulo": "Resolución de la Autoridad Portuaria de Santander por la que se convoca el concurso para la adjudicación de la licencia para prestar el servicio portuario de practicaje en el Puerto de Santander.",
+                                            "url_pdf": {
+                                                "szBytes": "202771",
+                                                "szKBytes": "198",
+                                                "pagina_inicial": "689",
+                                                "pagina_final": "689",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-392.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-392",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-392"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-393",
+                                            "titulo": "Anuncio de la Autoridad Portuaria de Santa Cruz de Tenerife, referente al convenio suscrito entre la Autoridad Portuaria de Santa Cruz de Tenerife y el Ministerio de Agricultura, Pesca y Alimentación.",
+                                            "url_pdf": {
+                                                "szBytes": "203305",
+                                                "szKBytes": "199",
+                                                "pagina_inicial": "690",
+                                                "pagina_final": "690",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-393.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-393",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-393"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9593",
+                                    "nombre": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-394",
+                                            "titulo": "Anuncio del Área de Industria y Energía de la Subdelegación del Gobierno en Huesca por el que se somete a información pública la solicitud de Autorización Administrativa Previa y Declaración de Impacto Ambiental del expediente PFot-1144 AC que comprende los proyectos de los Parques fotovoltaicos Atria (32,74 MWins), Avior (32,74 MWins) y Gondul (22,92 MWins), junto con su infraestructura de evacuación, en la provincia de Huesca.",
+                                            "url_pdf": {
+                                                "szBytes": "217120",
+                                                "szKBytes": "212",
+                                                "pagina_inicial": "691",
+                                                "pagina_final": "693",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-394.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-394",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-394"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-395",
+                                            "titulo": "Anuncio del Área de Industria y Energía de la Subdelegación del Gobierno en Huesca por el que se somete a información pública la solicitud de Autorización Administrativa Previa y Declaración de Impacto Ambiental del expediente PFot-1136 AC que comprende los parques fotovoltaicos Bor (22,92 MWins), Berilio (29,47 MWins), Olrun (22,92 MWins), y Uror (27,83 MWins), junto con sus infraestructuras de evacuación, en la provincia de Huesca.",
+                                            "url_pdf": {
+                                                "szBytes": "218607",
+                                                "szKBytes": "213",
+                                                "pagina_inicial": "694",
+                                                "pagina_final": "696",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-395.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-395",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-395"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-396",
+                                            "titulo": "Anuncio del Área de Industria y Energía de la Subdelegación del Gobierno en Huesca por el que se somete a información pública la solicitud de Autorización Administrativa Previa y Declaración de Impacto Ambiental del expediente PFot-1140 AC que comprende los proyectos de los Parques fotovoltaicos GLEN (19,64 MWins), KARA (22,92 MWins), BURI (22,92 MWins), y MAGNÉTICA (22,92 MWins), junto con su infraestructura de evacuación, en la provincia de Huesca.",
+                                            "url_pdf": {
+                                                "szBytes": "218328",
+                                                "szKBytes": "213",
+                                                "pagina_inicial": "697",
+                                                "pagina_final": "699",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-396.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-396",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-396"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-397",
+                                            "titulo": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Júcar sobre resolución de concesión de aguas subterráneas en el término municipal de Castelló (Valencia), expediente 2016CP0099.",
+                                            "url_pdf": {
+                                                "szBytes": "202990",
+                                                "szKBytes": "198",
+                                                "pagina_inicial": "700",
+                                                "pagina_final": "700",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-397.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-397",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-397"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-398",
+                                            "titulo": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico de información pública de procedimiento de concesión de aguas en el término municipal de Becerreá (Lugo). A/27/24520.",
+                                            "url_pdf": {
+                                                "szBytes": "204154",
+                                                "szKBytes": "199",
+                                                "pagina_inicial": "701",
+                                                "pagina_final": "701",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-398.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-398",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-398"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-399",
+                                            "titulo": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Júcar sobre resolución de concesión de aguas subterráneas en término municipal de Traiguera (Castellón), expediente 2022CP0066.",
+                                            "url_pdf": {
+                                                "szBytes": "202567",
+                                                "szKBytes": "198",
+                                                "pagina_inicial": "702",
+                                                "pagina_final": "702",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-399.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-399",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-399"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-400",
+                                            "titulo": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico de información pública de procedimiento de concesión de aguas en el término municipal de Gijón (Asturias). A/33/48390.",
+                                            "url_pdf": {
+                                                "szBytes": "204377",
+                                                "szKBytes": "200",
+                                                "pagina_inicial": "703",
+                                                "pagina_final": "703",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-400.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-400",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-400"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-401",
+                                            "titulo": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Júcar sobre resolución de concesión de aguas subterráneas en el término municipal de Fuenterrobles (Valencia), expediente 2020CP0119.",
+                                            "url_pdf": {
+                                                "szBytes": "202883",
+                                                "szKBytes": "198",
+                                                "pagina_inicial": "704",
+                                                "pagina_final": "704",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-401.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-401",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-401"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-402",
+                                            "titulo": "Anuncio de la Dirección General de la Costa y el Mar, en procedimiento de deslinde aprobado por la Orden Ministerial de 20 de diciembre de 2024, del tramo de costa de unos tres mil quinientos (3.500) metros de longitud, comprendido entre la margen izquierda del río Molinell (vértice M-168 del deslinde aprobado por Orden Ministerial de 29 de junio de 2006) y Carrer Riu Xinxilla (vértice M-5 del deslinde aprobado por Orden Ministerial de 31 de marzo de 1997), en el entorno de la Playa de Les Deveses (tramo 1), en el término municipal de Denia (Alicante). Refª. DES01/21/03/0001.",
+                                            "url_pdf": {
+                                                "szBytes": "303588",
+                                                "szKBytes": "296",
+                                                "pagina_inicial": "705",
+                                                "pagina_final": "720",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-402.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-402",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-402"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+                                    "item": {
+                                        "identificador": "BOE-B-2025-403",
+                                        "titulo": "Extracto de la Resolución del Instituto Nacional de Estadística, por la que se convocan becas de postgrado en estadística para el año 2025.",
+                                        "url_pdf": {
+                                            "szBytes": "209541",
+                                            "szKBytes": "205",
+                                            "pagina_inicial": "721",
+                                            "pagina_final": "722",
+                                            "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-403.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-403",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-403"
+                                    }
+                                },
+                                {
+                                    "codigo": "8010",
+                                    "nombre": "COMUNIDAD AUTÓNOMA DE ANDALUCÍA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-404",
+                                            "titulo": "Anuncio de la Delegación Territorial de Economía, Hacienda y Fondos Europeos y de Industria, Energía y Minas en Córdoba, por el que se someten a información pública conjunta los proyectos denominados: Reforma de línea área de media tensión a 20 kV denominada \"Presa_Vill\" entre el apoyo A508616 y el apoyo A508618 procedente de la Subestación \"Pte_Nuev\" situados en el paraje El Búfalo, en el término municipal de Villaviciosa de Córdoba (Córdoba) (Proyecto n.º 1) y Nuevo tramo y reforma de paso a doble circuito en la línea de media tensión a 20 kV denominada \"Presa-Vill\" entre los apoyos A508616 y A508626X situados en el paraje El Búfalo, El Trompo, Solana del Sacristán, Puente Nuevo y Cerro del Álamo, en los términos municipales de Villaviciosa de Córdoba y Espiel (Córdoba) (Proyecto n.º 2), a efectos de autorización administrativa previa, autorización administrativa de construcción y declaración, en concreto, de utilidad pública.",
+                                            "url_pdf": {
+                                                "szBytes": "276118",
+                                                "szKBytes": "270",
+                                                "pagina_inicial": "723",
+                                                "pagina_final": "726",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-404.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-404",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-404"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-405",
+                                            "titulo": "Anuncio de la Delegación Territorial de Economía, Hacienda y Fondos Europeos y de Industria, Energía y Minas en Cádiz, por el que se somete a Información Pública la Autorización Administrativa Previa y Autorización Administrativa de Construcción del proyecto modificado, y la Declaración en concreto de Utilidad Pública de la Instalación Eléctrica de Alta Tensión \"PSFV MARCHENILLA VII\" de 41 MW de potencia instalada y 41 MW de potencia de evacuación.",
+                                            "url_pdf": {
+                                                "szBytes": "368451",
+                                                "szKBytes": "360",
+                                                "pagina_inicial": "727",
+                                                "pagina_final": "735",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-405.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-405",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-405"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "8020",
+                                    "nombre": "COMUNIDAD AUTÓNOMA DE ARAGÓN",
+                                    "item": {
+                                        "identificador": "BOE-B-2025-406",
+                                        "titulo": "Anuncio del Servicio Provincial de Zaragoza del Departamento de Presidencia, Economía y Justicia del Gobierno de Aragón relativo a la admisión definitiva de la solicitud del permiso de investigación \"Arás\", nº 3.566, para todas las sustancias de la Sección C), con especial atención al cobre y sus mineralizaciones, así como a cualquier otra mineralización metálica asociada, sobre 91 cuadrículas mineras ubicadas en el término municipal de Sos del Rey Católico (Zaragoza).",
+                                        "url_pdf": {
+                                            "szBytes": "210588",
+                                            "szKBytes": "206",
+                                            "pagina_inicial": "736",
+                                            "pagina_final": "736",
+                                            "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-406.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-406",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-406"
+                                    }
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-407",
+                                            "titulo": "Anuncio del Servicio de Títulos, Becas y Ayudas al Estudiante de la Universidad Rey Juan Carlos sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "200514",
+                                                "szKBytes": "196",
+                                                "pagina_inicial": "737",
+                                                "pagina_final": "737",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-407.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-407",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-407"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-408",
+                                            "titulo": "Anuncio de la Facultad de Economía de la Universidad de Valencia sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "199814",
+                                                "szKBytes": "195",
+                                                "pagina_inicial": "738",
+                                                "pagina_final": "738",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-408.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-408",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-408"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9536",
+                                    "nombre": "OTROS ENTES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2025-409",
+                                            "titulo": "Anuncio de la Comunidad de Regantes San Isidro y Realengo sobre convocatoria de Junta.",
+                                            "url_pdf": {
+                                                "szBytes": "203247",
+                                                "szKBytes": "198",
+                                                "pagina_inicial": "739",
+                                                "pagina_final": "739",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-409.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-409",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-409"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-410",
+                                            "titulo": "Anuncio de la Comunidad de Regantes Acequia de Güines (en formación) sobre convocatoria de Junta.",
+                                            "url_pdf": {
+                                                "szBytes": "201748",
+                                                "szKBytes": "197",
+                                                "pagina_inicial": "740",
+                                                "pagina_final": "740",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-410.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-410",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-410"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-411",
+                                            "titulo": "Anuncio de la Comunidad de Regantes Pozos de la Serretilla de Pedralba -Villamarchante sobre convocatoria de Junta General Extraordinaria.",
+                                            "url_pdf": {
+                                                "szBytes": "203630",
+                                                "szKBytes": "199",
+                                                "pagina_inicial": "741",
+                                                "pagina_final": "741",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-411.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-411",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-411"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-412",
+                                            "titulo": "Anuncio de la Comunidad de Regantes Heredamiento de aguas de Ceutí sobre convocatoria de Junta.",
+                                            "url_pdf": {
+                                                "szBytes": "200582",
+                                                "szKBytes": "196",
+                                                "pagina_inicial": "742",
+                                                "pagina_final": "742",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-412.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-412",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-412"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-413",
+                                            "titulo": "Anuncio de la Comunidad de Regantes Acequia Alguaire Toma 2.2 de Almenar sobre convocatoria de Asamblea General Extraordinaria.",
+                                            "url_pdf": {
+                                                "szBytes": "201458",
+                                                "szKBytes": "197",
+                                                "pagina_inicial": "743",
+                                                "pagina_final": "743",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-413.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-413",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-413"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-414",
+                                            "titulo": "Anuncio de la Comunidad de Regantes Canal Margen Derecha del Tera sobre convocatoria de Junta.",
+                                            "url_pdf": {
+                                                "szBytes": "200557",
+                                                "szKBytes": "196",
+                                                "pagina_inicial": "744",
+                                                "pagina_final": "744",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-414.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-414",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-414"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-415",
+                                            "titulo": "Anuncio de la Comunidad de Regantes: Comunidad de Aguas de la parroquia de Cantoña sobre convocatoria de Junta.",
+                                            "url_pdf": {
+                                                "szBytes": "200664",
+                                                "szKBytes": "196",
+                                                "pagina_inicial": "745",
+                                                "pagina_final": "745",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-415.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-415",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-415"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2025-416",
+                                            "titulo": "Anuncio de la Comunidad General de Regantes del Establecimiento de Camarera sobre convocatoria de Junta.",
+                                            "url_pdf": {
+                                                "szBytes": "202133",
+                                                "szKBytes": "197",
+                                                "pagina_inicial": "746",
+                                                "pagina_final": "746",
+                                                "texto": "https://www.boe.es/boe/dias/2025/01/08/pdfs/BOE-B-2025-416.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-416",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-416"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

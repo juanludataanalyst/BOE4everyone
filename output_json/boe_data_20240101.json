@@ -1,0 +1,1589 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20240101"
+            },
+            "diario": [
+                {
+                    "numero": "1",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2024-1",
+                        "url_pdf": {
+                            "szBytes": "291164",
+                            "szKBytes": "284",
+                            "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-S-2024-1.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-1",
+                                                "control": "2023/26717",
+                                                "titulo": "Resolución de 21 de diciembre de 2023, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 13 de noviembre de 2023.",
+                                                "url_pdf": {
+                                                    "szBytes": "197747",
+                                                    "szKBytes": "193",
+                                                    "pagina_inicial": "1",
+                                                    "pagina_final": "2",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-1.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-1",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-1"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-2",
+                                                    "control": "2023/26593",
+                                                    "titulo": "Resolución de 21 de diciembre de 2023, de la Universidad de Murcia, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190664",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "3",
+                                                        "pagina_final": "3",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-2.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-2",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-2"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-3",
+                                                    "control": "2023/26597",
+                                                    "titulo": "Resolución de 22 de diciembre de 2023, conjunta de la Universidad de Oviedo y el Servicio de Salud del Principado de Asturias, por la que se nombra Profesor Titular de Universidad, con plaza vinculada, a don Gonzalo Solís Sánchez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192176",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "4",
+                                                        "pagina_final": "4",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-3.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-3",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-3"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-4",
+                                                    "control": "2023/26598",
+                                                    "titulo": "Resolución de 22 de diciembre de 2023, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad a don Pedro Cuesta Valiño.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191330",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "5",
+                                                        "pagina_final": "5",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-4.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-4",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-4"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-5",
+                                                    "control": "2023/26599",
+                                                    "titulo": "Resolución de 22 de diciembre de 2023, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad a don Ignacio Valiente Blanco.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191880",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "6",
+                                                        "pagina_final": "6",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-5.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-5",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-5"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "9562",
+                                    "nombre": "MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de la Administración del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-6",
+                                                "control": "2023/26914",
+                                                "titulo": "Resolución de 26 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "251641",
+                                                    "szKBytes": "246",
+                                                    "pagina_inicial": "7",
+                                                    "pagina_final": "10",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-6.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de la Administración del Estado",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-7",
+                                                    "control": "2023/27016",
+                                                    "titulo": "Orden PJC/1428/2023, de 27 de diciembre, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "284881",
+                                                        "szKBytes": "278",
+                                                        "pagina_inicial": "11",
+                                                        "pagina_final": "13",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-7.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-7",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-7"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-8",
+                                                    "control": "2023/26916",
+                                                    "titulo": "Resolución de 27 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "331469",
+                                                        "szKBytes": "324",
+                                                        "pagina_inicial": "14",
+                                                        "pagina_final": "17",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-8.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de la Administración del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-9",
+                                                "control": "2023/26603",
+                                                "titulo": "Resolución 400/38508/2023, de 21 de diciembre, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "263387",
+                                                    "szKBytes": "257",
+                                                    "pagina_inicial": "18",
+                                                    "pagina_final": "21",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-9.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-9",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-9"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Funcionarios de las Administraciones Públicas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-10",
+                                                "control": "2023/26604",
+                                                "titulo": "Resolución 400/38509/2023, de 21 de diciembre, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "237624",
+                                                    "szKBytes": "232",
+                                                    "pagina_inicial": "22",
+                                                    "pagina_final": "24",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-10.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-10",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-10"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9279",
+                                    "nombre": "MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de administración local con habilitación de carácter nacional",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-11",
+                                                    "control": "2023/26344",
+                                                    "titulo": "Resolución de 19 de diciembre de 2023, de la Dirección General de la Función Pública, por la que se publica la convocatoria para la provisión de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "197326",
+                                                        "szKBytes": "193",
+                                                        "pagina_inicial": "25",
+                                                        "pagina_final": "26",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-11.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-11",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-11"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-12",
+                                                    "control": "2023/26729",
+                                                    "titulo": "Resolución de 26 de diciembre de 2023, de la Dirección General de la Función Pública, por la que se publica la convocatoria para la provisión de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "197039",
+                                                        "szKBytes": "192",
+                                                        "pagina_inicial": "27",
+                                                        "pagina_final": "28",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-12.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-12",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-12"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de la Administración del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-13",
+                                                "control": "2023/26461",
+                                                "titulo": "Resolución de 18 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "275457",
+                                                    "szKBytes": "269",
+                                                    "pagina_inicial": "29",
+                                                    "pagina_final": "32",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-13.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-13",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-13"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de la Administración del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-14",
+                                                "control": "2023/26462",
+                                                "titulo": "Resolución de 18 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "251653",
+                                                    "szKBytes": "246",
+                                                    "pagina_inicial": "33",
+                                                    "pagina_final": "36",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-14.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-14",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-14"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de la Administración del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-15",
+                                                "control": "2023/26607",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "218911",
+                                                    "szKBytes": "214",
+                                                    "pagina_inicial": "37",
+                                                    "pagina_final": "39",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-15.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-15",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-15"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9593",
+                                    "nombre": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de las Administraciones Públicas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16",
+                                                "control": "2023/26609",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "368685",
+                                                    "szKBytes": "360",
+                                                    "pagina_inicial": "40",
+                                                    "pagina_final": "43",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-16.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de la Administración del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17",
+                                                "control": "2023/26345",
+                                                "titulo": "Resolución de 19 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "241055",
+                                                    "szKBytes": "235",
+                                                    "pagina_inicial": "44",
+                                                    "pagina_final": "47",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-17.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4335",
+                                    "nombre": "MINISTERIO DE SANIDAD",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de la Administración del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-18",
+                                                "control": "2023/26465",
+                                                "titulo": "Resolución de 20 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "248518",
+                                                    "szKBytes": "243",
+                                                    "pagina_inicial": "48",
+                                                    "pagina_final": "50",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-18.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-18",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-18"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Funcionarios de las Administraciones Públicas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-19",
+                                                "control": "2023/26466",
+                                                "titulo": "Resolución de 20 de diciembre de 2023, de la Secretaría de Estado de Sanidad, por la que se convoca provisión de puesto de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "240537",
+                                                    "szKBytes": "235",
+                                                    "pagina_inicial": "51",
+                                                    "pagina_final": "53",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-19.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-19",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-19"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9588",
+                                    "nombre": "MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de las Administraciones Públicas",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-20",
+                                                    "control": "2023/26467",
+                                                    "titulo": "Orden DCA/1429/2023, de 19 de diciembre, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "320977",
+                                                        "szKBytes": "313",
+                                                        "pagina_inicial": "54",
+                                                        "pagina_final": "56",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-20.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-20",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-20"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-21",
+                                                    "control": "2023/26202",
+                                                    "titulo": "Resolución de 18 de diciembre de 2023, de la Secretaría de Estado de Derechos Sociales y Agenda 2030, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "248937",
+                                                        "szKBytes": "243",
+                                                        "pagina_inicial": "57",
+                                                        "pagina_final": "59",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-21.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-21",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-21"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de las Administraciones Públicas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-22",
+                                                "control": "2023/26610",
+                                                "titulo": "Resolución de 15 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación, en el Instituto de Salud Carlos III.",
+                                                "url_pdf": {
+                                                    "szBytes": "253421",
+                                                    "szKBytes": "247",
+                                                    "pagina_inicial": "60",
+                                                    "pagina_final": "64",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-22.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-22",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-22"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Funcionarios de los Subgrupos A1, A2, C1 y C2",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-23",
+                                                "control": "2023/26922",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, de la Dirección de la Agencia Estatal Agencia Espacial Española, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+                                                "url_pdf": {
+                                                    "szBytes": "701621",
+                                                    "szKBytes": "685",
+                                                    "pagina_inicial": "65",
+                                                    "pagina_final": "98",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-23.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-23",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-23"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de la Administración del Estado",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-24",
+                                                    "control": "2023/25923",
+                                                    "titulo": "Resolución de 13 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "223466",
+                                                        "szKBytes": "218",
+                                                        "pagina_inicial": "99",
+                                                        "pagina_final": "101",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-24.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25",
+                                                    "control": "2023/27024",
+                                                    "titulo": "Resolución de 26 de diciembre de 2023, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "284168",
+                                                        "szKBytes": "278",
+                                                        "pagina_inicial": "102",
+                                                        "pagina_final": "104",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-25.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-26",
+                                                    "control": "2023/26352",
+                                                    "titulo": "Resolución de 12 de diciembre de 2023, del Ayuntamiento de Parla (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190827",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105",
+                                                        "pagina_final": "105",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-26.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27",
+                                                    "control": "2023/26770",
+                                                    "titulo": "Resolución de 22 de diciembre de 2023, del Ayuntamiento de Ourense, referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190598",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106",
+                                                        "pagina_final": "106",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-27.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-27",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-27"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-28",
+                                                    "control": "2023/26771",
+                                                    "titulo": "Resolución de 22 de diciembre de 2023, del Consorcio para el Servicio de Prevención y Extinción de Incendios y de Salvamento de la Provincia de Valencia, referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190866",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "107",
+                                                        "pagina_final": "107",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-28.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-28",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-28"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-29",
+                                                    "control": "2023/26945",
+                                                    "titulo": "Resolución de 26 de diciembre de 2023, del Ayuntamiento de Albacete, referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190487",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "108",
+                                                        "pagina_final": "108",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-29.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-29",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-29"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-30",
+                                                    "control": "2023/26619",
+                                                    "titulo": "Resolución de 10 de octubre de 2023, de la Mancomunidad del Interior, Tierra del Vino (Valencia), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191743",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "109",
+                                                        "pagina_final": "109",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-30.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-30",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-30"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-31",
+                                                    "control": "2023/26621",
+                                                    "titulo": "Resolución de 11 de diciembre de 2023, del Ayuntamiento de Gualchos (Granada), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190612",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "110",
+                                                        "pagina_final": "110",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-31.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-31",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-31"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-32",
+                                                    "control": "2023/26622",
+                                                    "titulo": "Resolución de 13 de diciembre de 2023, del Ayuntamiento de Cádiz, Instituto de Fomento, Formación y Empleo, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190182",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "111",
+                                                        "pagina_final": "111",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-32.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-32",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-32"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-33",
+                                                    "control": "2023/26623",
+                                                    "titulo": "Resolución de 13 de diciembre de 2023, del Ayuntamiento de Villajoyosa (Alicante), Organismo Autónomo Local Parra Conca, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190593",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "112",
+                                                        "pagina_final": "112",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-33.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-33",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-33"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-34",
+                                                    "control": "2023/26624",
+                                                    "titulo": "Resolución de 14 de diciembre de 2023, del Ayuntamiento de Cuenca de Campos (Valladolid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190638",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "113",
+                                                        "pagina_final": "113",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-34.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-34",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-34"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-35",
+                                                    "control": "2023/26627",
+                                                    "titulo": "Resolución de 18 de diciembre de 2023, del Ayuntamiento de La Codosera (Badajoz), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191699",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "114",
+                                                        "pagina_final": "114",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-35.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-35",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-35"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-36",
+                                                    "control": "2023/26628",
+                                                    "titulo": "Resolución de 19 de diciembre de 2023, del Ayuntamiento de Tortosa (Tarragona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190778",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "115",
+                                                        "pagina_final": "115",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-36.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-36",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-36"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-37",
+                                                    "control": "2023/26629",
+                                                    "titulo": "Resolución de 19 de diciembre de 2023, del Ayuntamiento de Tortosa (Tarragona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190743",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "116",
+                                                        "pagina_final": "116",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-37.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-37",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-37"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-38",
+                                                    "control": "2023/26630",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, de la Diputación Provincial de Huesca, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "189850",
+                                                        "szKBytes": "185",
+                                                        "pagina_inicial": "117",
+                                                        "pagina_final": "117",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-38.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-38",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-38"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-39",
+                                                    "control": "2023/26631",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, del Ayuntamiento de Durango, Organismo Autónomo Astarloa (Bizkaia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190463",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "118",
+                                                        "pagina_final": "118",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-39.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-39",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-39"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-40",
+                                                    "control": "2023/26633",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, del Ayuntamiento de Manresa (Barcelona), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194308",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "119",
+                                                        "pagina_final": "120",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-40.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-40",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-40"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-41",
+                                                    "control": "2023/26634",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, del Ayuntamiento de Massalfassar (Valencia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190013",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "121",
+                                                        "pagina_final": "121",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-41.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-41",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-41"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-42",
+                                                    "control": "2023/26635",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, del Ayuntamiento de Palma del Río (Córdoba), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190531",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "122",
+                                                        "pagina_final": "122",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-42.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-42",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-42"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-43",
+                                                    "control": "2023/26637",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, del Ayuntamiento de Vic (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "189969",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "123",
+                                                        "pagina_final": "123",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-43.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-43",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-43"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-44",
+                                                    "control": "2023/26638",
+                                                    "titulo": "Resolución de 21 de diciembre de 2023, del Ayuntamiento de Alcanar (Tarragona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190740",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "124",
+                                                        "pagina_final": "124",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-44.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-44",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-44"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-45",
+                                                    "control": "2023/26639",
+                                                    "titulo": "Resolución de 21 de diciembre de 2023, del Ayuntamiento de Logroño (La Rioja), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190234",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "125",
+                                                        "pagina_final": "125",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-45.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-45",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-45"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-46",
+                                                    "control": "2023/26641",
+                                                    "titulo": "Resolución de 21 de diciembre de 2023, del Ayuntamiento de Vilanova i la Geltrú (Barcelona), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190852",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "126",
+                                                        "pagina_final": "126",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-46.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-46",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-46"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpos docentes universitarios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-47",
+                                                "control": "2023/26776",
+                                                "titulo": "Resolución de 20 de diciembre de 2023, conjunta de la Universidad de Murcia y el Servicio Murciano de Salud de la Comunidad Autónoma de la Región de Murcia, por la que se modifica la de 1 de diciembre de 2023, por la que se convoca concurso de acceso a plazas vinculadas de cuerpos docentes universitarios.",
+                                                "url_pdf": {
+                                                    "szBytes": "191162",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "127",
+                                                    "pagina_final": "127",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-47.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-47",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-47"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Homologaciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-48",
+                                                "control": "2023/26957",
+                                                "titulo": "Resolución 1A0/38511/2023, de 15 de noviembre, del Centro Criptológico Nacional, por la que se certifica la seguridad del producto «TC-FNMT versión 5.6», solicitado por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda.",
+                                                "url_pdf": {
+                                                    "szBytes": "196516",
+                                                    "szKBytes": "192",
+                                                    "pagina_inicial": "128",
+                                                    "pagina_final": "129",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-48.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-48",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-48"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Castilla-La Mancha. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-49",
+                                                "control": "2023/26794",
+                                                "titulo": "Resolución de 26 de diciembre de 2023, de la Secretaría General Técnica, por la que se publica la Adenda de prórroga al Convenio entre la Secretaría General de Instituciones Penitenciarias y la Universidad de Castilla-La Mancha, para la realización de actividades formativas en el ámbito penitenciario.",
+                                                "url_pdf": {
+                                                    "szBytes": "200549",
+                                                    "szKBytes": "196",
+                                                    "pagina_inicial": "130",
+                                                    "pagina_final": "131",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-49.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-49",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-49"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad de Castilla y León. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-50",
+                                                "control": "2023/26789",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, de la Secretaría General Técnica, por la que se publica el Convenio con la Universidad de Valladolid, para el desarrollo de prácticas académicas externas.",
+                                                "url_pdf": {
+                                                    "szBytes": "258790",
+                                                    "szKBytes": "253",
+                                                    "pagina_inicial": "132",
+                                                    "pagina_final": "140",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-50.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-50",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-50"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad de Madrid. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-51",
+                                                "control": "2023/26795",
+                                                "titulo": "Resolución de 26 de diciembre de 2023, de la Secretaría General Técnica, por la que se publica la Adenda de modificación y prórroga del Convenio con el Centro de Enseñanza Superior en Humanidades y Ciencias de la Educación \"Don Bosco\", para el desarrollo de prácticas académicas externas de sus estudiantes.",
+                                                "url_pdf": {
+                                                    "szBytes": "206867",
+                                                    "szKBytes": "202",
+                                                    "pagina_inicial": "141",
+                                                    "pagina_final": "143",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-51.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-51",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-51"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Encomienda de gestión",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-52",
+                                                "control": "2023/26793",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, de la Secretaría General Técnica, por la que se publica el Convenio por el que se formaliza la encomienda de gestión al Ayuntamiento de Palos de la Frontera, para la ejecución de obras de reforma y rehabilitación de la casa-cuartel de la Guardia Civil de titularidad estatal radicada en el municipio en el marco del Programa de Fomento de Empleo Agrario.",
+                                                "url_pdf": {
+                                                    "szBytes": "226445",
+                                                    "szKBytes": "221",
+                                                    "pagina_inicial": "144",
+                                                    "pagina_final": "149",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-52.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-52",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-52"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Sellos de correos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-53",
+                                                "control": "2023/27062",
+                                                "titulo": "Resolución de 27 de diciembre de 2023, conjunta de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda y Función Pública, sobre emisión y puesta en circulación de dos series de sellos de correo denominadas «Serie Bàsica.-2024. Bandera y Escudo. Principat d'Andorra» y «Cultura popular.-2024. Els tres tombs. Principat d'Andorra».",
+                                                "url_pdf": {
+                                                    "szBytes": "202805",
+                                                    "szKBytes": "198",
+                                                    "pagina_inicial": "150",
+                                                    "pagina_final": "151",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-53.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-53",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-53"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-54",
+                                                    "control": "2023/26671",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, de la Confederación Hidrográfica del Miño-Sil, O.A., por la que se publica la Adenda modificativa del Convenio con el Ayuntamiento de Arbo, para la ejecución, entrega, mantenimiento y conservación de las obras del proyecto de construcción de una escala de peces en el azud de San Xoán en el río Deva, en Arbo (Pontevedra).",
+                                                    "url_pdf": {
+                                                        "szBytes": "208177",
+                                                        "szKBytes": "203",
+                                                        "pagina_inicial": "152",
+                                                        "pagina_final": "154",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-54.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-54",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-54"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-55",
+                                                    "control": "2023/26672",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, de la Confederación Hidrográfica del Miño-Sil, O.A., por la que se publica la segunda Adenda modificativa del Convenio con el Ayuntamiento de Coles y el Ayuntamiento de Ourense, para la financiación, ejecución y entrega de las obras de \"Mejora del saneamiento y bombeo de aguas residuales en Sequeiros, en Coles (Ourense)\".",
+                                                    "url_pdf": {
+                                                        "szBytes": "217629",
+                                                        "szKBytes": "213",
+                                                        "pagina_inicial": "155",
+                                                        "pagina_final": "157",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-55.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-55",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-55"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Hidrocarburos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-56",
+                                                "control": "2023/26674",
+                                                "titulo": "Resolución de 21 de diciembre de 2023, de la Dirección General de Política Energética y Minas, por la que se otorga autorización administrativa y aprobación del proyecto de ejecución y reconocimiento, en concreto, de utilidad pública, del proyecto denominado \"Anexo al gasoducto Zamora-Benavente-León. Nueva Posición O.06A y ERM G-650 (80/16)\", en Valverde de la Virgen (León).",
+                                                "url_pdf": {
+                                                    "szBytes": "222843",
+                                                    "szKBytes": "218",
+                                                    "pagina_inicial": "158",
+                                                    "pagina_final": "163",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-56.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-56",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-56"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Homologaciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-57",
+                                                "control": "2023/26670",
+                                                "titulo": "Resolución de 19 de diciembre de 2023, de la Dirección General de Política Energética y Minas, por la que se autoriza la aprobación de tipo de aparato radiactivo de los equipos generadores de rayos X de la marca Phywe Systeme Gmbh & CO. KG, modelo XR 4.0 X Ray Expert Unit.",
+                                                "url_pdf": {
+                                                    "szBytes": "205106",
+                                                    "szKBytes": "200",
+                                                    "pagina_inicial": "164",
+                                                    "pagina_final": "166",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-57.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-57",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-57"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Impacto ambiental",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-58",
+                                                "control": "2023/26669",
+                                                "titulo": "Resolución de 18 de diciembre de 2023, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto \"Autovía SE-40. Tramo: Dos Hermanas-Coria del Rio\".",
+                                                "url_pdf": {
+                                                    "szBytes": "2300153",
+                                                    "szKBytes": "2246",
+                                                    "pagina_inicial": "167",
+                                                    "pagina_final": "192",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-58.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-58",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-58"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Andalucía. Convenio",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-59",
+                                                    "control": "2023/26681",
+                                                    "titulo": "Resolución de 21 de diciembre de 2023, del Instituto Nacional de Estadística, por la que se publica la Adenda de modificación del Convenio con la Universidad de Granada, para la realización de prácticas académicas no retribuidas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "204465",
+                                                        "szKBytes": "200",
+                                                        "pagina_inicial": "193",
+                                                        "pagina_final": "195",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-59.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-59",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-59"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-60",
+                                                    "control": "2023/26682",
+                                                    "titulo": "Resolución de 21 de diciembre de 2023, del Instituto Nacional de Estadística, por la que se publica la Adenda de modificación del Convenio con la Universidad de Jaén, para la realización de prácticas académicas no retribuidas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "204501",
+                                                        "szKBytes": "200",
+                                                        "pagina_inicial": "196",
+                                                        "pagina_final": "198",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-60.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-60",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-60"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Comunidad Autónoma de Cantabria. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-61",
+                                                "control": "2023/26815",
+                                                "titulo": "Resolución de 21 de diciembre de 2023, de ICEX España Exportación e Inversiones, E.P.E., por la que se publica el Convenio con la Universidad de Cantabria, para la realización de prácticas académicas externas de estudiantes de grado y de máster.",
+                                                "url_pdf": {
+                                                    "szBytes": "259292",
+                                                    "szKBytes": "253",
+                                                    "pagina_inicial": "199",
+                                                    "pagina_final": "208",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-61.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-61",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-61"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad Autónoma de Castilla-La Mancha. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-62",
+                                                "control": "2023/26816",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, del Instituto Nacional de Estadística, por la que se publica la Adenda de modificación del Convenio con la Universidad de Castilla-La Mancha, para la realización de prácticas académicas no retribuidas.",
+                                                "url_pdf": {
+                                                    "szBytes": "204953",
+                                                    "szKBytes": "200",
+                                                    "pagina_inicial": "209",
+                                                    "pagina_final": "211",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-62.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-62",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-62"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad de Castilla y León. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-63",
+                                                "control": "2023/26683",
+                                                "titulo": "Resolución de 21 de diciembre de 2023, del Instituto Nacional de Estadística, por la que se publica la Adenda de modificación del Convenio con la Universidad de Valladolid, para la realización de prácticas académicas no retribuidas.",
+                                                "url_pdf": {
+                                                    "szBytes": "204638",
+                                                    "szKBytes": "200",
+                                                    "pagina_inicial": "212",
+                                                    "pagina_final": "214",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-63.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-63",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-63"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad de Madrid. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-64",
+                                                "control": "2023/26684",
+                                                "titulo": "Resolución de 21 de diciembre de 2023, del Instituto Nacional de Estadística, por la que se publica la Adenda de modificación del Convenio con la Universidad Rey Juan Carlos, para la realización de prácticas académicas no retribuidas.",
+                                                "url_pdf": {
+                                                    "szBytes": "205217",
+                                                    "szKBytes": "200",
+                                                    "pagina_inicial": "215",
+                                                    "pagina_final": "217",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-64.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-64",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-64"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Deuda del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-65",
+                                                "control": "2023/27103",
+                                                "titulo": "Resolución de 29 de diciembre de 2023, de la Dirección General del Tesoro y Política Financiera, por la que se disponen determinadas emisiones de Bonos y Obligaciones del Estado en el mes de enero de 2024 y se convocan las correspondientes subastas.",
+                                                "url_pdf": {
+                                                    "szBytes": "362835",
+                                                    "szKBytes": "354",
+                                                    "pagina_inicial": "218",
+                                                    "pagina_final": "226",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-65.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-65",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-65"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Entidades de seguros",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-66",
+                                                "control": "2023/26679",
+                                                "titulo": "Orden ECM/1430/2023, de 15 de diciembre, de autorización administrativa a Mussap, Mutua de Seguros y Reaseguros a Prima Fija para ampliar la actividad aseguradora a los ramos de enfermedad (excluida la asistencia sanitaria), asistencia y decesos.",
+                                                "url_pdf": {
+                                                    "szBytes": "194264",
+                                                    "szKBytes": "190",
+                                                    "pagina_inicial": "227",
+                                                    "pagina_final": "227",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-66.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-66",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-66"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Ferias comerciales internacionales",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-67",
+                                                "control": "2023/26680",
+                                                "titulo": "Resolución de 19 de diciembre de 2023, de la Secretaría de Estado de Comercio, por la que se aprueba el Calendario Oficial de Ferias Comerciales Internacionales del año 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "292412",
+                                                    "szKBytes": "286",
+                                                    "pagina_inicial": "228",
+                                                    "pagina_final": "231",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-67.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-67",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-67"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Castilla-La Mancha. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-68",
+                                                "control": "2023/26689",
+                                                "titulo": "Resolución de 19 de diciembre de 2023, del Instituto de Salud Carlos III, O.A., M.P., por la que se publica el Convenio con la Universidad de Castilla-La Mancha, para la realización de prácticas académicas externas o la realización del trabajo de fin de grado/máster.",
+                                                "url_pdf": {
+                                                    "szBytes": "282517",
+                                                    "szKBytes": "276",
+                                                    "pagina_inicial": "232",
+                                                    "pagina_final": "242",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-68.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-68",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-68"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad Autónoma de Cataluña. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-69",
+                                                "control": "2023/26823",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, de la Secretaría General de Investigación, por la que se publica la séptima Adenda al Convenio de colaboración con la Generalitat de Cataluña, para la constitución del Consorcio para la Construcción, Equipamiento y Explotación del Laboratorio de Luz de Sincrotrón.",
+                                                "url_pdf": {
+                                                    "szBytes": "218087",
+                                                    "szKBytes": "213",
+                                                    "pagina_inicial": "243",
+                                                    "pagina_final": "246",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-69.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-69",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-69"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidades autónomas. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-70",
+                                                "control": "2023/26821",
+                                                "titulo": "Resolución de 21 de diciembre de 2023, de la Presidencia de la Agencia Estatal del Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio entre el Institut d'Investigació Biomèdica de Bellvitge (IDIBELL) y entidades participantes en el proyecto \"Integración de las características moleculares, genómicas, morfológicas y ambientales para mejorar el diagnóstico y tratamiento de precisión en Enfermedades Pulmonares Intersticiales Difusas fibrosantes (Precision-EPID)\", ejecutado con cargo a los fondos Next Generation EU, que financian las actuaciones del Mecanismo de Recuperación y Resiliencia.",
+                                                "url_pdf": {
+                                                    "szBytes": "628365",
+                                                    "szKBytes": "614",
+                                                    "pagina_inicial": "247",
+                                                    "pagina_final": "290",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-70.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-70",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-70"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Reales Academias",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-71",
+                                                    "control": "2023/26693",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, de la Real Academia de Ciencias Exactas, Físicas y Naturales de España, por la que se convoca la provisión de vacante de Académico de Número, en la Sección de Ciencias Físicas y Químicas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192321",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "291",
+                                                        "pagina_final": "291",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-71.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-71",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-71"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-72",
+                                                    "control": "2023/26694",
+                                                    "titulo": "Resolución de 21 de diciembre de 2023, de la Real Academia de Doctores de España, por la que se convoca la provisión de vacante de Académico de Número en Sección de Teología.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191396",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "292",
+                                                        "pagina_final": "292",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-72.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-72",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-72"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9534",
+                                    "nombre": "COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Energía eléctrica",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-73",
+                                                    "control": "2023/26699",
+                                                    "titulo": "Resolución de 21 de diciembre de 2023, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece el valor del índice global de ratios de 2024 y la penalización relativa a la prudencia financiera de las empresas que realizan las actividades de transporte y distribución de energía eléctrica y las actividades de transporte, regasificación, almacenamiento subterráneo y distribución de gas natural.",
+                                                    "url_pdf": {
+                                                        "szBytes": "405826",
+                                                        "szKBytes": "396",
+                                                        "pagina_inicial": "293",
+                                                        "pagina_final": "299",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-73.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-73",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-73"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-74",
+                                                    "control": "2023/26700",
+                                                    "titulo": "Resolución de 21 de diciembre de 2023, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece provisionalmente la retribución de las empresas distribuidoras de energía eléctrica para el ejercicio 2024.",
+                                                    "url_pdf": {
+                                                        "szBytes": "202308",
+                                                        "szKBytes": "198",
+                                                        "pagina_inicial": "300",
+                                                        "pagina_final": "302",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-74.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-74",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-74"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-75",
+                                                    "control": "2023/26701",
+                                                    "titulo": "Resolución de 21 de diciembre de 2023, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece provisionalmente la retribución de las empresas titulares de instalaciones de transporte de energía eléctrica para el ejercicio 2024.",
+                                                    "url_pdf": {
+                                                        "szBytes": "197235",
+                                                        "szKBytes": "193",
+                                                        "pagina_inicial": "303",
+                                                        "pagina_final": "304",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-75.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-75",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-75"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Gas natural",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-76",
+                                                "control": "2023/26702",
+                                                "titulo": "Resolución de 21 de diciembre de 2023, de la Comisión Nacional de los Mercados y la Competencia, por la que se modifica la de 24 de marzo de 2022, en relación con las medidas de antiacaparamiento de capacidad para los servicios que conllevan slots.",
+                                                "url_pdf": {
+                                                    "szBytes": "209067",
+                                                    "szKBytes": "204",
+                                                    "pagina_inicial": "305",
+                                                    "pagina_final": "308",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-76.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-76",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-76"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1840",
+                                    "nombre": "CONSEJO DE SEGURIDAD NUCLEAR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Aragón. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-77",
+                                                "control": "2023/26985",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, del Consejo de Seguridad Nuclear, por la que se publica la Adenda al Convenio con la Universidad de Zaragoza, sobre un programa de vigilancia radiológica ambiental (Red de estaciones de muestreo).",
+                                                "url_pdf": {
+                                                    "szBytes": "206338",
+                                                    "szKBytes": "202",
+                                                    "pagina_inicial": "309",
+                                                    "pagina_final": "311",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-77.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-77",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-77"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad Autónoma de Cantabria. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-78",
+                                                "control": "2023/26986",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, del Consejo de Seguridad Nuclear, por la que se publica la Adenda al Convenio con la Universidad de Cantabria, sobre un programa de vigilancia radiológica ambiental (Red de estaciones de muestreo).",
+                                                "url_pdf": {
+                                                    "szBytes": "207390",
+                                                    "szKBytes": "203",
+                                                    "pagina_inicial": "312",
+                                                    "pagina_final": "314",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-78.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-78",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-78"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad Autónoma de Extremadura. Convenio",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-79",
+                                                    "control": "2023/26987",
+                                                    "titulo": "Resolución de 22 de diciembre de 2023, del Consejo de Seguridad Nuclear, por la que se publica la Adenda al Convenio con la Universidad de Extremadura (Cáceres), sobre el programa de vigilancia radiológica ambiental en el entorno de la Central Nuclear de Almaraz.",
+                                                    "url_pdf": {
+                                                        "szBytes": "205419",
+                                                        "szKBytes": "201",
+                                                        "pagina_inicial": "315",
+                                                        "pagina_final": "317",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-79.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-79",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-79"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-80",
+                                                    "control": "2023/26988",
+                                                    "titulo": "Resolución de 22 de diciembre de 2023, del Consejo de Seguridad Nuclear, por la que se publica la Adenda al Convenio con la Universidad de Extremadura (Cáceres), sobre un programa de vigilancia radiológica ambiental (Red de estaciones de muestreo).",
+                                                    "url_pdf": {
+                                                        "szBytes": "207120",
+                                                        "szKBytes": "202",
+                                                        "pagina_inicial": "318",
+                                                        "pagina_final": "320",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-80.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-80",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-80"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Comunidad Autónoma de las Illes Balears. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-81",
+                                                "control": "2023/26989",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, del Consejo de Seguridad Nuclear, por la que se publica la Adenda al Convenio con la Universidad de las Illes Balears, sobre un programa de vigilancia radiológica ambiental (Red de estaciones de muestreo).",
+                                                "url_pdf": {
+                                                    "szBytes": "209123",
+                                                    "szKBytes": "204",
+                                                    "pagina_inicial": "321",
+                                                    "pagina_final": "323",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-81.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-81",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-81"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad Autónoma del País Vasco. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-82",
+                                                "control": "2023/26990",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, del Consejo de Seguridad Nuclear, por la que se publica la Adenda al Convenio con la Universidad del País Vasco/Euskal Herriko Unibertsitatea, sobre un programa de vigilancia radiológica ambiental (Red de estaciones de muestreo).",
+                                                "url_pdf": {
+                                                    "szBytes": "209280",
+                                                    "szKBytes": "204",
+                                                    "pagina_inicial": "324",
+                                                    "pagina_final": "326",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-82.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-82",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-82"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad Autónoma del Principado de Asturias. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-83",
+                                                "control": "2023/26991",
+                                                "titulo": "Resolución de 22 de diciembre de 2023, del Consejo de Seguridad Nuclear, por la que se publica la Adenda al Convenio con la Universidad de Oviedo, sobre un programa de vigilancia radiológica ambiental (Red de estaciones de muestreo).",
+                                                "url_pdf": {
+                                                    "szBytes": "206795",
+                                                    "szKBytes": "202",
+                                                    "pagina_inicial": "327",
+                                                    "pagina_final": "329",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-83.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-83",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-83"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Planes de estudios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-84",
+                                                    "control": "2023/26704",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, de la Universidad Complutense de Madrid, por la que se publica el plan de estudios de Máster Universitario en Especialización en el Desarrollo Comunicativo y Lingüístico en la Etapa de 0 a 6 años.",
+                                                    "url_pdf": {
+                                                        "szBytes": "203764",
+                                                        "szKBytes": "199",
+                                                        "pagina_inicial": "330",
+                                                        "pagina_final": "330",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-84.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-84",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-84"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-85",
+                                                    "control": "2023/26705",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, de la Universidad Complutense de Madrid, por la que se publica el plan de estudios de Máster Universitario en Estudios Contemporáneos sobre Mundo Árabe y Comunidades Musulmanas: Mediación Social y Gestión de Conflictos.",
+                                                    "url_pdf": {
+                                                        "szBytes": "204778",
+                                                        "szKBytes": "200",
+                                                        "pagina_inicial": "331",
+                                                        "pagina_final": "332",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-85.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-85",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-85"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-86",
+                                                    "control": "2023/26706",
+                                                    "titulo": "Resolución de 20 de diciembre de 2023, de la Universidad Complutense de Madrid, por la que se publica el plan de estudios de Máster Universitario en I+D+i en la Industria Alimentaria.",
+                                                    "url_pdf": {
+                                                        "szBytes": "210474",
+                                                        "szKBytes": "206",
+                                                        "pagina_inicial": "333",
+                                                        "pagina_final": "334",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/01/pdfs/BOE-A-2024-86.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-86",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-86"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

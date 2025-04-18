@@ -1,0 +1,1589 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20240821"
+            },
+            "diario": [
+                {
+                    "numero": "202",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2024-202",
+                        "url_pdf": {
+                            "szBytes": "273660",
+                            "szKBytes": "267",
+                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-S-2024-202.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": {
+                                "codigo": "4335",
+                                "nombre": "MINISTERIO DE SANIDAD",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Sustancias y productos psicotrópicos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17152",
+                                                "control": "2024/12997",
+                                                "titulo": "Orden SND/884/2024, de 14 de agosto, por la que se incluyen nuevas sustancias en el anexo 1 del Real Decreto 2829/1977, de 6 de octubre, por el que se regulan las sustancias y preparados medicinales psicotrópicos, así como la fiscalización e inspección de su fabricación, distribución, prescripción y dispensación.",
+                                                "url_pdf": {
+                                                    "szBytes": "212272",
+                                                    "szKBytes": "207",
+                                                    "pagina_inicial": "106865",
+                                                    "pagina_final": "106868",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17152.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17152",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17152"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpo Superior de Inspectores de Hacienda del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17153",
+                                                "control": "2024/13026",
+                                                "titulo": "Resolución de 6 de agosto de 2024, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se publica la relación de aspirantes que han aprobado en la fase de oposición del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo Superior de Inspectores de Hacienda del Estado, convocado por Resolución de 21 de septiembre de 2023.",
+                                                "url_pdf": {
+                                                    "szBytes": "356501",
+                                                    "szKBytes": "348",
+                                                    "pagina_inicial": "106869",
+                                                    "pagina_final": "106875",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17153.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17153",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17153"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17154",
+                                                    "control": "2024/104052",
+                                                    "titulo": "Resolución de 12 de agosto de 2024, de la Diputación Provincial de Badajoz, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190712",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106876",
+                                                        "pagina_final": "106876",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17154.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17154",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17154"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17155",
+                                                    "control": "2024/104050",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, del Ayuntamiento de Alcorcón (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190573",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106877",
+                                                        "pagina_final": "106877",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17155.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17155",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17155"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17156",
+                                                    "control": "2024/104051",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Guadalajara, referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190554",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106878",
+                                                        "pagina_final": "106878",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17156.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17156",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17156"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17157",
+                                                    "control": "2024/104053",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Moreda de Álava/Moreda Araba (Araba/Álava), referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191034",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106879",
+                                                        "pagina_final": "106879",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17157.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17157",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17157"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17158",
+                                                    "control": "2024/104067",
+                                                    "titulo": "Resolución de 10 de diciembre de 2022, del Ayuntamiento de La Puebla de Valverde (Teruel), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190197",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106880",
+                                                        "pagina_final": "106880",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17158.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17158",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17158"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17159",
+                                                    "control": "2024/104070",
+                                                    "titulo": "Resolución de 10 de diciembre de 2022, del Ayuntamiento de La Puebla de Valverde (Teruel), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190212",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106881",
+                                                        "pagina_final": "106881",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17159.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17159",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17159"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17160",
+                                                    "control": "2024/104092",
+                                                    "titulo": "Resolución de 2 de agosto de 2024, del Ayuntamiento de Sant Feliu de Llobregat (Barcelona), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191231",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106882",
+                                                        "pagina_final": "106882",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17160.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17160",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17160"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17161",
+                                                    "control": "2024/104086",
+                                                    "titulo": "Resolución de 6 de agosto de 2024, del Ayuntamiento de Salamanca, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190517",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106883",
+                                                        "pagina_final": "106883",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17161.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17161",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17161"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17162",
+                                                    "control": "2024/104058",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de Ejea de los Caballeros (Zaragoza), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191034",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106884",
+                                                        "pagina_final": "106884",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17162.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17162",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17162"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17163",
+                                                    "control": "2024/104068",
+                                                    "titulo": "Resolución de 9 de agosto de 2024, del Ayuntamiento de Oviedo (Asturias), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190656",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106885",
+                                                        "pagina_final": "106885",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17163.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17163",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17163"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17164",
+                                                    "control": "2024/104031",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, del Ayuntamiento de Sant Pere de Ribes (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190815",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106886",
+                                                        "pagina_final": "106886",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17164.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17164",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17164"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17165",
+                                                    "control": "2024/104035",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, del Ayuntamiento de Sant Pere de Ribes (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191003",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106887",
+                                                        "pagina_final": "106887",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17165.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17165",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17165"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17166",
+                                                    "control": "2024/104054",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, del Ayuntamiento de Lillo (Toledo), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193487",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "106888",
+                                                        "pagina_final": "106888",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17166.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17166",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17166"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17167",
+                                                    "control": "2024/104055",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, del Ayuntamiento de Ocaña (Toledo), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190848",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106889",
+                                                        "pagina_final": "106889",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17167.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17167",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17167"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17168",
+                                                    "control": "2024/104056",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, del Ayuntamiento de Lozoyuela-Navas-Sieteiglesias (Madrid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192058",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "106890",
+                                                        "pagina_final": "106890",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17168.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17168",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17168"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17169",
+                                                    "control": "2024/104057",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, del Ayuntamiento de Molina de Segura (Murcia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190764",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106891",
+                                                        "pagina_final": "106891",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17169.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17169",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17169"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17170",
+                                                    "control": "2024/104059",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, del Ayuntamiento de Segorbe (Castellón/Castelló), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190747",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106892",
+                                                        "pagina_final": "106892",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17170.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17170",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17170"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17171",
+                                                    "control": "2024/104060",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Cabrils (Barcelona), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190517",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106893",
+                                                        "pagina_final": "106893",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17171.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17171",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17171"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17172",
+                                                    "control": "2024/104061",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Aznalcóllar (Sevilla), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191412",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106894",
+                                                        "pagina_final": "106894",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17172.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17172",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17172"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17173",
+                                                    "control": "2024/104062",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Nàquera/Náquera (Valencia/València), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191541",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106895",
+                                                        "pagina_final": "106895",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17173.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17173",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17173"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17174",
+                                                    "control": "2024/104063",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de San Juan del Puerto (Huelva), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193698",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "106896",
+                                                        "pagina_final": "106896",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17174.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17174",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17174"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17175",
+                                                    "control": "2024/104064",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Almenara (Castellón/Castelló), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190504",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106897",
+                                                        "pagina_final": "106897",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17175.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17175",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17175"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17176",
+                                                    "control": "2024/104065",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Bermillo de Sayago (Zamora), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190750",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106898",
+                                                        "pagina_final": "106898",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17176.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17176",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17176"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17177",
+                                                    "control": "2024/104066",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Ciutadella de Menorca (Illes Balears), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191021",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106899",
+                                                        "pagina_final": "106899",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17177.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17177",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17177"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17178",
+                                                    "control": "2024/104069",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Ormaiztegi (Gipuzkoa), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190432",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106900",
+                                                        "pagina_final": "106900",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17178.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17178",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17178"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17179",
+                                                    "control": "2024/104071",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Navia (Asturias), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190590",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106901",
+                                                        "pagina_final": "106901",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17179.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17179",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17179"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17180",
+                                                    "control": "2024/104072",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Pareja (Guadalajara), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191167",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106902",
+                                                        "pagina_final": "106902",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17180.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17180",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17180"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17181",
+                                                    "control": "2024/104073",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Torre-Pacheco (Murcia), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190924",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106903",
+                                                        "pagina_final": "106903",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17181.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17181",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17181"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17182",
+                                                    "control": "2024/104074",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Corvera de Toranzo (Cantabria), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190443",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106904",
+                                                        "pagina_final": "106904",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17182.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17182",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17182"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17183",
+                                                    "control": "2024/104075",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Pueblonuevo de Miramontes (Cáceres), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190802",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106905",
+                                                        "pagina_final": "106905",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17183.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17183",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17183"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17184",
+                                                    "control": "2024/104076",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Alcázar de San Juan (Ciudad Real), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191445",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106906",
+                                                        "pagina_final": "106906",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17184.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17184",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17184"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17185",
+                                                    "control": "2024/104077",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Corvera de Toranzo (Cantabria), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190466",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106907",
+                                                        "pagina_final": "106907",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17185.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17185",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17185"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17186",
+                                                    "control": "2024/104078",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Piles (Valencia/València), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190357",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106908",
+                                                        "pagina_final": "106908",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17186.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17186",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17186"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17187",
+                                                    "control": "2024/104079",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Piles (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190284",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106909",
+                                                        "pagina_final": "106909",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17187.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17187",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17187"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17188",
+                                                    "control": "2024/104080",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Corvera de Toranzo (Cantabria), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190680",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106910",
+                                                        "pagina_final": "106910",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17188.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17188",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17188"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17189",
+                                                    "control": "2024/104081",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Basauri (Bizkaia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190529",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106911",
+                                                        "pagina_final": "106911",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17189.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17189",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17189"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17190",
+                                                    "control": "2024/104082",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Basauri (Bizkaia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190240",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106912",
+                                                        "pagina_final": "106912",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17190.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17190",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17190"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17191",
+                                                    "control": "2024/104084",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Consorcio de Gestión de Servicios Medioambientales de la Diputación Provincial de Badajoz (Badajoz), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191178",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106913",
+                                                        "pagina_final": "106913",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17191.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17191",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17191"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17192",
+                                                    "control": "2024/104087",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Sant Feliu de Llobregat (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190980",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106914",
+                                                        "pagina_final": "106914",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17192.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17192",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17192"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17193",
+                                                    "control": "2024/104088",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Burgos, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190151",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106915",
+                                                        "pagina_final": "106915",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17193.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17193",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17193"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17194",
+                                                    "control": "2024/104089",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Gargallo (Teruel), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190380",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106916",
+                                                        "pagina_final": "106916",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17194.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17194",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17194"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17195",
+                                                    "control": "2024/104090",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Alcampell (Huesca), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190535",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106917",
+                                                        "pagina_final": "106917",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17195.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17195",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17195"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17196",
+                                                    "control": "2024/104091",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Ferreira (Granada), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191614",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106918",
+                                                        "pagina_final": "106918",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17196.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17196",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17196"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17197",
+                                                    "control": "2024/104093",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Alcampell (Huesca), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190477",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106919",
+                                                        "pagina_final": "106919",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17197.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17197",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17197"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17198",
+                                                    "control": "2024/104094",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de La Pobla de Farnals (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191216",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106920",
+                                                        "pagina_final": "106920",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17198.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17198",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17198"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17199",
+                                                    "control": "2024/104095",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, de la Diputación Provincial de Badajoz, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190414",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106921",
+                                                        "pagina_final": "106921",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17199.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17199",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17199"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17200",
+                                                    "control": "2024/104096",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Consorcio de Gestión de Servicios Medioambientales (PROMEDIO) de la Diputación Provincial de Badajoz (Badajoz), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192526",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "106922",
+                                                        "pagina_final": "106922",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17200.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17200",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17200"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17201",
+                                                    "control": "2024/104097",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Consorcio de Institución Ferial Salón Ovino (Badajoz), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190666",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106923",
+                                                        "pagina_final": "106923",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17201.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17201",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17201"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17202",
+                                                    "control": "2024/104098",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Langreo (Asturias), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190376",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106924",
+                                                        "pagina_final": "106924",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17202.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17202",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17202"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17203",
+                                                    "control": "2024/104099",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Langreo (Asturias), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190158",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106925",
+                                                        "pagina_final": "106925",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17203.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17203",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17203"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17204",
+                                                    "control": "2024/104100",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de Zafra (Badajoz), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191289",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106926",
+                                                        "pagina_final": "106926",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17204.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17204",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17204"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17205",
+                                                    "control": "2024/104101",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Organismo Autónomo Provincial de la Protección de la Legalidad Urbanística, Restaura, de la Diputación Provincial de Badajoz, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191234",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106927",
+                                                        "pagina_final": "106927",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17205.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17205",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17205"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17206",
+                                                    "control": "2024/104110",
+                                                    "titulo": "Resolución de 16 de agosto de 2024, del Ayuntamiento de Puntagorda (Santa Cruz de Tenerife), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190958",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106928",
+                                                        "pagina_final": "106928",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17206.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17206",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17206"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17207",
+                                                    "control": "2024/104122",
+                                                    "titulo": "Resolución de 16 de agosto de 2024, del Ayuntamiento de Cacín (Granada), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190941",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106929",
+                                                        "pagina_final": "106929",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17207.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17207",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17207"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Instalaciones eléctricas",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17208",
+                                                    "control": "2024/12941",
+                                                    "titulo": "Resolución de 24 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Green Capital Power, SL, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para la instalación fotovoltaica Cruz, de 64,16 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Parla y Fuenlabrada (Madrid), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "239680",
+                                                        "szKBytes": "234",
+                                                        "pagina_inicial": "106930",
+                                                        "pagina_final": "106938",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17208.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17208",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17208"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17209",
+                                                    "control": "2024/12911",
+                                                    "titulo": "Resolución de 26 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Global Ottawa, SLU, autorización administrativa previa y autorización administrativa de construcción para el parque eólico Ampliación Tórtoles, de 53,1 MW de potencia instalada, y sus infraestructuras de evacuación, en los términos municipales de Tórtoles de Esgueva (Burgos) y Castrillo de Don Juan, Cevico Navero, Villaconancio y Baltanás (Palencia).",
+                                                    "url_pdf": {
+                                                        "szBytes": "250702",
+                                                        "szKBytes": "245",
+                                                        "pagina_inicial": "106939",
+                                                        "pagina_final": "106948",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17209.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17209",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17209"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17210",
+                                                    "control": "2024/12912",
+                                                    "titulo": "Resolución de 26 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Nun Sun Power, SL, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para la instalación fotovoltaica \"La Sagra 1\", de 195,024 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Bargas, Camarenilla, Yunclillos y Recas (Toledo).",
+                                                    "url_pdf": {
+                                                        "szBytes": "246193",
+                                                        "szKBytes": "240",
+                                                        "pagina_inicial": "106949",
+                                                        "pagina_final": "106957",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17210.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17210",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17210"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17211",
+                                                    "control": "2024/12913",
+                                                    "titulo": "Resolución de 26 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Solaria Promoción y Desarrollo Fotovoltaico, SLU, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para la instalación \"Mantia Solar 2\", de 109,98 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Yunclillos, Cabañas de la Sagra, Villaluenga de la Sagra, Yuncler, Cedillo del Condado, Yuncos, Illescas y Ugena (Toledo) y de Cubas de la Sagra, Casarrubuelos, Torrejón de la Calzada, Torrejón de Velasco y Parla (Madrid).",
+                                                    "url_pdf": {
+                                                        "szBytes": "272659",
+                                                        "szKBytes": "266",
+                                                        "pagina_inicial": "106958",
+                                                        "pagina_final": "106970",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17211.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17211",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17211"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1020",
+                                    "nombre": "BANCO DE ESPAÑA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Mercado de divisas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17212",
+                                                "control": "2024/13036",
+                                                "titulo": "Resolución de 20 de agosto de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 20 de agosto de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+                                                "url_pdf": {
+                                                    "szBytes": "217159",
+                                                    "szKBytes": "212",
+                                                    "pagina_inicial": "106971",
+                                                    "pagina_final": "106972",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17212.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17212",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17212"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Préstamos hipotecarios. Índices",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17213",
+                                                "control": "2024/13037",
+                                                "titulo": "Resolución de 20 de agosto de 2024, del Banco de España, por la que se publican determinados tipos de interés oficiales de referencia del mercado hipotecario.",
+                                                "url_pdf": {
+                                                    "szBytes": "194015",
+                                                    "szKBytes": "189",
+                                                    "pagina_inicial": "106973",
+                                                    "pagina_final": "106973",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-A-2024-17213.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17213",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17213"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5A",
+                            "nombre": "V. Anuncios. - A. Contratación del Sector Público",
+                            "departamento": [
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29783",
+                                            "titulo": "Anuncio de formalización de contratos de: Intendencia de Madrid. Objeto: (OP) AM Socorrismo dependencias de la Armada en Madrid. Expediente: 2024/AR21U/00000474E.",
+                                            "url_pdf": {
+                                                "szBytes": "156788",
+                                                "szKBytes": "153",
+                                                "pagina_inicial": "46176",
+                                                "pagina_final": "46177",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29783.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29783",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29783"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29784",
+                                            "titulo": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 23 de la Base Aérea de Albacete. Objeto: El objeto de este contrato es prestar la asistencia técnica para garantizar la continuidad del mantenimiento (preventivo y correctivo) de las instalaciones y los equipos técnicos de seguridad en la Base Aérea de Albacete y del Destacamento de la Losilla. Expediente: 2024/EA23/00000640E.",
+                                            "url_pdf": {
+                                                "szBytes": "161677",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "46178",
+                                                "pagina_final": "46179",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29784.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29784",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29784"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29785",
+                                            "titulo": "Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Suministro de mangueras explosivas ligeras (Instrucción). Expediente: 2024/AR40U/00001547E.",
+                                            "url_pdf": {
+                                                "szBytes": "166710",
+                                                "szKBytes": "163",
+                                                "pagina_inicial": "46180",
+                                                "pagina_final": "46182",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29785.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29785",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29785"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29786",
+                                            "titulo": "Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Suministro de cargas conformadas. Expediente: 2024/AR40U/00001552E.",
+                                            "url_pdf": {
+                                                "szBytes": "170014",
+                                                "szKBytes": "166",
+                                                "pagina_inicial": "46183",
+                                                "pagina_final": "46185",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29786.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29786",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29786"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29787",
+                                            "titulo": "Anuncio de licitación de: Intendente de San Fernando. Objeto: Concesión del servicio de explotación de la cafetería de alumnos de la Escuela de Suboficiales de la Armada. Expediente: 2024/AR43U/00000917*.",
+                                            "url_pdf": {
+                                                "szBytes": "149463",
+                                                "szKBytes": "146",
+                                                "pagina_inicial": "46186",
+                                                "pagina_final": "46186",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29787.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29787",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29787"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29788",
+                                            "titulo": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 23 de la Base Aérea de Albacete. Objeto: Instalación para suministro de gases a máquinas de coldspray y plasmaspray en la Maestranza Aérea de Albacete. Expediente: 2024/EA23/00000311E.",
+                                            "url_pdf": {
+                                                "szBytes": "162074",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "46187",
+                                                "pagina_final": "46188",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29788.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29788",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29788"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29789",
+                                            "titulo": "Anuncio de licitación de: Intendente de Cartagena. Objeto: JEMAN.- SEGEPESCA.- Contrato de servicios para el mantenimiento, reparación e instalación de sistemas de comunicaciones y sistemas asociados a niveles y sensores de los buques. Expediente: 2024/AR44U/00002607E.",
+                                            "url_pdf": {
+                                                "szBytes": "170348",
+                                                "szKBytes": "166",
+                                                "pagina_inicial": "46189",
+                                                "pagina_final": "46191",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29789.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29789",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29789"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29790",
+                                            "titulo": "Anuncio de licitación de: Delegación Especial de la Agencia Tributaria en Asturias. Objeto: Servicio de seguridad de centros de la Delegación Especial de la AEAT de Asturias. Expediente: 24A30073000.",
+                                            "url_pdf": {
+                                                "szBytes": "148972",
+                                                "szKBytes": "145",
+                                                "pagina_inicial": "46192",
+                                                "pagina_final": "46192",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29790.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29790",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29790"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29791",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Canarias. Objeto: Servicio de seguridad edificios AEAT en Canarias 2024-2026. Expediente: 23A50107300.",
+                                            "url_pdf": {
+                                                "szBytes": "154759",
+                                                "szKBytes": "151",
+                                                "pagina_inicial": "46193",
+                                                "pagina_final": "46193",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29791.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29791",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29791"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29792",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Servicio por lotes de los trabajos auxiliares en las navegaciones de los buques de Operaciones Especiales adscritos al Departamento de Aduanas e II.EE. Expediente: 24710042800.",
+                                            "url_pdf": {
+                                                "szBytes": "167886",
+                                                "szKBytes": "164",
+                                                "pagina_inicial": "46194",
+                                                "pagina_final": "46196",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29792.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29792",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29792"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29793",
+                                        "titulo": "Anuncio de formalización de contratos de: Subdirección General de Planificación y Gestión Económica. Objeto: Servicio de transporte de personal al Centro Penitenciario de Las Palmas I, dependiente de la Secretaría General de Instituciones Penitenciarias. Expediente: 020120240077.",
+                                        "url_pdf": {
+                                            "szBytes": "160986",
+                                            "szKBytes": "157",
+                                            "pagina_inicial": "46197",
+                                            "pagina_final": "46198",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29793.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29793",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29793"
+                                    }
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29794",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 30.228/23; 12-AV-2930; Redacción del proyecto de trazado y construcción de: Autovía A-51. Tramo: Ávila - Intersección de N-110 con N-502 (La Serrada). Provincia de Ávila. Expediente: 330230529300.",
+                                            "url_pdf": {
+                                                "szBytes": "163642",
+                                                "szKBytes": "160",
+                                                "pagina_inicial": "46199",
+                                                "pagina_final": "46200",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29794.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29794",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29794"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29795",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 30.751/23; 24-LO-5590; Acondicionamiento de la carretera N-232 como carretera 2+1. Tramo: Final Variante Villar de Arnedo - Arrúbal. P.k. 373+100 al 385+800. Provincia de La Rioja. Expediente: B30232655900.",
+                                            "url_pdf": {
+                                                "szBytes": "163390",
+                                                "szKBytes": "160",
+                                                "pagina_inicial": "46201",
+                                                "pagina_final": "46202",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29795.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29795",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29795"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29796",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 51-P-0106; 30.873/23; Conservación y explotación de las carreteras y obras menores relacionadas con esos servicios, en el sector P-01. Provincia de Palencia. Expediente: C30233401060.",
+                                            "url_pdf": {
+                                                "szBytes": "161788",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "46203",
+                                                "pagina_final": "46204",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29796.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29796",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29796"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29797",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 30.889/23; PYO-518/23 Redacción de proyectos (dividido en 5 lotes) de obras de conservación en las Demarcación de Aragón, Castilla y León Occidental, Comunidad Valenciana, Galicia y La Rioja. Expediente: C3023932935Z.",
+                                            "url_pdf": {
+                                                "szBytes": "170372",
+                                                "szKBytes": "166",
+                                                "pagina_inicial": "46205",
+                                                "pagina_final": "46207",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29797.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29797",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29797"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9590",
+                                    "nombre": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29798",
+                                        "titulo": "Anuncio de formalización de contratos de: Presidencia del Consejo Superior de Deportes. Objeto: PRTR Obra de implantación de una instalación de geotermia en el CAR de Sierra Nevada. Expediente: 2023hMA00262.",
+                                        "url_pdf": {
+                                            "szBytes": "163425",
+                                            "szKBytes": "160",
+                                            "pagina_inicial": "46208",
+                                            "pagina_final": "46209",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29798.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29798",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29798"
+                                    }
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29799",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de vigilancia, seguridad y control de los locales ocupados por las Inspecciones Provinciales de Trabajo y Seguridad Social de Álava y Gipuzkoa. Expediente: 113/2024.",
+                                            "url_pdf": {
+                                                "szBytes": "157780",
+                                                "szKBytes": "154",
+                                                "pagina_inicial": "46210",
+                                                "pagina_final": "46211",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29799.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29799",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29799"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29800",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de vigilancia, seguridad y control de los locales ocupados por las Inspecciones Provinciales de Trabajo y Seguridad Social de Álava y Gipuzkoa. Expediente: 113/2024.",
+                                            "url_pdf": {
+                                                "szBytes": "157842",
+                                                "szKBytes": "154",
+                                                "pagina_inicial": "46212",
+                                                "pagina_final": "46213",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29800.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29800",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29800"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29801",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: servicio de vigilancia y seguridad de las instalaciones ocupadas por la Inspección Provincial de Trabajo y Seguridad Social de Alicante y por la Dirección Territorial de Labora en Alicante de la Generalitat Valenciana. Expediente: 76/2024.",
+                                            "url_pdf": {
+                                                "szBytes": "153029",
+                                                "szKBytes": "149",
+                                                "pagina_inicial": "46214",
+                                                "pagina_final": "46214",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29801.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29801",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29801"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9591",
+                                    "nombre": "MINISTERIO DE INDUSTRIA Y TURISMO",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29802",
+                                        "titulo": "Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Industria, Comercio y Turismo. Objeto: Seguro de accidentes para el personal funcionario y laboral adscrito al Ministerio de Industria y Turismo. Expediente: J24.004.01.",
+                                        "url_pdf": {
+                                            "szBytes": "161276",
+                                            "szKBytes": "157",
+                                            "pagina_inicial": "46215",
+                                            "pagina_final": "46216",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29802.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29802",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29802"
+                                    }
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29803",
+                                            "titulo": "Anuncio de formalización de contratos de: Confederación Hidrográfica del Duero, O.A. Objeto: Servicio de soporte y administración de la infraestructura de comunicaciones en la red de datos de la Confederación Hidrográfica del Duero, O.A. Expediente: 452-A.216.00.02/2024.",
+                                            "url_pdf": {
+                                                "szBytes": "161755",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "46217",
+                                                "pagina_final": "46218",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29803.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29803",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29803"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29804",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General del Agua. Objeto: Contrato Servicios para estudios técnicos implantación de Planes gestión del riesgo inundación y desarrollo y mejora del SN Cartografía zonas inundables en medidas Dirección General del Agua. Expediente: 21.804-0094/0411.",
+                                            "url_pdf": {
+                                                "szBytes": "172513",
+                                                "szKBytes": "168",
+                                                "pagina_inicial": "46219",
+                                                "pagina_final": "46221",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29804.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29804",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29804"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9587",
+                                    "nombre": "MINISTERIO DE VIVIENDA Y AGENDA URBANA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29805",
+                                        "titulo": "Anuncio de formalización de contratos de: Consejo de Administración SEPES Entidad Pública Empresarial de Suelo. Objeto: Servicios de Vigilancia durante 24 horas diarias en el ámbito denominado \"PARQUE CENTRAL DE INGENIEROS\", en Valencia. Expediente: 130982.",
+                                        "url_pdf": {
+                                            "szBytes": "152688",
+                                            "szKBytes": "149",
+                                            "pagina_inicial": "46222",
+                                            "pagina_final": "46222",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29805.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29805",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29805"
+                                    }
+                                },
+                                {
+                                    "codigo": "4110",
+                                    "nombre": "MINISTERIO DE CULTURA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29806",
+                                        "titulo": "Anuncio de formalización de contratos de: Dirección del Museo Nacional Centro de Arte Reina Sofía. Objeto: Transporte de recogida y devolución de las obras de la exposición \"Esperpento\". Expediente: 202400000151.",
+                                        "url_pdf": {
+                                            "szBytes": "160992",
+                                            "szKBytes": "157",
+                                            "pagina_inicial": "46223",
+                                            "pagina_final": "46224",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29806.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29806",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29806"
+                                    }
+                                },
+                                {
+                                    "codigo": "4335",
+                                    "nombre": "MINISTERIO DE SANIDAD",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29807",
+                                            "titulo": "Anuncio de licitación de: Gerencia de Atención Sanitaria de Melilla - Instituto Nacional de Gestión Sanitaria. Objeto: Servicio de limpieza, desinfección, desinsectación y desratización de los centros y establecimientos dependientes de la Gerencia de Atención Sanitaria del INGESA en Melilla. Expediente: P.A. 2024-32-GME.",
+                                            "url_pdf": {
+                                                "szBytes": "170114",
+                                                "szKBytes": "166",
+                                                "pagina_inicial": "46225",
+                                                "pagina_final": "46227",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29807.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29807",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29807"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29808",
+                                            "titulo": "Anuncio de licitación de: Gerencia de Atención Sanitaria de Melilla - Instituto Nacional de Gestión Sanitaria. Objeto: Servicio de odontología para la realización del programa de salud bucodental dirigido a la población infantil de 6 a 8 años del INGESA en Melilla. Expediente: P.A. 2024-024-GME.",
+                                            "url_pdf": {
+                                                "szBytes": "150266",
+                                                "szKBytes": "147",
+                                                "pagina_inicial": "46228",
+                                                "pagina_final": "46228",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29808.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29808",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29808"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29809",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección del Instituto de Astrofísica de Canarias. Objeto: Suministro e instalación de un perfilómetro de contacto, para el Centro de Sistemas Ópticos Avanzados del IAC en el Marco del Plan de Recuperación, Transformación y Resiliencia. Expediente: LIC-24-002.",
+                                            "url_pdf": {
+                                                "szBytes": "163021",
+                                                "szKBytes": "159",
+                                                "pagina_inicial": "46229",
+                                                "pagina_final": "46230",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29809.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29809",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29809"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29810",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección del Instituto de Astrofísica de Canarias. Objeto: Refuerzo de la redundancia de la red óptica terrestre de Rediris en Tenerife y en La Palma. Expediente: LIC-24-004.",
+                                            "url_pdf": {
+                                                "szBytes": "162021",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "46231",
+                                                "pagina_final": "46232",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29810.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29810",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29810"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29811",
+                                        "titulo": "Anuncio de formalización de contratos de: INSS-Dirección provincial de Gipuzkoa. Objeto: Contratación de los servicios de mantenimiento integral de los centros dependientes de la Dirección Provincial del INSS de Gipuzkoa. Expediente: 20/VC-236/24.",
+                                        "url_pdf": {
+                                            "szBytes": "161437",
+                                            "szKBytes": "158",
+                                            "pagina_inicial": "46233",
+                                            "pagina_final": "46234",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29811.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29811",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29811"
+                                    }
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29812",
+                                        "titulo": "Anuncio de formalización de contratos de: Instituto Nacional de Administración Pública (INAP). Objeto: Servicio de soporte a la gestión de Comunicación, EVENTOS y REDES SOCIALES del INAP. Expediente: 202400000029.",
+                                        "url_pdf": {
+                                            "szBytes": "161962",
+                                            "szKBytes": "158",
+                                            "pagina_inicial": "46235",
+                                            "pagina_final": "46236",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29812.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29812",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29812"
+                                    }
+                                },
+                                {
+                                    "codigo": "9207",
+                                    "nombre": "OTROS PODERES ADJUDICADORES",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29813",
+                                        "titulo": "Anuncio de licitación de: Gerencia del Centro de Investigación Biomédica en Red (CIBER). Objeto: El objeto del presente documento es la contratación de los servicios informáticos de soporte, mantenimiento y gestión de la infraestructura de Computación de Alto Rendimiento (HPC) de CIBE. Expediente: 2024/PA/002.",
+                                        "url_pdf": {
+                                            "szBytes": "169146",
+                                            "szKBytes": "165",
+                                            "pagina_inicial": "46237",
+                                            "pagina_final": "46239",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29813.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29813",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29813"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5B",
+                            "nombre": "V. Anuncios. - B. Otros anuncios oficiales",
+                            "departamento": [
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29814",
+                                            "titulo": "Anuncio del ADIF por el que se somete a información pública a efectos de declaración de la necesidad de ocupación el Proyecto de Supresión del Paso a Nivel del P.K. 205/295 de la Línea Madrid - Barcelona. Término Municipal de Ariza (Zaragoza).",
+                                            "url_pdf": {
+                                                "szBytes": "220154",
+                                                "szKBytes": "215",
+                                                "pagina_inicial": "46240",
+                                                "pagina_final": "46241",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29814.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29814",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29814"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29815",
+                                            "titulo": "Anuncio de la Secretaría de Estado de Transportes y Movilidad Sostenible por el que se hace pública la relación definitiva de solicitudes admitidas al procedimiento de revisión, evaluación y concesión de las ayudas en la segunda convocatoria de subvenciones en concurrencia no competitiva del ecoincentivo para el impulso del transporte marítimo de mercancías basado en el mérito ambiental y socioeconómico, en el marco del Plan de Recuperación, Transformación y Resiliencia-financiado por la Unión Europea-NextGenerationEU para el periodo de elegibilidad 2023-2024.",
+                                            "url_pdf": {
+                                                "szBytes": "168212",
+                                                "szKBytes": "164",
+                                                "pagina_inicial": "46242",
+                                                "pagina_final": "46243",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29815.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29815",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29815"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29816",
+                                            "titulo": "Anuncio de la Autoridad Portuaria de Tarragona por el que se somete a un nuevo trámite de información pública la solicitud presentada por EUROENERGO NEW PROJECT S.L.U. para la revisión de la concesión administrativa «TERMINAL MARÍTIMA DE MANIPULACIÓN PORTUARIA DE PRODUCTOS LÍQUIDOS A GRANEL Y SERVICIOS LOGÍSTICOS EN EL MUELLE DE LA QUÍMICA».",
+                                            "url_pdf": {
+                                                "szBytes": "153109",
+                                                "szKBytes": "150",
+                                                "pagina_inicial": "46244",
+                                                "pagina_final": "46245",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29816.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29816",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29816"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29817",
+                                        "titulo": "Extracto de la Resolución de 19 de agosto de 2024 de ICEX España Exportación e Inversiones, E.P.E. por la que se convoca para 2024 la concesión de subvenciones del «Programa ICEX Next de Iniciación y Consolidación de la Exportación» de ICEX España Exportación el Inversiones, E.P.E.",
+                                        "url_pdf": {
+                                            "szBytes": "160058",
+                                            "szKBytes": "156",
+                                            "pagina_inicial": "46246",
+                                            "pagina_final": "46248",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29817.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29817",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29817"
+                                    }
+                                },
+                                {
+                                    "codigo": "8010",
+                                    "nombre": "COMUNIDAD AUTÓNOMA DE ANDALUCÍA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29818",
+                                        "titulo": "Anuncio de la Delegación Territorial de Economía, Hacienda y Fondos Europeos y de Industria, Energía y Minas de Córdoba por la que se hace pública la resolución por la que se resuelve el concurso minero en la provincia de Córdoba convocado por Resolución de la Dirección General de Minas del 19 de octubre de 2023.",
+                                        "url_pdf": {
+                                            "szBytes": "264296",
+                                            "szKBytes": "258",
+                                            "pagina_inicial": "46249",
+                                            "pagina_final": "46257",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29818.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29818",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29818"
+                                    }
+                                },
+                                {
+                                    "codigo": "8080",
+                                    "nombre": "COMUNIDAD AUTÓNOMA DE EXTREMADURA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29819",
+                                        "titulo": "Anuncio del Servicio de Ordenación Industrial, Energética y Minera, de la Consejería de Agricultura, Ganadería y Desarrollo Sostenible por el que se somete a información pública la petición de autorización administrativa previa y reconocimiento en concreto de la utilidad pública de las instalaciones correspondientes al proyecto denominado \"Desvío de un tramo de la LAMT 4849-02 \"Perales\" de la STR \"CH Borbollón\", de 20 kV, entre los apoyos 5040 y 5043 de la misma, en los términos municipales de Gata y Villasbuenas de Gata\". Expte.: AT-9568.",
+                                        "url_pdf": {
+                                            "szBytes": "170042",
+                                            "szKBytes": "166",
+                                            "pagina_inicial": "46258",
+                                            "pagina_final": "46260",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29819.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29819",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29819"
+                                    }
+                                },
+                                {
+                                    "codigo": "9536",
+                                    "nombre": "OTROS ENTES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29820",
+                                            "titulo": "Anuncio de la Comunidad de Usuarios de Aguas de Guillade de Abaixo sobre convocatoria de Asamblea General Ordinaria.",
+                                            "url_pdf": {
+                                                "szBytes": "145832",
+                                                "szKBytes": "142",
+                                                "pagina_inicial": "46261",
+                                                "pagina_final": "46261",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29820.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29820",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29820"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29821",
+                                            "titulo": "Anuncio de la Comunidad de Regantes La Higueruela sobre convocatoria de Junta.",
+                                            "url_pdf": {
+                                                "szBytes": "144371",
+                                                "szKBytes": "141",
+                                                "pagina_inicial": "46262",
+                                                "pagina_final": "46262",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/21/pdfs/BOE-B-2024-29821.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29821",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29821"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

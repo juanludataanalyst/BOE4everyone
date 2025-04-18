@@ -1,0 +1,2409 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20240824"
+            },
+            "diario": [
+                {
+                    "numero": "205",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2024-205",
+                        "url_pdf": {
+                            "szBytes": "316245",
+                            "szKBytes": "309",
+                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-S-2024-205.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": {
+                                "codigo": "9579",
+                                "nombre": "MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Formación profesional marítima y sanitaria",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17282",
+                                                "control": "2024/13073",
+                                                "titulo": "Orden ISM/890/2024, de 20 de agosto, por la que se modifica la Orden TMS/693/2018, de 28 de junio, por la que se desarrolla el Real Decreto 292/2018, de 18 de mayo, por el que se regula el procedimiento de acceso y el régimen de prestación de la formación profesional marítima y sanitaria del Instituto Social de la Marina.",
+                                                "url_pdf": {
+                                                    "szBytes": "201568",
+                                                    "szKBytes": "197",
+                                                    "pagina_inicial": "107818",
+                                                    "pagina_final": "107819",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17282.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17282",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17282"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "9591",
+                                    "nombre": "MINISTERIO DE INDUSTRIA Y TURISMO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17283",
+                                                "control": "2024/13076",
+                                                "titulo": "Resolución de 19 de agosto de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 8 de julio de 2024, en el Instituto de Turismo de España, O.A.",
+                                                "url_pdf": {
+                                                    "szBytes": "224681",
+                                                    "szKBytes": "219",
+                                                    "pagina_inicial": "107820",
+                                                    "pagina_final": "107821",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17283.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17283",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17283"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9593",
+                                    "nombre": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17284",
+                                                "control": "2024/13040",
+                                                "titulo": "Resolución de 16 de agosto de 2024, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 13 de junio de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "211718",
+                                                    "szKBytes": "207",
+                                                    "pagina_inicial": "107822",
+                                                    "pagina_final": "107823",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17284.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17284",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17284"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17285",
+                                                    "control": "2024/13024",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de junio de 2024.",
+                                                    "url_pdf": {
+                                                        "szBytes": "213558",
+                                                        "szKBytes": "209",
+                                                        "pagina_inicial": "107824",
+                                                        "pagina_final": "107825",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17285.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17285",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17285"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17286",
+                                                    "control": "2024/13025",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 3 de julio de 2024.",
+                                                    "url_pdf": {
+                                                        "szBytes": "211035",
+                                                        "szKBytes": "206",
+                                                        "pagina_inicial": "107826",
+                                                        "pagina_final": "107827",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17286.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17286",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17286"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17287",
+                                                    "control": "2024/13096",
+                                                    "titulo": "Resolución de 9 de agosto de 2024, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema de promoción interna, del Cuerpo Ejecutivo del Servicio de Vigilancia Aduanera, especialidades de Investigación, Navegación y Propulsión.",
+                                                    "url_pdf": {
+                                                        "szBytes": "392553",
+                                                        "szKBytes": "383",
+                                                        "pagina_inicial": "107828",
+                                                        "pagina_final": "107834",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17287.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17287",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17287"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17288",
+                                                    "control": "2024/13097",
+                                                    "titulo": "Resolución de 9 de agosto de 2024, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, del Cuerpo Ejecutivo del Servicio de Vigilancia Aduanera, especialidades de Investigación, Navegación, Propulsión y Comunicaciones.",
+                                                    "url_pdf": {
+                                                        "szBytes": "434012",
+                                                        "szKBytes": "424",
+                                                        "pagina_inicial": "107835",
+                                                        "pagina_final": "107842",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17288.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17288",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17288"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": {
+                                "codigo": "9525",
+                                "nombre": "ADMINISTRACIÓN LOCAL",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17289",
+                                                    "control": "2024/104228",
+                                                    "titulo": "Resolución de 21 de agosto de 2024, del Consorcio de Gestión de Servicios Medioambientales de la Diputación Provincial de Badajoz, que deja parcialmente sin efecto la de 14 de agosto de 2024, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190723",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "107843",
+                                                        "pagina_final": "107843",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17289.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17289",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17289"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17290",
+                                                    "control": "2024/104230",
+                                                    "titulo": "Resolución de 21 de agosto de 2024, del Ayuntamiento de Zahara (Cádiz), de corrección de errores de la de 8 de agosto de 2024, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191480",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "107844",
+                                                        "pagina_final": "107844",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17290.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17290",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17290"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17291",
+                                                    "control": "2024/104231",
+                                                    "titulo": "Resolución de 21 de agosto de 2024, del Ayuntamiento de Zahara (Cádiz), de corrección de errores de la de 8 de agosto de 2024, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191720",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "107845",
+                                                        "pagina_final": "107845",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17291.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17291",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17291"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9562",
+                                    "nombre": "MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Visados. Tasas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17292",
+                                                "control": "2024/13000",
+                                                "titulo": "Orden AUC/891/2024, de 13 de agosto, por la que se establecen las cuantías de las tasas por la tramitación de visados.",
+                                                "url_pdf": {
+                                                    "szBytes": "208074",
+                                                    "szKBytes": "203",
+                                                    "pagina_inicial": "107846",
+                                                    "pagina_final": "107847",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17292.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17292",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17292"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Galicia. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17293",
+                                                "control": "2024/13080",
+                                                "titulo": "Resolución de 17 de julio de 2024, de la Autoridad Portuaria de A Coruña, por la que se publica el Convenio con la Universidad de A Coruña, para la ejecución y desarrollo del proyecto de I+D+I \"Análisis y transferencia de tecnología para la mejora de la operatividad de los nuevos muelles y terminales de la dársena exterior de Punta Langosteira del puerto de A Coruña\".",
+                                                "url_pdf": {
+                                                    "szBytes": "282714",
+                                                    "szKBytes": "276",
+                                                    "pagina_inicial": "107848",
+                                                    "pagina_final": "107861",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17293.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17293",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17293"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Recursos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17294",
+                                                "control": "2024/13089",
+                                                "titulo": "Resolución de 21 de agosto de 2024, de la Dirección General de la Economía Social y la Responsabilidad Social de las Empresas, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 1219/2024, interpuesto ante la Audiencia Nacional, Sala de lo Contencioso-Administrativo, Sección Cuarta.",
+                                                "url_pdf": {
+                                                    "szBytes": "191609",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "107862",
+                                                    "pagina_final": "107862",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17294.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17294",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17294"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "3120",
+                                    "nombre": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Extremadura. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17295",
+                                                "control": "2024/13091",
+                                                "titulo": "Resolución de 20 de agosto de 2024, de la Subsecretaría, por la que se publica el Convenio con la Comunidad Autónoma de Extremadura, en materia de estadística para el año 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "265143",
+                                                    "szKBytes": "259",
+                                                    "pagina_inicial": "107863",
+                                                    "pagina_final": "107869",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17295.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17295",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17295"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4110",
+                                    "nombre": "MINISTERIO DE CULTURA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17296",
+                                                "control": "2024/12990",
+                                                "titulo": "Resolución de 14 de agosto de 2024, del Museo Nacional Centro de Arte Reina Sofía, por la que se publica el Convenio con la Fundación Mutua Madrileña, para el mecenazgo del Programa de Atención al Visitante del Museo.",
+                                                "url_pdf": {
+                                                    "szBytes": "254752",
+                                                    "szKBytes": "249",
+                                                    "pagina_inicial": "107870",
+                                                    "pagina_final": "107879",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17296.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17296",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17296"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4335",
+                                    "nombre": "MINISTERIO DE SANIDAD",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Subvenciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17297",
+                                                "control": "2024/13013",
+                                                "titulo": "Orden SND/892/2024, de 14 de agosto, por la que se modifica la Orden SND/503/2020, de 3 de junio, por la que se establecen las bases reguladoras para la concesión de subvenciones destinadas a entidades sin fines de lucro para fomentar la donación y el trasplante de órganos, tejidos y células.",
+                                                "url_pdf": {
+                                                    "szBytes": "234286",
+                                                    "szKBytes": "229",
+                                                    "pagina_inicial": "107880",
+                                                    "pagina_final": "107887",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17297.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17297",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17297"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad de Madrid. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17298",
+                                                "control": "2024/13093",
+                                                "titulo": "Resolución de 19 de agosto de 2024, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con la Universidad Politécnica de Madrid, para la conexión a la red Infraestructura de Comunicaciones Cuánticas MadQCI mediante punto de presencia.",
+                                                "url_pdf": {
+                                                    "szBytes": "326337",
+                                                    "szKBytes": "319",
+                                                    "pagina_inicial": "107888",
+                                                    "pagina_final": "107906",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17298.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17298",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17298"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17299",
+                                                "control": "2024/13035",
+                                                "titulo": "Resolución de 30 de julio de 2024, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con la Universidad Católica San Antonio de Murcia, para el desarrollo de tesis doctorales y colaboración en Programas de Doctorado.",
+                                                "url_pdf": {
+                                                    "szBytes": "284556",
+                                                    "szKBytes": "278",
+                                                    "pagina_inicial": "107907",
+                                                    "pagina_final": "107918",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17299.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17299",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17299"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1020",
+                                    "nombre": "BANCO DE ESPAÑA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Mercado de divisas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17300",
+                                                "control": "2024/13104",
+                                                "titulo": "Resolución de 23 de agosto de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 23 de agosto de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+                                                "url_pdf": {
+                                                    "szBytes": "216923",
+                                                    "szKBytes": "212",
+                                                    "pagina_inicial": "107919",
+                                                    "pagina_final": "107920",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-A-2024-17300.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17300",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17300"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "4",
+                            "nombre": "IV. Administración de Justicia",
+                            "departamento": [
+                                {
+                                    "codigo": "9546",
+                                    "nombre": "JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29906",
+                                            "titulo": "AVILA",
+                                            "url_pdf": {
+                                                "szBytes": "141309",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46446",
+                                                "pagina_final": "46446",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29906.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29906",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29906"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29907",
+                                            "titulo": "AVILES",
+                                            "url_pdf": {
+                                                "szBytes": "141540",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46447",
+                                                "pagina_final": "46447",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29907.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29907",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29907"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29908",
+                                            "titulo": "BERJA",
+                                            "url_pdf": {
+                                                "szBytes": "141706",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46448",
+                                                "pagina_final": "46448",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29908.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29908",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29908"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29909",
+                                            "titulo": "BILBAO",
+                                            "url_pdf": {
+                                                "szBytes": "141585",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46449",
+                                                "pagina_final": "46449",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29909.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29909",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29909"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29910",
+                                            "titulo": "BURGOS",
+                                            "url_pdf": {
+                                                "szBytes": "141898",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46450",
+                                                "pagina_final": "46450",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29910.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29910",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29910"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29911",
+                                            "titulo": "CASTELLON DE LA PLANA",
+                                            "url_pdf": {
+                                                "szBytes": "142096",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46451",
+                                                "pagina_final": "46451",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29911.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29911",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29911"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29912",
+                                            "titulo": "CASTELLON DE LA PLANA",
+                                            "url_pdf": {
+                                                "szBytes": "142025",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46452",
+                                                "pagina_final": "46452",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29912.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29912",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29912"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29913",
+                                            "titulo": "COSLADA",
+                                            "url_pdf": {
+                                                "szBytes": "141698",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46453",
+                                                "pagina_final": "46453",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29913.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29913",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29913"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29914",
+                                            "titulo": "EL VENDRELL",
+                                            "url_pdf": {
+                                                "szBytes": "141675",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46454",
+                                                "pagina_final": "46454",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29914.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29914",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29914"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29915",
+                                            "titulo": "FIGUERES",
+                                            "url_pdf": {
+                                                "szBytes": "141822",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46455",
+                                                "pagina_final": "46455",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29915.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29915",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29915"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29916",
+                                            "titulo": "GRANADA",
+                                            "url_pdf": {
+                                                "szBytes": "141544",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46456",
+                                                "pagina_final": "46456",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29916.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29916",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29916"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29917",
+                                            "titulo": "GRANADILLA DE ABONA",
+                                            "url_pdf": {
+                                                "szBytes": "142196",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46457",
+                                                "pagina_final": "46457",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29917.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29917",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29917"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29918",
+                                            "titulo": "GRANOLLERS",
+                                            "url_pdf": {
+                                                "szBytes": "141956",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46458",
+                                                "pagina_final": "46458",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29918.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29918",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29918"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29919",
+                                            "titulo": "LEBRIJA",
+                                            "url_pdf": {
+                                                "szBytes": "141788",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46459",
+                                                "pagina_final": "46459",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29919.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29919",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29919"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29920",
+                                            "titulo": "LEBRIJA",
+                                            "url_pdf": {
+                                                "szBytes": "141785",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46460",
+                                                "pagina_final": "46460",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29920.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29920",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29920"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29921",
+                                            "titulo": "LINEA CONCEPCION",
+                                            "url_pdf": {
+                                                "szBytes": "141788",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46461",
+                                                "pagina_final": "46461",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29921.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29921",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29921"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29922",
+                                            "titulo": "LLIRIA",
+                                            "url_pdf": {
+                                                "szBytes": "141492",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46462",
+                                                "pagina_final": "46462",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29922.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29922",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29922"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29923",
+                                            "titulo": "LOGROÑO",
+                                            "url_pdf": {
+                                                "szBytes": "141945",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46463",
+                                                "pagina_final": "46463",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29923.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29923",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29923"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29924",
+                                            "titulo": "MADRID",
+                                            "url_pdf": {
+                                                "szBytes": "141613",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46464",
+                                                "pagina_final": "46464",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29924.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29924",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29924"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29925",
+                                            "titulo": "MADRID",
+                                            "url_pdf": {
+                                                "szBytes": "141612",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46465",
+                                                "pagina_final": "46465",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29925.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29925",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29925"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29926",
+                                            "titulo": "MADRID",
+                                            "url_pdf": {
+                                                "szBytes": "141617",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46466",
+                                                "pagina_final": "46466",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29926.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29926",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29926"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29927",
+                                            "titulo": "NULES",
+                                            "url_pdf": {
+                                                "szBytes": "141692",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46467",
+                                                "pagina_final": "46467",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29927.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29927",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29927"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29928",
+                                            "titulo": "NULES",
+                                            "url_pdf": {
+                                                "szBytes": "141842",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46468",
+                                                "pagina_final": "46468",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29928.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29928",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29928"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29929",
+                                            "titulo": "ORIHUELA",
+                                            "url_pdf": {
+                                                "szBytes": "141677",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46469",
+                                                "pagina_final": "46469",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29929.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29929",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29929"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29930",
+                                            "titulo": "PICASSENT",
+                                            "url_pdf": {
+                                                "szBytes": "141797",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46470",
+                                                "pagina_final": "46470",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29930.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29930",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29930"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29931",
+                                            "titulo": "PICASSENT",
+                                            "url_pdf": {
+                                                "szBytes": "141824",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46471",
+                                                "pagina_final": "46471",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29931.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29931",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29931"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29932",
+                                            "titulo": "SAN CRISTOBAL DE LA LAGUNA",
+                                            "url_pdf": {
+                                                "szBytes": "142627",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46472",
+                                                "pagina_final": "46472",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29932.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29932",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29932"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29933",
+                                            "titulo": "SANTA CRUZ DE TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142290",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46473",
+                                                "pagina_final": "46473",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29933.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29933",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29933"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29934",
+                                            "titulo": "SANTA CRUZ DE TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142181",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46474",
+                                                "pagina_final": "46474",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29934.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29934",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29934"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29935",
+                                            "titulo": "SANTANDER",
+                                            "url_pdf": {
+                                                "szBytes": "141880",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46475",
+                                                "pagina_final": "46475",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29935.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29935",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29935"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29936",
+                                            "titulo": "SEGORBE",
+                                            "url_pdf": {
+                                                "szBytes": "142035",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46476",
+                                                "pagina_final": "46476",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29936.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29936",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29936"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29937",
+                                            "titulo": "SUECA",
+                                            "url_pdf": {
+                                                "szBytes": "141659",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46477",
+                                                "pagina_final": "46477",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29937.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29937",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29937"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29938",
+                                            "titulo": "TARRAGONA",
+                                            "url_pdf": {
+                                                "szBytes": "141862",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46478",
+                                                "pagina_final": "46478",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29938.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29938",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29938"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29939",
+                                            "titulo": "TARRAGONA",
+                                            "url_pdf": {
+                                                "szBytes": "141899",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46479",
+                                                "pagina_final": "46479",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29939.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29939",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29939"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29940",
+                                            "titulo": "TELDE",
+                                            "url_pdf": {
+                                                "szBytes": "141411",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46480",
+                                                "pagina_final": "46480",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29940.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29940",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29940"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29941",
+                                            "titulo": "TORREJON DE ARDOZ",
+                                            "url_pdf": {
+                                                "szBytes": "142036",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46481",
+                                                "pagina_final": "46481",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29941.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29941",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29941"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29942",
+                                            "titulo": "TORRENT",
+                                            "url_pdf": {
+                                                "szBytes": "141570",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46482",
+                                                "pagina_final": "46482",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29942.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29942",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29942"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29943",
+                                            "titulo": "TORREVIEJA",
+                                            "url_pdf": {
+                                                "szBytes": "141801",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46483",
+                                                "pagina_final": "46483",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29943.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29943",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29943"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29944",
+                                            "titulo": "TORREVIEJA",
+                                            "url_pdf": {
+                                                "szBytes": "141804",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46484",
+                                                "pagina_final": "46484",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29944.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29944",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29944"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29945",
+                                            "titulo": "TORTOSA",
+                                            "url_pdf": {
+                                                "szBytes": "141722",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46485",
+                                                "pagina_final": "46485",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29945.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29945",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29945"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29946",
+                                            "titulo": "VILAFRANCA DEL PENEDES",
+                                            "url_pdf": {
+                                                "szBytes": "142438",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46486",
+                                                "pagina_final": "46486",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29946.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29946",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29946"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29947",
+                                            "titulo": "VILANOVA I LA GELTRU",
+                                            "url_pdf": {
+                                                "szBytes": "142203",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46487",
+                                                "pagina_final": "46487",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29947.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29947",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29947"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29948",
+                                            "titulo": "VILANOVA I LA GELTRU",
+                                            "url_pdf": {
+                                                "szBytes": "142362",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46488",
+                                                "pagina_final": "46488",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29948.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29948",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29948"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29949",
+                                            "titulo": "VIVEIRO",
+                                            "url_pdf": {
+                                                "szBytes": "141760",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46489",
+                                                "pagina_final": "46489",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29949.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29949",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29949"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29950",
+                                            "titulo": "XATIVA",
+                                            "url_pdf": {
+                                                "szBytes": "141601",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46490",
+                                                "pagina_final": "46490",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29950.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29950",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29950"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9571",
+                                    "nombre": "SERVICIOS COMUNES PROCESALES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29951",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141316",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46491",
+                                                "pagina_final": "46491",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29951.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29951",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29951"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29952",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141319",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46492",
+                                                "pagina_final": "46492",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29952.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29952",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29952"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29953",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141321",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46493",
+                                                "pagina_final": "46493",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29953.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29953",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29953"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29954",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141319",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46494",
+                                                "pagina_final": "46494",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29954.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29954",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29954"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29955",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141411",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46495",
+                                                "pagina_final": "46495",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29955.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29955",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29955"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29956",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141438",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46496",
+                                                "pagina_final": "46496",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29956.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29956",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29956"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29957",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141482",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46497",
+                                                "pagina_final": "46497",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29957.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29957",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29957"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29958",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141485",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46498",
+                                                "pagina_final": "46498",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29958.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29958",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29958"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29959",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141519",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46499",
+                                                "pagina_final": "46499",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29959.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29959",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29959"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29960",
+                                            "titulo": "VALENCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141287",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46500",
+                                                "pagina_final": "46500",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29960.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29960",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29960"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29961",
+                                            "titulo": "VALENCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141397",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46501",
+                                                "pagina_final": "46501",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29961.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29961",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29961"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29962",
+                                            "titulo": "VALENCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141298",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46502",
+                                                "pagina_final": "46502",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29962.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29962",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29962"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29963",
+                                            "titulo": "VALENCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141414",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "46503",
+                                                "pagina_final": "46503",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29963.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29963",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29963"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5A",
+                            "nombre": "V. Anuncios. - A. Contratación del Sector Público",
+                            "departamento": [
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29964",
+                                            "titulo": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de menaje y material fungible para la cocina general de la B. A. Morón. Expediente: 2024/EA24/00001261E.",
+                                            "url_pdf": {
+                                                "szBytes": "161511",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "46504",
+                                                "pagina_final": "46505",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29964.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29964",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29964"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29965",
+                                            "titulo": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de menaje y material fungible para la cocina general de la B. A. Morón. Expediente: 2024/EA24/00001261E.",
+                                            "url_pdf": {
+                                                "szBytes": "161504",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "46506",
+                                                "pagina_final": "46507",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29965.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29965",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29965"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29966",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: CBAM #2 Lote 4 \"Equipos de Acceso al Medio SCPC NO EPM\" del Acuerdo Marco 2022/SP03032003/0001365E. Expediente: 2024/SP03032003/00001240E.",
+                                            "url_pdf": {
+                                                "szBytes": "159411",
+                                                "szKBytes": "156",
+                                                "pagina_inicial": "46508",
+                                                "pagina_final": "46509",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29966.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29966",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29966"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29967",
+                                            "titulo": "Anuncio de licitación de: Jefatura de la Sección Económico-Administrativa 46 - Base Aérea de Matacán. Objeto: Reparación vehículo autoeXtintor EA-VE-0343-3. Expediente: 2024/EA46/00001455.",
+                                            "url_pdf": {
+                                                "szBytes": "163363",
+                                                "szKBytes": "160",
+                                                "pagina_inicial": "46510",
+                                                "pagina_final": "46511",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29967.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29967",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29967"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29968",
+                                            "titulo": "Anuncio de licitación de: Intendente de Cartagena. Objeto: JAT. Suministro de 2 dispositivos de inserción/extracción por helicóptero para la Fuerza de Guerra Naval Especial. Expediente: 2024/AR44U/00002180E.",
+                                            "url_pdf": {
+                                                "szBytes": "168322",
+                                                "szKBytes": "164",
+                                                "pagina_inicial": "46512",
+                                                "pagina_final": "46514",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29968.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29968",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29968"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29969",
+                                            "titulo": "Anuncio de formalización de contratos de: Intendente de Ferrol. Objeto: CM-5082-P-24. RESFER. RLA LA CORTINA. Adecuación de veintisiete cuartos de baño. Expediente: 2024/AR42U/00001415E.",
+                                            "url_pdf": {
+                                                "szBytes": "157585",
+                                                "szKBytes": "154",
+                                                "pagina_inicial": "46515",
+                                                "pagina_final": "46516",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29969.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29969",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29969"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29970",
+                                        "titulo": "Anuncio de formalización de contratos de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Creatividad, diseño y producción de una campaña de publicidad de sensibilización sobre la necesidad de cumplir con las obligaciones fiscales. Expediente: 24890032700.",
+                                        "url_pdf": {
+                                            "szBytes": "162435",
+                                            "szKBytes": "159",
+                                            "pagina_inicial": "46517",
+                                            "pagina_final": "46518",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29970.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29970",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29970"
+                                    }
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29971",
+                                            "titulo": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Cantábrico. Objeto: Asistencia técnica para la realización de los trabajos de revisión de los planes hidrológicos de las demarcaciones hidrográficas del Cantábrico Occidental y Oriental. Cuarto ciclo 2028 - 2033. Fase I Documentos iniciales. Expediente: N1.803.460/0411.",
+                                            "url_pdf": {
+                                                "szBytes": "171068",
+                                                "szKBytes": "167",
+                                                "pagina_inicial": "46519",
+                                                "pagina_final": "46521",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29971.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29971",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29971"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29972",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General del Agua. Objeto: Contrato Servicios para estudios técnicos implantación de Planes gestión del riesgo inundación y desarrollo y mejora del SN Cartografía zonas inundables en medidas Dirección General del Agua. Expediente: 21.804-0094/0411.",
+                                            "url_pdf": {
+                                                "szBytes": "173608",
+                                                "szKBytes": "170",
+                                                "pagina_inicial": "46522",
+                                                "pagina_final": "46524",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29972.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29972",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29972"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4335",
+                                    "nombre": "MINISTERIO DE SANIDAD",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29973",
+                                        "titulo": "Anuncio de formalización de contratos de: Secretaría General de la Agencia Española de Medicamentos y Productos Sanitarios. Objeto: Servicio de atención telefónica y acogida de visitas para la Agencia Española de Medicamentos y Productos Sanitarios. Expediente: 2024/22706/005.",
+                                        "url_pdf": {
+                                            "szBytes": "160994",
+                                            "szKBytes": "157",
+                                            "pagina_inicial": "46525",
+                                            "pagina_final": "46526",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29973.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29973",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29973"
+                                    }
+                                },
+                                {
+                                    "codigo": "9588",
+                                    "nombre": "MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29974",
+                                        "titulo": "Anuncio de formalización de contratos de: Centro de Promoción de la Autonomía Personal del IMSERSO. Objeto: Servicio de mantenimiento de los siete ascensores del Centro de Promoción de la Autonomía Personal de Bergondo. Expediente: PASA 15/2024.",
+                                        "url_pdf": {
+                                            "szBytes": "159664",
+                                            "szKBytes": "156",
+                                            "pagina_inicial": "46527",
+                                            "pagina_final": "46528",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29974.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29974",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29974"
+                                    }
+                                },
+                                {
+                                    "codigo": "1040",
+                                    "nombre": "COMISIÓN NACIONAL DEL MERCADO DE VALORES",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29975",
+                                        "titulo": "Anuncio de formalización de contratos de: Comisión Nacional del Mercado de Valores. Objeto: Mensajería de la Comisión Nacional del Mercado de Valores. Expediente: 16/24/S.",
+                                        "url_pdf": {
+                                            "szBytes": "157820",
+                                            "szKBytes": "154",
+                                            "pagina_inicial": "46529",
+                                            "pagina_final": "46530",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29975.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29975",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29975"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5B",
+                            "nombre": "V. Anuncios. - B. Otros anuncios oficiales",
+                            "departamento": [
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29976",
+                                        "titulo": "Anuncio del Juzgado Marítimo Permanente nº 1 de Barcelona sobre la asistencia marítima prestada a la embarcación de bandera de Noruega, nombrada NOMAD.",
+                                        "url_pdf": {
+                                            "szBytes": "145803",
+                                            "szKBytes": "142",
+                                            "pagina_inicial": "46531",
+                                            "pagina_final": "46531",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29976.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29976",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29976"
+                                    }
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29977",
+                                            "titulo": "U.R. SUBASTAS ARAGON",
+                                            "url_pdf": {
+                                                "szBytes": "142069",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46532",
+                                                "pagina_final": "46532",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29977.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29977",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29977"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29978",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142164",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46533",
+                                                "pagina_final": "46533",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29978.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29978",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29978"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29979",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "141983",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46534",
+                                                "pagina_final": "46534",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29979.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29979",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29979"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29980",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142090",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46535",
+                                                "pagina_final": "46535",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29980.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29980",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29980"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29981",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142095",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46536",
+                                                "pagina_final": "46536",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29981.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29981",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29981"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29982",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142349",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46537",
+                                                "pagina_final": "46537",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29982.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29982",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29982"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29983",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142279",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46538",
+                                                "pagina_final": "46538",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29983.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29983",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29983"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29984",
+                                            "titulo": "U.R. SUBASTAS GALICIA",
+                                            "url_pdf": {
+                                                "szBytes": "142169",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46539",
+                                                "pagina_final": "46539",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29984.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29984",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29984"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29985",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142278",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46540",
+                                                "pagina_final": "46540",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29985.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29985",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29985"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29986",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142409",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46541",
+                                                "pagina_final": "46541",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29986.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29986",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29986"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29987",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142411",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46542",
+                                                "pagina_final": "46542",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29987.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29987",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29987"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29988",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142411",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46543",
+                                                "pagina_final": "46543",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29988.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29988",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29988"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29989",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142410",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46544",
+                                                "pagina_final": "46544",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29989.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29989",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29989"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29990",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142298",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46545",
+                                                "pagina_final": "46545",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29990.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29990",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29990"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29991",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142299",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46546",
+                                                "pagina_final": "46546",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29991.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29991",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29991"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29992",
+                                            "titulo": "U.R. SUBASTAS GALICIA",
+                                            "url_pdf": {
+                                                "szBytes": "142129",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46547",
+                                                "pagina_final": "46547",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29992.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29992",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29992"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29993",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142479",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46548",
+                                                "pagina_final": "46548",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29993.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29993",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29993"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29994",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142408",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46549",
+                                                "pagina_final": "46549",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29994.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29994",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29994"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29995",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142297",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46550",
+                                                "pagina_final": "46550",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29995.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29995",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29995"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29996",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142294",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46551",
+                                                "pagina_final": "46551",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29996.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29996",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29996"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29997",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142298",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46552",
+                                                "pagina_final": "46552",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29997.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29997",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29997"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29998",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142408",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46553",
+                                                "pagina_final": "46553",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29998.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29998",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29998"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29999",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142297",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46554",
+                                                "pagina_final": "46554",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-29999.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29999",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29999"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30000",
+                                            "titulo": "U.R. SUBASTAS GALICIA",
+                                            "url_pdf": {
+                                                "szBytes": "141942",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46555",
+                                                "pagina_final": "46555",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30000.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30000",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30000"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30001",
+                                            "titulo": "U.R. SUBASTAS GALICIA",
+                                            "url_pdf": {
+                                                "szBytes": "141946",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46556",
+                                                "pagina_final": "46556",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30001.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30001",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30001"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30002",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142186",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46557",
+                                                "pagina_final": "46557",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30002.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30002",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30002"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30003",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142173",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46558",
+                                                "pagina_final": "46558",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30003.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30003",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30003"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30004",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142088",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46559",
+                                                "pagina_final": "46559",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30004.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30004",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30004"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30005",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "141978",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46560",
+                                                "pagina_final": "46560",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30005.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30005",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30005"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30006",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 29",
+                                            "url_pdf": {
+                                                "szBytes": "142257",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46561",
+                                                "pagina_final": "46561",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30006.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30006",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30006"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30007",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "141867",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46562",
+                                                "pagina_final": "46562",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30007.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30007",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30007"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30008",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142175",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46563",
+                                                "pagina_final": "46563",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30008.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30008",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30008"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30009",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142165",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46564",
+                                                "pagina_final": "46564",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30009.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30009",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30009"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30010",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142054",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46565",
+                                                "pagina_final": "46565",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30010.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30010",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30010"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30011",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142057",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46566",
+                                                "pagina_final": "46566",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30011.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30011",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30011"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30012",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142055",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46567",
+                                                "pagina_final": "46567",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30012.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30012",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30012"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30013",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142174",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46568",
+                                                "pagina_final": "46568",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30013.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30013",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30013"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30014",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142277",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46569",
+                                                "pagina_final": "46569",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30014.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30014",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30014"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30015",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142168",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46570",
+                                                "pagina_final": "46570",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30015.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30015",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30015"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30016",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142055",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46571",
+                                                "pagina_final": "46571",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30016.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30016",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30016"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30017",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142128",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46572",
+                                                "pagina_final": "46572",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30017.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30017",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30017"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30018",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142178",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46573",
+                                                "pagina_final": "46573",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30018.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30018",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30018"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30019",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142170",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46574",
+                                                "pagina_final": "46574",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30019.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30019",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30019"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30020",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142057",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46575",
+                                                "pagina_final": "46575",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30020.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30020",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30020"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30021",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142056",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46576",
+                                                "pagina_final": "46576",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30021.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30021",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30021"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30022",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142055",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46577",
+                                                "pagina_final": "46577",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30022.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30022",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30022"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30023",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142176",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46578",
+                                                "pagina_final": "46578",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30023.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30023",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30023"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30024",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142276",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46579",
+                                                "pagina_final": "46579",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30024.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30024",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30024"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30025",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142275",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46580",
+                                                "pagina_final": "46580",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30025.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30025",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30025"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30026",
+                                            "titulo": "U.R. SUBASTAS ANDALUCIA 41",
+                                            "url_pdf": {
+                                                "szBytes": "142172",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46581",
+                                                "pagina_final": "46581",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30026.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30026",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30026"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30027",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "141984",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46582",
+                                                "pagina_final": "46582",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30027.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30027",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30027"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30028",
+                                            "titulo": "Acuerdo de la Delegación de Economía y Hacienda en Melilla de procedimiento de enajenación directa de varias fincas titularidad del Patrimonio del Estado.",
+                                            "url_pdf": {
+                                                "szBytes": "147371",
+                                                "szKBytes": "144",
+                                                "pagina_inicial": "46583",
+                                                "pagina_final": "46583",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30028.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30028",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30028"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-30029",
+                                            "titulo": "Resolución de la Autoridad Portuaria de Tarragona por la que se hace público el otorgamiento de concesión a la mercantil Bergé Marítima, S.L. (Exp. 374).",
+                                            "url_pdf": {
+                                                "szBytes": "146797",
+                                                "szKBytes": "143",
+                                                "pagina_inicial": "46584",
+                                                "pagina_final": "46584",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30029.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30029",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30029"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30030",
+                                            "titulo": "Acuerdo del Consejo de Administración de la Autoridad Portuaria de Tarragona de ampliación de superficie de la concesión otorgada a Ocibar Marina Tarragona, S.L. (Exp. 131).",
+                                            "url_pdf": {
+                                                "szBytes": "144915",
+                                                "szKBytes": "142",
+                                                "pagina_inicial": "46585",
+                                                "pagina_final": "46585",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30030.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30030",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30030"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "3120",
+                                    "nombre": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-30031",
+                                        "titulo": "Extracto de la Orden de 8 de agosto de 2024 por la que se convocan las ayudas para los Planes de Producción y Comercialización para el año 2024, con posibilidad de anticipos a los mismos, de las organizaciones de productores pesqueros y sus asociaciones de ámbito nacional y transnacional",
+                                        "url_pdf": {
+                                            "szBytes": "152666",
+                                            "szKBytes": "149",
+                                            "pagina_inicial": "46586",
+                                            "pagina_final": "46587",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30031.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30031",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30031"
+                                    }
+                                },
+                                {
+                                    "codigo": "9593",
+                                    "nombre": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-30032",
+                                        "titulo": "Anuncio de la Dependencia del Área Funcional de Industria y Energía de la Subdelegación del Gobierno en Guadalajara por el que se somete a información pública la solicitud de autorización administrativa previa y declaración de impacto ambiental del parque fotovoltaico Madrid Norte 1, de 69 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Viñuelas, Valdenuño Fernández, El Cubillo de Uceda y Uceda en la provincia de Guadalajara, y Torremocha de Jarama, El Vellón, El Molar, Algete, Colmenar Viejo y Tres Cantos en la provincia de Madrid (PFot-645).",
+                                        "url_pdf": {
+                                            "szBytes": "164054",
+                                            "szKBytes": "160",
+                                            "pagina_inicial": "46588",
+                                            "pagina_final": "46590",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30032.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30032",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30032"
+                                    }
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-30033",
+                                            "titulo": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de autorización en el término municipal de Calanda (Teruel).",
+                                            "url_pdf": {
+                                                "szBytes": "147062",
+                                                "szKBytes": "144",
+                                                "pagina_inicial": "46591",
+                                                "pagina_final": "46591",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30033.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30033",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30033"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30034",
+                                            "titulo": "Anuncio de la Confederación Hidrográfica del Júcar O.A. de información pública de la resolución de concesión de aguas provenientes de aguas pluviales para usos industriales en término municipal de Arguisuelas (Cuenca). Expediente 2023CI0002.",
+                                            "url_pdf": {
+                                                "szBytes": "145910",
+                                                "szKBytes": "142",
+                                                "pagina_inicial": "46592",
+                                                "pagina_final": "46592",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30034.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30034",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30034"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-30035",
+                                        "titulo": "Resolución de la Tesorería General de la Seguridad Social de Álava, por la que se anuncia segunda subasta pública mediante procedimiento abierto de un inmueble de su propiedad en Vitoria-Gasteiz.",
+                                        "url_pdf": {
+                                            "szBytes": "148402",
+                                            "szKBytes": "145",
+                                            "pagina_inicial": "46593",
+                                            "pagina_final": "46593",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30035.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30035",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30035"
+                                    }
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-30036",
+                                            "titulo": "Extracto de la Resolución de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, por la que se convocan ayudas para la provisión del conjunto de equipamiento activo e infraestructura auxiliar necesaria para la provisión de servicios de comunicaciones móviles con tecnología 5G en zonas donde no existe cobertura móvil 4G con servicio mínimo de 50 Mbps (programa UNICO 5G redes activas), en el marco del Plan de Recuperación, Transformación y Resiliencia.",
+                                            "url_pdf": {
+                                                "szBytes": "156531",
+                                                "szKBytes": "153",
+                                                "pagina_inicial": "46594",
+                                                "pagina_final": "46595",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30036.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30036",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30036"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30037",
+                                            "titulo": "Extracto de la Resolución de 22 de agosto de 2024 de la Dirección General de la Entidad Pública Empresarial Red.es, M.P por la que se modifica la convocatoria de las ayudas destinadas a la contratación de Servicios de Asesoramiento para la Transformación Digital, para ampliar la cuantía fijada inicialmente en la convocatoria para el \"Segmento A: Empresas entre 10 y menos de 50 empleados\"",
+                                            "url_pdf": {
+                                                "szBytes": "154137",
+                                                "szKBytes": "151",
+                                                "pagina_inicial": "46596",
+                                                "pagina_final": "46597",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30037.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30037",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30037"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "8030",
+                                    "nombre": "COMUNIDAD AUTÓNOMA DE CANARIAS",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-30038",
+                                        "titulo": "AGENCIA TRIBUTARIA CANARIA",
+                                        "url_pdf": {
+                                            "szBytes": "142131",
+                                            "szKBytes": "139",
+                                            "pagina_inicial": "46598",
+                                            "pagina_final": "46598",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30038.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30038",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30038"
+                                    }
+                                },
+                                {
+                                    "codigo": "8170",
+                                    "nombre": "COMUNIDAD FORAL DE NAVARRA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-30039",
+                                        "titulo": "ORGANISMO AUTÓNOMO DE HACIENDA FORAL DE NAVARRA",
+                                        "url_pdf": {
+                                            "szBytes": "142483",
+                                            "szKBytes": "139",
+                                            "pagina_inicial": "46599",
+                                            "pagina_final": "46599",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30039.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30039",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30039"
+                                    }
+                                },
+                                {
+                                    "codigo": "8180",
+                                    "nombre": "CIUDAD DE CEUTA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-30040",
+                                        "titulo": "ORGANISMO AUTÓNOMO SERVICIOS TRIBUTARIOS DE CEUTA",
+                                        "url_pdf": {
+                                            "szBytes": "141996",
+                                            "szKBytes": "139",
+                                            "pagina_inicial": "46600",
+                                            "pagina_final": "46600",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30040.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30040",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30040"
+                                    }
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-30041",
+                                            "titulo": "GESTION TRIBUTARIA PROVINCIAL ALBACETE",
+                                            "url_pdf": {
+                                                "szBytes": "142319",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46601",
+                                                "pagina_final": "46601",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30041.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30041",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30041"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30042",
+                                            "titulo": "AYUNTAMIENTO DE XÀBIA",
+                                            "url_pdf": {
+                                                "szBytes": "141969",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46602",
+                                                "pagina_final": "46602",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30042.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30042",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30042"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30043",
+                                            "titulo": "GESTION TRIBUTARIA PROVINCIAL ALBACETE",
+                                            "url_pdf": {
+                                                "szBytes": "142300",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46603",
+                                                "pagina_final": "46603",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30043.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30043",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30043"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30044",
+                                            "titulo": "GESTION TRIBUTARIA PROVINCIAL ALBACETE",
+                                            "url_pdf": {
+                                                "szBytes": "142227",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "46604",
+                                                "pagina_final": "46604",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30044.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30044",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30044"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9536",
+                                    "nombre": "OTROS ENTES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-30045",
+                                            "titulo": "Anuncio de la Comunidad de Regantes Sur del Duero Masa de Agua Tierra del Vino sobre convocatoria de Junta.",
+                                            "url_pdf": {
+                                                "szBytes": "145442",
+                                                "szKBytes": "142",
+                                                "pagina_inicial": "46605",
+                                                "pagina_final": "46605",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30045.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30045",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30045"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-30046",
+                                            "titulo": "Anuncio de la Comunidad de Regantes Sur del Duero Masa de Agua Los Arenales-Tierras de Medina y La Moraña sobre convocatoria de Junta.",
+                                            "url_pdf": {
+                                                "szBytes": "145897",
+                                                "szKBytes": "142",
+                                                "pagina_inicial": "46606",
+                                                "pagina_final": "46606",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/24/pdfs/BOE-B-2024-30046.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-30046",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-30046"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

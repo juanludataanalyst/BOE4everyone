@@ -1,0 +1,2060 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20240817"
+            },
+            "diario": [
+                {
+                    "numero": "199",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2024-199",
+                        "url_pdf": {
+                            "szBytes": "296971",
+                            "szKBytes": "290",
+                            "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-S-2024-199.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "4110",
+                                    "nombre": "MINISTERIO DE CULTURA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Designaciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16996",
+                                                "control": "2024/12929",
+                                                "titulo": "Orden CLT/875/2024, de 13 de agosto, por la que se designan vocales del Real Patronato de la Biblioteca Nacional de España, O.A.",
+                                                "url_pdf": {
+                                                    "szBytes": "194466",
+                                                    "szKBytes": "190",
+                                                    "pagina_inicial": "106294",
+                                                    "pagina_final": "106294",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-16996.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16996",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16996"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4335",
+                                    "nombre": "MINISTERIO DE SANIDAD",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16997",
+                                                "control": "2024/12930",
+                                                "titulo": "Resolución de 12 de agosto de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 22 de mayo de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "212117",
+                                                    "szKBytes": "207",
+                                                    "pagina_inicial": "106295",
+                                                    "pagina_final": "106296",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-16997.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16997",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16997"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": {
+                                "codigo": "9525",
+                                "nombre": "ADMINISTRACIÓN LOCAL",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-16998",
+                                                    "control": "2024/103950",
+                                                    "titulo": "Resolución de 9 de agosto de 2024, del Ayuntamiento de Don Benito (Badajoz), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191385",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "106297",
+                                                        "pagina_final": "106297",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-16998.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16998",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16998"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16999",
+                                                    "control": "2024/103951",
+                                                    "titulo": "Resolución de 9 de agosto de 2024, del Ayuntamiento de Don Benito (Badajoz), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190686",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "106298",
+                                                        "pagina_final": "106298",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-16999.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16999",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16999"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17000",
+                                                    "control": "2024/104102",
+                                                    "titulo": "Resolución de 14 de agosto de 2024, del Ayuntamiento de La Llosa de Ranes (Valencia/València), de corrección de errores de la de 24 de julio de 2024, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192453",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "106299",
+                                                        "pagina_final": "106299",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17000.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17000",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17000"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9590",
+                                    "nombre": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17001",
+                                                    "control": "2024/12902",
+                                                    "titulo": "Resolución de 12 de abril de 2024, de la Presidencia del Consejo Superior de Deportes, por la que se publica el Convenio con la Federació Catalana D'Esgrima, para la realización del módulo de formación práctica del Ciclo de Grado Superior en Enseñanzas Deportivas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "245562",
+                                                        "szKBytes": "240",
+                                                        "pagina_inicial": "106300",
+                                                        "pagina_final": "106306",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17001.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17001",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17001"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17002",
+                                                    "control": "2024/12903",
+                                                    "titulo": "Resolución de 12 de abril de 2024, de la Presidencia del Consejo Superior de Deportes, por la que se publica el Convenio con la Real Federación Española de Esgrima, para la realización del módulo de formación práctica del Ciclo de Grado Superior en Enseñanzas Deportivas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "245317",
+                                                        "szKBytes": "240",
+                                                        "pagina_inicial": "106307",
+                                                        "pagina_final": "106313",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17002.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17002",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17002"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Ayudas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17003",
+                                                "control": "2024/12875",
+                                                "titulo": "Orden TES/876/2024, de 9 de agosto, por la que se modifica la Orden TES/869/2023, de 22 de julio, por la que se establecen las bases reguladoras de las ayudas para el Plan Integral de Impulso a la Economía Social para la Generación de un Tejido Económico, Inclusivo y Sostenible, en el marco del Plan de Recuperación, Transformación y Resiliencia.",
+                                                "url_pdf": {
+                                                    "szBytes": "207253",
+                                                    "szKBytes": "202",
+                                                    "pagina_inicial": "106314",
+                                                    "pagina_final": "106316",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17003.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17003",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17003"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9591",
+                                    "nombre": "MINISTERIO DE INDUSTRIA Y TURISMO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad de Madrid. Convenio",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17004",
+                                                    "control": "2024/12905",
+                                                    "titulo": "Resolución de 12 de julio de 2024, de la Subsecretaría, por la que se publica el Convenio con la Universidad Rey Juan Carlos, para prácticas externas curriculares y extracurriculares.",
+                                                    "url_pdf": {
+                                                        "szBytes": "247941",
+                                                        "szKBytes": "242",
+                                                        "pagina_inicial": "106317",
+                                                        "pagina_final": "106325",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17004.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17004",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17004"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17005",
+                                                    "control": "2024/12907",
+                                                    "titulo": "Resolución de 19 de julio de 2024, de la Subsecretaría, por la que se publica el Convenio con la Universidad Complutense de Madrid, para prácticas externas curriculares y extracurriculares.",
+                                                    "url_pdf": {
+                                                        "szBytes": "266240",
+                                                        "szKBytes": "260",
+                                                        "pagina_inicial": "106326",
+                                                        "pagina_final": "106334",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17005.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17005",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17005"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Instalaciones eléctricas",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17006",
+                                                    "control": "2024/12877",
+                                                    "titulo": "Resolución de 5 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Buganvilla Solar PV, SL, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para la instalación fotovoltaica \"Serna I Solar\", de 107,79 MW de potencia instalada, y su infraestructura de evacuación, ubicados en los términos municipales de Corella y Tudela (Navarra), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "255309",
+                                                        "szKBytes": "249",
+                                                        "pagina_inicial": "106335",
+                                                        "pagina_final": "106345",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17006.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17006",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17006"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17007",
+                                                    "control": "2024/12858",
+                                                    "titulo": "Resolución de 22 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Planta FV 127, SL, autorización administrativa previa y autorización administrativa de construcción para la instalación fotovoltaica Aquarii Solar, de 89,362 MW de potencia instalada, y sus infraestructuras de evacuación, en los términos municipales de Villamejil y Quintana del Castillo (León), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "249150",
+                                                        "szKBytes": "243",
+                                                        "pagina_inicial": "106346",
+                                                        "pagina_final": "106354",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17007.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17007",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17007"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17008",
+                                                    "control": "2024/12859",
+                                                    "titulo": "Resolución de 23 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Bidasoa Conex, SLU, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para la instalación fotovoltaica Montería Solar III, de 42,5 MW de potencia instalada, y su infraestructura de evacuación, en el término municipal de Fuentenovilla (Guadalajara), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "236154",
+                                                        "szKBytes": "231",
+                                                        "pagina_inicial": "106355",
+                                                        "pagina_final": "106362",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17008.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17008",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17008"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17009",
+                                                    "control": "2024/12860",
+                                                    "titulo": "Resolución de 23 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Desarrollos Fotovoltaicos Carril 400, SL, autorización administrativa previa y autorización administrativa de construcción para la instalación fotovoltaica Carril Solar, de 220,20 MW de potencia instalada, y sus infraestructuras de evacuación, en los términos municipales de Puerto Lumbreras y Lorca (Murcia).",
+                                                    "url_pdf": {
+                                                        "szBytes": "277169",
+                                                        "szKBytes": "271",
+                                                        "pagina_inicial": "106363",
+                                                        "pagina_final": "106373",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17009.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17009",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17009"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17010",
+                                                    "control": "2024/12861",
+                                                    "titulo": "Resolución de 23 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Mauricio Solar, SLU, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para la instalación fotovoltaica Mauricio Solar, de 50,01 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Chinchón y Morata de Tajuña (Madrid), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "259771",
+                                                        "szKBytes": "254",
+                                                        "pagina_inicial": "106374",
+                                                        "pagina_final": "106385",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17010.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17010",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17010"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17011",
+                                                    "control": "2024/12862",
+                                                    "titulo": "Resolución de 23 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Rabiza Solar, SLU, autorización administrativa de construcción para el parque solar fotovoltaico Rabiza Solar, de 75 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Colmenar de Oreja y Belmonte de Tajo (Madrid), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "234303",
+                                                        "szKBytes": "229",
+                                                        "pagina_inicial": "106386",
+                                                        "pagina_final": "106393",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17011.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17011",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17011"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17012",
+                                                    "control": "2024/12878",
+                                                    "titulo": "Resolución de 23 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Energía Amanecer, SLU, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para la instalación fotovoltaica Morata I, de 51,58 MW potencia instalada, y su infraestructura de evacuación, en los términos municipales de Villatobas y Villarrubia de Santiago (Toledo) y Colmenar de Oreja y Morata de Tajuña (Madrid).",
+                                                    "url_pdf": {
+                                                        "szBytes": "276698",
+                                                        "szKBytes": "270",
+                                                        "pagina_inicial": "106394",
+                                                        "pagina_final": "106408",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17012.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17012",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17012"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17013",
+                                                    "control": "2024/12879",
+                                                    "titulo": "Resolución de 23 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Miram Solar, SL, autorización administrativa previa y autorización administrativa de construcción para la instalación solar fotovoltaica Villameca Solar 1-2, de 92,3 MW de potencia instalada, y sus infraestructuras de evacuación, en los términos municipales de Quintana del Castillo y Villamejil (León).",
+                                                    "url_pdf": {
+                                                        "szBytes": "258837",
+                                                        "szKBytes": "253",
+                                                        "pagina_inicial": "106409",
+                                                        "pagina_final": "106420",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17013.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17013",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17013"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de la Región de Murcia. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-17014",
+                                                "control": "2024/12923",
+                                                "titulo": "Resolución de 7 de agosto de 2024, del Instituto de Astrofísica de Canarias, por la que se publica el Convenio para la cooperación educativa con la Universidad de Murcia, para la realización de prácticas externas curriculares.",
+                                                "url_pdf": {
+                                                    "szBytes": "228796",
+                                                    "szKBytes": "223",
+                                                    "pagina_inicial": "106421",
+                                                    "pagina_final": "106426",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17014.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17014",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17014"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17015",
+                                                    "control": "2024/12920",
+                                                    "titulo": "Resolución de 2 de agosto de 2024, del Instituto de Astrofísica de Canarias, por la que se publica el Convenio con el Cabildo Insular de Tenerife, para el desarrollo del programa \"Desarrollo Tecnológico de Tenerife\".",
+                                                    "url_pdf": {
+                                                        "szBytes": "281875",
+                                                        "szKBytes": "275",
+                                                        "pagina_inicial": "106427",
+                                                        "pagina_final": "106438",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17015.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17015",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17015"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17016",
+                                                    "control": "2024/12921",
+                                                    "titulo": "Resolución de 5 de agosto de 2024, del Instituto de Salud Carlos III, O.A., M.P., por la que se publica el Convenio con la Fundación para la Investigación Biomédica Hospital 12 de Octubre, para la realización de estancias para prácticas académicas curriculares y realización del trabajo fin de máster del Máster en bioinformática y ciencias de datos en medicina personalizada de precisión y salud.",
+                                                    "url_pdf": {
+                                                        "szBytes": "269348",
+                                                        "szKBytes": "263",
+                                                        "pagina_inicial": "106439",
+                                                        "pagina_final": "106446",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17016.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17016",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17016"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17017",
+                                                    "control": "2024/12922",
+                                                    "titulo": "Resolución de 6 de agosto de 2024, de la Universidad Internacional Menéndez Pelayo, O.A., por la que se publica el Convenio con el Grupo Empresarial Enhol, SL, para la realización de prácticas académicas externas por parte de estudiantes de postgrado.",
+                                                    "url_pdf": {
+                                                        "szBytes": "371232",
+                                                        "szKBytes": "363",
+                                                        "pagina_inicial": "106447",
+                                                        "pagina_final": "106459",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17017.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17017",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17017"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1020",
+                                    "nombre": "BANCO DE ESPAÑA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Mercado de divisas",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-17018",
+                                                    "control": "2024/12993",
+                                                    "titulo": "Resolución de 15 de agosto de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 15 de agosto de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+                                                    "url_pdf": {
+                                                        "szBytes": "217021",
+                                                        "szKBytes": "212",
+                                                        "pagina_inicial": "106460",
+                                                        "pagina_final": "106461",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17018.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17018",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17018"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-17019",
+                                                    "control": "2024/12994",
+                                                    "titulo": "Resolución de 16 de agosto de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 16 de agosto de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+                                                    "url_pdf": {
+                                                        "szBytes": "216932",
+                                                        "szKBytes": "212",
+                                                        "pagina_inicial": "106462",
+                                                        "pagina_final": "106463",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-A-2024-17019.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-17019",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-17019"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "4",
+                            "nombre": "IV. Administración de Justicia",
+                            "departamento": [
+                                {
+                                    "codigo": "1430",
+                                    "nombre": "TRIBUNAL SUPREMO",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29519",
+                                        "titulo": "SALA DE LO MILITAR",
+                                        "url_pdf": {
+                                            "szBytes": "144329",
+                                            "szKBytes": "141",
+                                            "pagina_inicial": "45759",
+                                            "pagina_final": "45759",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29519.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29519",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29519"
+                                    }
+                                },
+                                {
+                                    "codigo": "9546",
+                                    "nombre": "JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29520",
+                                            "titulo": "ALGECIRAS",
+                                            "url_pdf": {
+                                                "szBytes": "141992",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45760",
+                                                "pagina_final": "45760",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29520.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29520",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29520"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29521",
+                                            "titulo": "DURANGO",
+                                            "url_pdf": {
+                                                "szBytes": "142144",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45761",
+                                                "pagina_final": "45761",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29521.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29521",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29521"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29522",
+                                            "titulo": "LAS PALMAS DE GRAN CANARIA",
+                                            "url_pdf": {
+                                                "szBytes": "142426",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45762",
+                                                "pagina_final": "45762",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29522.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29522",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29522"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29523",
+                                            "titulo": "LEGANES",
+                                            "url_pdf": {
+                                                "szBytes": "141750",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "45763",
+                                                "pagina_final": "45763",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29523.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29523",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29523"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29524",
+                                            "titulo": "LLIRIA",
+                                            "url_pdf": {
+                                                "szBytes": "141346",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "45764",
+                                                "pagina_final": "45764",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29524.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29524",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29524"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29525",
+                                            "titulo": "MATARO",
+                                            "url_pdf": {
+                                                "szBytes": "141550",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "45765",
+                                                "pagina_final": "45765",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29525.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29525",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29525"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29526",
+                                            "titulo": "SABADELL",
+                                            "url_pdf": {
+                                                "szBytes": "141759",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "45766",
+                                                "pagina_final": "45766",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29526.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29526",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29526"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29527",
+                                            "titulo": "SANTA FE",
+                                            "url_pdf": {
+                                                "szBytes": "141906",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45767",
+                                                "pagina_final": "45767",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29527.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29527",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29527"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29528",
+                                            "titulo": "TORRENT",
+                                            "url_pdf": {
+                                                "szBytes": "141538",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "45768",
+                                                "pagina_final": "45768",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29528.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29528",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29528"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29529",
+                                            "titulo": "VALLADOLID",
+                                            "url_pdf": {
+                                                "szBytes": "141785",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "45769",
+                                                "pagina_final": "45769",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29529.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29529",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29529"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29530",
+                                            "titulo": "VALLS",
+                                            "url_pdf": {
+                                                "szBytes": "141721",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "45770",
+                                                "pagina_final": "45770",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29530.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29530",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29530"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5A",
+                            "nombre": "V. Anuncios. - A. Contratación del Sector Público",
+                            "departamento": [
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29531",
+                                            "titulo": "Anuncio de formalización de contratos de: Intendente de Ferrol. Objeto: CM-5070-P-24 ARFER. Adecuación oficinas y cuerpo de guardia del edificio de movimiento. Expediente: 2024/AR42U/00001243E.",
+                                            "url_pdf": {
+                                                "szBytes": "157471",
+                                                "szKBytes": "154",
+                                                "pagina_inicial": "45771",
+                                                "pagina_final": "45772",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29531.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29531",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29531"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29532",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Infraestructura antena ksat 13.5. Expediente: 582024032100.",
+                                            "url_pdf": {
+                                                "szBytes": "158391",
+                                                "szKBytes": "155",
+                                                "pagina_inicial": "45773",
+                                                "pagina_final": "45774",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29532.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29532",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29532"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29533",
+                                            "titulo": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 23 de la Base Aérea de Albacete. Objeto: Suministro de gas propano para dar servicio de calefacción ACS y cocinas de la Base Aérea de Albacete. Expediente: 2024/EA23/00000548E.",
+                                            "url_pdf": {
+                                                "szBytes": "162106",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "45775",
+                                                "pagina_final": "45776",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29533.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29533",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29533"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29534",
+                                            "titulo": "Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Estado Mayor de la Defensa. Objeto: Mantenimiento de las instalaciones de seguridad y protección contra incendios del Estado Mayor de la Defensa. Expediente: 2024/SP02002001/00000948E.",
+                                            "url_pdf": {
+                                                "szBytes": "159447",
+                                                "szKBytes": "156",
+                                                "pagina_inicial": "45777",
+                                                "pagina_final": "45778",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29534.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29534",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29534"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29535",
+                                            "titulo": "Anuncio de licitación de: Intendente de Rota. Objeto: AM. Mantenimiento y reforma de las zonas de habitabilidad en fragatas F-80 de la Armada apoyados por el Arsenal de Cádiz. 4 LOTES. Expediente: 2024/AR46U/00001519E.",
+                                            "url_pdf": {
+                                                "szBytes": "176120",
+                                                "szKBytes": "172",
+                                                "pagina_inicial": "45779",
+                                                "pagina_final": "45782",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29535.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29535",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29535"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29536",
+                                            "titulo": "Anuncio de formalización de contratos de: Sección de Asuntos Económicos de la Jefatura Sistemas de Información, Telecomunicaciones y Asistencia Técnica. Objeto: Adquisición focos de iluminación exterior para ZO. Expediente: 2024/ETSAE0904/00000352E.",
+                                            "url_pdf": {
+                                                "szBytes": "156472",
+                                                "szKBytes": "153",
+                                                "pagina_inicial": "45783",
+                                                "pagina_final": "45784",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29536.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29536",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29536"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29537",
+                                            "titulo": "Anuncio de formalización de contratos de: Sección de Asuntos Económicos de la Jefatura Sistemas de Información, Telecomunicaciones y Asistencia Técnica. Objeto: Suministro de acumulador ACS y dispensadores de agua. Expediente: 2024/ETSAE0904/00000388E.",
+                                            "url_pdf": {
+                                                "szBytes": "164063",
+                                                "szKBytes": "160",
+                                                "pagina_inicial": "45785",
+                                                "pagina_final": "45786",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29537.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29537",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29537"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29538",
+                                            "titulo": "Anuncio de licitación de: Subdirección General de Servicios Económicos y Pagadurías. Objeto: Servicios de trabajos agrícolas en la explotaciones agrícolas de cría caballar de las Fuerzas Armadas. Expediente: 2024/SP01010020/00000699E.",
+                                            "url_pdf": {
+                                                "szBytes": "183752",
+                                                "szKBytes": "179",
+                                                "pagina_inicial": "45787",
+                                                "pagina_final": "45790",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29538.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29538",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29538"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29539",
+                                            "titulo": "Anuncio de licitación de: Subdirección General de Servicios Económicos y Pagadurías. Objeto: Suministro de abonos, fitosanitarios y semillas para las explotaciones agrícolas de cría caballar de las Fuerzas Armadas, durante el periodo 01/01/2025 al 30/09/2025. Expediente: 2024/SP01010020/00000687E.",
+                                            "url_pdf": {
+                                                "szBytes": "178033",
+                                                "szKBytes": "174",
+                                                "pagina_inicial": "45791",
+                                                "pagina_final": "45794",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29539.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29539",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29539"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29540",
+                                            "titulo": "Anuncio de licitación de: Intendente de Cartagena. Objeto: JEMAN.- SEGEPESCA.- Contrato de servicios para el mantenimiento y reparación de calderería y construcciones metálicas en los buques de SEGEPESCA. Expediente: 2024/AR44U/00002614E.",
+                                            "url_pdf": {
+                                                "szBytes": "170781",
+                                                "szKBytes": "167",
+                                                "pagina_inicial": "45795",
+                                                "pagina_final": "45797",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29540.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29540",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29540"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29541",
+                                            "titulo": "Anuncio de licitación de: Intendente de Cartagena. Objeto: JEMAN.-SEGEPESCA.- Contrato de servicios para el mantenimiento y reparación de equipos de electrónica y navegación, sistemas de seguridad interior y SEGOP. Expediente: 2024/AR44U/00002613E.",
+                                            "url_pdf": {
+                                                "szBytes": "170352",
+                                                "szKBytes": "166",
+                                                "pagina_inicial": "45798",
+                                                "pagina_final": "45800",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29541.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29541",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29541"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29542",
+                                            "titulo": "Anuncio de formalización de contratos de: Parque Móvil del Estado. Objeto: Contrato del Servicio de Prevención Ajeno para la Vigilancia de la Salud del Parque Móvil del Estado. Expediente: 2024PR400008.",
+                                            "url_pdf": {
+                                                "szBytes": "151642",
+                                                "szKBytes": "148",
+                                                "pagina_inicial": "45801",
+                                                "pagina_final": "45801",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29542.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29542",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29542"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29543",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Valencia. Objeto: Suministro material eléctrico DE Valencia. Expediente: 24B70041100.",
+                                            "url_pdf": {
+                                                "szBytes": "162046",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "45802",
+                                                "pagina_final": "45803",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29543.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29543",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29543"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29544",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General de Tráfico. Objeto: Suministro de dispositivos de preseñalizacion de peligro V16 para los vehículos en propiedad de la Dirección General de Tráfico. Expediente: 4DGT6A000103.",
+                                            "url_pdf": {
+                                                "szBytes": "157125",
+                                                "szKBytes": "153",
+                                                "pagina_inicial": "45804",
+                                                "pagina_final": "45805",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29544.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29544",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29544"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29545",
+                                            "titulo": "Anuncio de licitación de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: Contratación de la gestión de los buques oceánicos del Servicio Marítimo de la Guardia Civil, a fin de garantizar su navegación y estado operativo permanente, que actualmente no pueden llevarse a cabo en su totalidad por parte del personal adscrito a dicho Servicio Marítimo. Expediente: D/0016/A/24/2.",
+                                            "url_pdf": {
+                                                "szBytes": "168168",
+                                                "szKBytes": "164",
+                                                "pagina_inicial": "45806",
+                                                "pagina_final": "45808",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29545.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29545",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29545"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29546",
+                                            "titulo": "Anuncio de licitación de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: servicio de mantenimiento, revisiones e inspecciones para la puesta en servicio de los helicópteros propiedad de la Dirección General de la Guardia Civil (Servicio Aéreo). Expediente: B/0011/A/24/2.",
+                                            "url_pdf": {
+                                                "szBytes": "167154",
+                                                "szKBytes": "163",
+                                                "pagina_inicial": "45809",
+                                                "pagina_final": "45811",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29546.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29546",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29546"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29547",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección de la Agencia Estatal de Seguridad Aérea. Objeto: 166/A24 Servicio de Mantenimiento de las Instalaciones de la Sede de la Agencia Estatal de Seguridad Aerea sita en el Paseo de la Castellana 112. Expediente: 2024CPW00059.",
+                                            "url_pdf": {
+                                                "szBytes": "165905",
+                                                "szKBytes": "162",
+                                                "pagina_inicial": "45812",
+                                                "pagina_final": "45814",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29547.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29547",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29547"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29548",
+                                            "titulo": "Anuncio de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias (ADIF), por el que se comunican las nuevas fechas del procedimiento de contratación \"Ejecución de la obra y realización de mantenimiento del proyecto constructivo de las instalaciones de telecomunicaciones móviles GSM-R. Tramo Xátiva-Alcoi de red convencional\". (Expediente: 4.24/27507.0186).",
+                                            "url_pdf": {
+                                                "szBytes": "146493",
+                                                "szKBytes": "143",
+                                                "pagina_inicial": "45815",
+                                                "pagina_final": "45815",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29548.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29548",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29548"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29549",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General del Agua. Objeto: Contrato Servicios para estudios técnicos implantación de Planes gestión del riesgo inundación y desarrollo y mejora del SN Cartografía zonas inundables en medidas Dirección General del Agua. Expediente: 21.804-0094/0411.",
+                                            "url_pdf": {
+                                                "szBytes": "171546",
+                                                "szKBytes": "168",
+                                                "pagina_inicial": "45816",
+                                                "pagina_final": "45818",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29549.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29549",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29549"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29550",
+                                            "titulo": "Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Ebro. Objeto: Consolidación y mejora del terreno en las zonas con problemas de infiltración-socavación detectadas en el tramo II del canal de Monegros entre los P.K. 26+224 y 29+691 (HU/Torralba de Aragón). Expediente: 015/24-OB.",
+                                            "url_pdf": {
+                                                "szBytes": "162063",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "45819",
+                                                "pagina_final": "45820",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29550.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29550",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29550"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29551",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General del Agua. Objeto: Contrato Servicios para estudios técnicos implantación de Planes gestión del riesgo inundación y desarrollo y mejora del SN Cartografía zonas inundables en medidas Dirección General del Agua. Expediente: 21.804-0094/0411.",
+                                            "url_pdf": {
+                                                "szBytes": "171448",
+                                                "szKBytes": "167",
+                                                "pagina_inicial": "45821",
+                                                "pagina_final": "45823",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29551.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29551",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29551"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29552",
+                                            "titulo": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Guadalquivir. Objeto: Contrato de obras de adecuación de los órganos de desagüe de presas, para modular el régimen de caudales medioambientales. Sevilla. Expediente: SE(DT)-6865.",
+                                            "url_pdf": {
+                                                "szBytes": "167403",
+                                                "szKBytes": "163",
+                                                "pagina_inicial": "45824",
+                                                "pagina_final": "45826",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29552.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29552",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29552"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29553",
+                                            "titulo": "Anuncio de licitación de: INSS-Dirección Provincial de Badajoz. Objeto: Servicios de limpieza y desinfección, desinsectación y desratización de los Centros de Atención e Información de la Seguridad Social y Unidad Médica del Equipo de Valoración de Incapacidades dependientes de la Dirección Provincial del Instituto Nacional de la Seguridad de Badajoz, de manera ambientalmente respetuosa. Expediente: 06/VC-92/24.",
+                                            "url_pdf": {
+                                                "szBytes": "171271",
+                                                "szKBytes": "167",
+                                                "pagina_inicial": "45827",
+                                                "pagina_final": "45829",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29553.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29553",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29553"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29554",
+                                            "titulo": "Anuncio de licitación de: TGSS-Dirección provincial de Bizkaia. Objeto: Limpieza integral de los inmuebles pertenecientes a la Dirección Provincial de Bizkaia, como son la propia Dirección Provincial, sus Administraciones, y de diversos elementos del Pabellón de Arrigorriaga. Expediente: 2024/480001.",
+                                            "url_pdf": {
+                                                "szBytes": "170302",
+                                                "szKBytes": "166",
+                                                "pagina_inicial": "45830",
+                                                "pagina_final": "45832",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29554.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29554",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29554"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5B",
+                            "nombre": "V. Anuncios. - B. Otros anuncios oficiales",
+                            "departamento": [
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29555",
+                                        "titulo": "Anuncio del Juzgado Marítimo Permanente número 8 de Valencia sobre la asistencia prestada a la embarcación de bandera de España, nombrada BORAMAR YAYITOS.",
+                                        "url_pdf": {
+                                            "szBytes": "146142",
+                                            "szKBytes": "143",
+                                            "pagina_inicial": "45833",
+                                            "pagina_final": "45833",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29555.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29555",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29555"
+                                    }
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29556",
+                                            "titulo": "Resolución de la Delegación de Economía y Hacienda de Castelló/Castellón, por la que se convoca subasta pública con proposición económica en sobre cerrado para la enajenación de una serie de bienes inmuebles propiedad de la Administración General del Estado y se aprueba el correspondiente pliego de condiciones particulares de la misma.",
+                                            "url_pdf": {
+                                                "szBytes": "191965",
+                                                "szKBytes": "187",
+                                                "pagina_inicial": "45834",
+                                                "pagina_final": "45841",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29556.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29556",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29556"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29557",
+                                            "titulo": "U.R. SUBASTAS CANTABRIA",
+                                            "url_pdf": {
+                                                "szBytes": "141887",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45842",
+                                                "pagina_final": "45842",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29557.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29557",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29557"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29558",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "141984",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45843",
+                                                "pagina_final": "45843",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29558.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29558",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29558"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29559",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "141986",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45844",
+                                                "pagina_final": "45844",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29559.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29559",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29559"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29560",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142085",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45845",
+                                                "pagina_final": "45845",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29560.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29560",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29560"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29561",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142088",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45846",
+                                                "pagina_final": "45846",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29561.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29561",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29561"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29562",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142089",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45847",
+                                                "pagina_final": "45847",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29562.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29562",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29562"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29563",
+                                            "titulo": "U.R. SUBASTAS ARAGON",
+                                            "url_pdf": {
+                                                "szBytes": "142256",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45848",
+                                                "pagina_final": "45848",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29563.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29563",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29563"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29564",
+                                            "titulo": "U.R. SUBASTAS ARAGON",
+                                            "url_pdf": {
+                                                "szBytes": "142180",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45849",
+                                                "pagina_final": "45849",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29564.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29564",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29564"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29565",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142087",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45850",
+                                                "pagina_final": "45850",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29565.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29565",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29565"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29566",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142084",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45851",
+                                                "pagina_final": "45851",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29566.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29566",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29566"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29567",
+                                            "titulo": "U.R. SUBASTAS CANTABRIA",
+                                            "url_pdf": {
+                                                "szBytes": "141988",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45852",
+                                                "pagina_final": "45852",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29567.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29567",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29567"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29568",
+                                            "titulo": "U.R. SUBASTAS CANTABRIA",
+                                            "url_pdf": {
+                                                "szBytes": "141987",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45853",
+                                                "pagina_final": "45853",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29568.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29568",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29568"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29569",
+                                            "titulo": "U.R. SUBASTAS ARAGON",
+                                            "url_pdf": {
+                                                "szBytes": "142179",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45854",
+                                                "pagina_final": "45854",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29569.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29569",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29569"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29570",
+                                            "titulo": "E.R. SUBASTAS.SEDE BADAJOZ",
+                                            "url_pdf": {
+                                                "szBytes": "142201",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45855",
+                                                "pagina_final": "45855",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29570.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29570",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29570"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29571",
+                                            "titulo": "E.R. SUBASTAS.SEDE BADAJOZ",
+                                            "url_pdf": {
+                                                "szBytes": "142374",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45856",
+                                                "pagina_final": "45856",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29571.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29571",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29571"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29572",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142154",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45857",
+                                                "pagina_final": "45857",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29572.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29572",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29572"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29573",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "141986",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45858",
+                                                "pagina_final": "45858",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29573.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29573",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29573"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29574",
+                                            "titulo": "U.R. SUBASTAS CASTILLA Y LEON",
+                                            "url_pdf": {
+                                                "szBytes": "142302",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45859",
+                                                "pagina_final": "45859",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29574.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29574",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29574"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29575",
+                                            "titulo": "U.R. SUBASTAS CANTABRIA",
+                                            "url_pdf": {
+                                                "szBytes": "141985",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45860",
+                                                "pagina_final": "45860",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29575.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29575",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29575"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29576",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142085",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45861",
+                                                "pagina_final": "45861",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29576.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29576",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29576"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29577",
+                                            "titulo": "U.R. SUBASTAS CANTABRIA",
+                                            "url_pdf": {
+                                                "szBytes": "141986",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45862",
+                                                "pagina_final": "45862",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29577.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29577",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29577"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29578",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142086",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45863",
+                                                "pagina_final": "45863",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29578.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29578",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29578"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29579",
+                                            "titulo": "U.R. SUBASTAS CANTABRIA",
+                                            "url_pdf": {
+                                                "szBytes": "141985",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45864",
+                                                "pagina_final": "45864",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29579.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29579",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29579"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29580",
+                                            "titulo": "U.R. SUBASTAS CANTABRIA",
+                                            "url_pdf": {
+                                                "szBytes": "141983",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45865",
+                                                "pagina_final": "45865",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29580.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29580",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29580"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29581",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142085",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45866",
+                                                "pagina_final": "45866",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29581.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29581",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29581"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29582",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142085",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45867",
+                                                "pagina_final": "45867",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29582.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29582",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29582"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29583",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142084",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45868",
+                                                "pagina_final": "45868",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29583.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29583",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29583"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29584",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142085",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45869",
+                                                "pagina_final": "45869",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29584.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29584",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29584"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29585",
+                                            "titulo": "U.R. SUBASTAS MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141938",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45870",
+                                                "pagina_final": "45870",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29585.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29585",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29585"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29586",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142084",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45871",
+                                                "pagina_final": "45871",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29586.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29586",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29586"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29587",
+                                            "titulo": "E.R. SUBASTAS.SEDE BADAJOZ",
+                                            "url_pdf": {
+                                                "szBytes": "142275",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45872",
+                                                "pagina_final": "45872",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29587.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29587",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29587"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29588",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142054",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45873",
+                                                "pagina_final": "45873",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29588.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29588",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29588"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29589",
+                                            "titulo": "E.R. SUBASTAS TENERIFE",
+                                            "url_pdf": {
+                                                "szBytes": "142056",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45874",
+                                                "pagina_final": "45874",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29589.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29589",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29589"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29590",
+                                            "titulo": "U.R. SUBASTAS CASTILLA Y LEON",
+                                            "url_pdf": {
+                                                "szBytes": "142303",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45875",
+                                                "pagina_final": "45875",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29590.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29590",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29590"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29591",
+                                            "titulo": "E.R. SUBASTAS.SEDE BADAJOZ",
+                                            "url_pdf": {
+                                                "szBytes": "142378",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45876",
+                                                "pagina_final": "45876",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29591.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29591",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29591"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29592",
+                                            "titulo": "U.R. SUBASTAS CANTABRIA",
+                                            "url_pdf": {
+                                                "szBytes": "142059",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45877",
+                                                "pagina_final": "45877",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29592.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29592",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29592"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29593",
+                                            "titulo": "U.R. SUBASTAS CANTABRIA",
+                                            "url_pdf": {
+                                                "szBytes": "141959",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45878",
+                                                "pagina_final": "45878",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29593.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29593",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29593"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29594",
+                                            "titulo": "U.R. SUBASTAS CASTILLA Y LEON",
+                                            "url_pdf": {
+                                                "szBytes": "142302",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45879",
+                                                "pagina_final": "45879",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29594.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29594",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29594"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29595",
+                                            "titulo": "U.R. SUBASTAS MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141938",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45880",
+                                                "pagina_final": "45880",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29595.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29595",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29595"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29596",
+                                            "titulo": "U.R. SUBASTAS MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "142040",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45881",
+                                                "pagina_final": "45881",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29596.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29596",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29596"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29597",
+                                            "titulo": "U.R. SUBASTAS CASTILLA Y LEON",
+                                            "url_pdf": {
+                                                "szBytes": "142303",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45882",
+                                                "pagina_final": "45882",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29597.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29597",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29597"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29598",
+                                            "titulo": "U.R. SUBASTAS CASTILLA Y LEON",
+                                            "url_pdf": {
+                                                "szBytes": "142303",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45883",
+                                                "pagina_final": "45883",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29598.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29598",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29598"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29599",
+                                            "titulo": "U.R. SUBASTAS ARAGON",
+                                            "url_pdf": {
+                                                "szBytes": "142082",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45884",
+                                                "pagina_final": "45884",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29599.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29599",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29599"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29600",
+                                            "titulo": "U.R. SUBASTAS CASTILLA Y LEON",
+                                            "url_pdf": {
+                                                "szBytes": "142401",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45885",
+                                                "pagina_final": "45885",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29600.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29600",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29600"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29601",
+                                            "titulo": "U.R. SUBASTAS CASTILLA Y LEON",
+                                            "url_pdf": {
+                                                "szBytes": "142401",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45886",
+                                                "pagina_final": "45886",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29601.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29601",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29601"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29602",
+                                            "titulo": "U.R. SUBASTAS CASTILLA Y LEON",
+                                            "url_pdf": {
+                                                "szBytes": "142401",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45887",
+                                                "pagina_final": "45887",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29602.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29602",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29602"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29603",
+                                            "titulo": "U.R. SUBASTAS CASTILLA Y LEON",
+                                            "url_pdf": {
+                                                "szBytes": "142402",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45888",
+                                                "pagina_final": "45888",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29603.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29603",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29603"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29604",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142091",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45889",
+                                                "pagina_final": "45889",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29604.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29604",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29604"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29605",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142095",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45890",
+                                                "pagina_final": "45890",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29605.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29605",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29605"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29606",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142161",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45891",
+                                                "pagina_final": "45891",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29606.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29606",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29606"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29607",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142164",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45892",
+                                                "pagina_final": "45892",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29607.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29607",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29607"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29608",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142093",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45893",
+                                                "pagina_final": "45893",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29608.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29608",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29608"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29609",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142093",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45894",
+                                                "pagina_final": "45894",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29609.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29609",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29609"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29610",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142095",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45895",
+                                                "pagina_final": "45895",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29610.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29610",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29610"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29611",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142093",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45896",
+                                                "pagina_final": "45896",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29611.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29611",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29611"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29612",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142094",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45897",
+                                                "pagina_final": "45897",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29612.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29612",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29612"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29613",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142162",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45898",
+                                                "pagina_final": "45898",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29613.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29613",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29613"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29614",
+                                            "titulo": "U.R. SUBASTAS CATALUÑA",
+                                            "url_pdf": {
+                                                "szBytes": "142092",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45899",
+                                                "pagina_final": "45899",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29614.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29614",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29614"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29615",
+                                            "titulo": "U.R. SUBASTAS CASTILLA Y LEON",
+                                            "url_pdf": {
+                                                "szBytes": "142295",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45900",
+                                                "pagina_final": "45900",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29615.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29615",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29615"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29616",
+                                            "titulo": "Anuncio de la Autoridad Portuaria de Huelva referente al trámite de información pública, relativo a la solicitud presentada por la mercantil \"Atlantic Copper, S.L.U.\", de una concesión administrativa en la zona de servicio del Puerto de Huelva.",
+                                            "url_pdf": {
+                                                "szBytes": "145590",
+                                                "szKBytes": "142",
+                                                "pagina_inicial": "45901",
+                                                "pagina_final": "45901",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29616.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29616",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29616"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29617",
+                                            "titulo": "Anuncio de la Autoridad Portuaria de Castellón por el que se somete a información pública el proyecto básico para una instalación de tránsito y almacenamiento de alcohol etílico en el Puerto de Castellón de la concesión administrativa Alcohespa, S.L.",
+                                            "url_pdf": {
+                                                "szBytes": "146705",
+                                                "szKBytes": "143",
+                                                "pagina_inicial": "45902",
+                                                "pagina_final": "45902",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29617.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29617",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29617"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29618",
+                                            "titulo": "Resolución de la Dirección General del Sector Ferroviario por la que se abre Información Pública y se convoca a los propietarios de los bienes y derechos afectados al levantamiento de las actas previas correspondientes al Expediente de Expropiación Forzosa 239ADIF2497 motivado por las obras del \"Proyecto de Construcción para la supresión de Pasos a Nivel en líneas de Red Convencional (RC). Trayectos: Orense - Monforte - Lugo (9 Lotes). Lote 2. T.M. Sober (Lugo) y Orense. P.N. 45+245\" en el término municipal de Ourense (Ourense).",
+                                            "url_pdf": {
+                                                "szBytes": "230084",
+                                                "szKBytes": "225",
+                                                "pagina_inicial": "45903",
+                                                "pagina_final": "45905",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29618.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29618",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29618"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29619",
+                                            "titulo": "Resolución de la Dirección General del Sector Ferroviario por la que se abre Información Pública y se convoca a los propietarios de los bienes y derechos afectados al levantamiento de las actas previas correspondientes al Expediente de Expropiación Forzosa 238ADIF2497 motivado por las obras del \"Proyecto Constructivo para la supresión del Paso a Nivel del p.k. 42/743 de la línea Monforte de Lemos - Vigo. Término municipal de Orense\" en el término municipal de Ourense (Ourense).",
+                                            "url_pdf": {
+                                                "szBytes": "184043",
+                                                "szKBytes": "180",
+                                                "pagina_inicial": "45906",
+                                                "pagina_final": "45907",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29619.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29619",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29619"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29620",
+                                            "titulo": "Anuncio del ADIF por el que se somete a información pública a efectos de declaración de la necesidad de ocupación el Proyecto \"Proyecto constructivo de supresión del paso a nivel nº1 (p.k. 0/969) en la red de ancho métrico. Línea Liérganes-Orejo. Municipio de Marina de Cudeyo (Cantabria)\".",
+                                            "url_pdf": {
+                                                "szBytes": "171558",
+                                                "szKBytes": "168",
+                                                "pagina_inicial": "45908",
+                                                "pagina_final": "45909",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29620.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29620",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29620"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29621",
+                                            "titulo": "Anuncio del ADIF por el que se somete a información pública a efectos de declaración de la necesidad de ocupación el Proyecto \"Proyecto constructivo de supresión del paso a nivel nº47 (P.K. 562/332) en la Red de Ancho Métrico. Línea Bilbao la Concordia - Santander. Municipio de Hazas de Cesto (Cantabria)\".",
+                                            "url_pdf": {
+                                                "szBytes": "189675",
+                                                "szKBytes": "185",
+                                                "pagina_inicial": "45910",
+                                                "pagina_final": "45911",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29621.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29621",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29621"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29622",
+                                            "titulo": "Anuncio de la Autoridad Portuaria de Santander, por el que se somete a información pública la solicitud presentada por la sociedad Nsct Investments, S.L., de modificación sustancial de la concesión, de la que es titular, en el Espigón norte de Raos del Puerto de Santander.",
+                                            "url_pdf": {
+                                                "szBytes": "146382",
+                                                "szKBytes": "143",
+                                                "pagina_inicial": "45912",
+                                                "pagina_final": "45912",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29622.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29622",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29622"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29623",
+                                            "titulo": "Anuncio de la Confederación Hidrográfica del Cantábrico, O.A., por el que se somete a información pública el \"Proyecto de mejora ambiental del río Aller entre El Llagar y Cabañaquinta. T.M. de Aller (Asturias)\" y su Adenda, así como la relación de bienes y derechos de necesaria ocupación.",
+                                            "url_pdf": {
+                                                "szBytes": "174051",
+                                                "szKBytes": "170",
+                                                "pagina_inicial": "45913",
+                                                "pagina_final": "45914",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29623.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29623",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29623"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29624",
+                                            "titulo": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Júcar de información pública de la resolución de modificación de características de una concesión de aguas subterráneas en el término municipal de Fuenterrobles (Valencia), expediente 2021RP0060.",
+                                            "url_pdf": {
+                                                "szBytes": "146397",
+                                                "szKBytes": "143",
+                                                "pagina_inicial": "45915",
+                                                "pagina_final": "45915",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29624.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29624",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29624"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29625",
+                                            "titulo": "Anuncio de Resolución del Presidente de la Confederación Hidrográfica del Segura, O.A. sobre el análisis conjunto de las medidas a adoptar en las próximas semanas del punto tercero del orden del día de la Comisión Permanente de la Sequía celebrada el 13 de agosto de 2024, para reducción de los derechos concesionales de todos los aprovechamientos de los ríos Segura, Mundo y Quípar en el año hidrológico 2023-2024.",
+                                            "url_pdf": {
+                                                "szBytes": "155004",
+                                                "szKBytes": "151",
+                                                "pagina_inicial": "45916",
+                                                "pagina_final": "45917",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29625.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29625",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29625"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "8030",
+                                    "nombre": "COMUNIDAD AUTÓNOMA DE CANARIAS",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29626",
+                                            "titulo": "Anuncio de la Dirección General de Energía por el que se somete a información pública la solicitud de Declaración, en concreto, de Utilidad Pública de la instalación \"PROYECTO SUBESTACIÓN EL PALMAR PROYECTO DE INDUSTRIA PARA LA CONSTRUCCIÓN DE LA NUEVA SUBESTACIÓN EL PALMAR\", \"ANEXO I\", \"anexo II\" Y \"REFORMA DEL PROYECTO DE NUEVAS LÍNEAS SUBTERRÁNEAS DE MEDIA TENSIÓN 20 KV PARA UNIFICACIÓN DE LA NUEVA SUBESTACIÓN CON LA CENTRAL \"C_ELPALMAR\", sita en Término municipal de San Sebastián de la Gomera, Isla de la Gomera. Expte. MT202300090/113.",
+                                            "url_pdf": {
+                                                "szBytes": "190228",
+                                                "szKBytes": "186",
+                                                "pagina_inicial": "45918",
+                                                "pagina_final": "45921",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29626.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29626",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29626"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29627",
+                                            "titulo": "AGENCIA TRIBUTARIA CANARIA",
+                                            "url_pdf": {
+                                                "szBytes": "141939",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "45922",
+                                                "pagina_final": "45922",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29627.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29627",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29627"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29628",
+                                        "titulo": "AYUNTAMIENTO DE CORESES",
+                                        "url_pdf": {
+                                            "szBytes": "142173",
+                                            "szKBytes": "139",
+                                            "pagina_inicial": "45923",
+                                            "pagina_final": "45923",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29628.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29628",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29628"
+                                    }
+                                },
+                                {
+                                    "codigo": "9536",
+                                    "nombre": "OTROS ENTES",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29629",
+                                        "titulo": "Anuncio de AENA, S.M.E., S.A., del Aeropuerto de Badajoz, respecto a una aeronave en situación aparente de abandono.",
+                                        "url_pdf": {
+                                            "szBytes": "144969",
+                                            "szKBytes": "142",
+                                            "pagina_inicial": "45924",
+                                            "pagina_final": "45924",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29629.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29629",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29629"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5C",
+                            "nombre": "V. Anuncios. - C. Anuncios particulares",
+                            "departamento": {
+                                "codigo": "9202",
+                                "nombre": "ANUNCIOS PARTICULARES",
+                                "texto": {
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-29630",
+                                            "titulo": "NOTARÍA DE JOAQUÍN BORRELL GARCÍA",
+                                            "url_pdf": {
+                                                "szBytes": "141606",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "45925",
+                                                "pagina_final": "45925",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29630.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29630",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29630"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-29631",
+                                            "titulo": "NOTARÍA DE SIMEÓN RIBELLES DURÁ",
+                                            "url_pdf": {
+                                                "szBytes": "141657",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "45926",
+                                                "pagina_final": "45926",
+                                                "texto": "https://www.boe.es/boe/dias/2024/08/17/pdfs/BOE-B-2024-29631.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29631",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29631"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

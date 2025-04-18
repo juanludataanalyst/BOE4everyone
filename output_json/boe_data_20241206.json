@@ -1,0 +1,1399 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20241206"
+            },
+            "diario": [
+                {
+                    "numero": "294",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2024-294",
+                        "url_pdf": {
+                            "szBytes": "274514",
+                            "szKBytes": "268",
+                            "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-S-2024-294.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": [
+                                {
+                                    "codigo": "7723",
+                                    "nombre": "JEFATURA DEL ESTADO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Foral de Navarra",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25451",
+                                                "control": "2024/18937",
+                                                "titulo": "Ley Orgánica 6/2024, de 5 de diciembre, por la que se modifica la Ley Orgánica 13/1982, de 10 de agosto, de reintegración y amejoramiento del Régimen Foral de Navarra, en cuanto a tráfico, circulación de vehículos de motor y seguridad vial.",
+                                                "url_pdf": {
+                                                    "szBytes": "200891",
+                                                    "szKBytes": "196",
+                                                    "pagina_inicial": "166007",
+                                                    "pagina_final": "166008",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25451.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25451",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25451"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Servicios públicos. Acceso electrónico",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25452",
+                                                "control": "2024/18760",
+                                                "titulo": "Resolución 300/38523/2024, de 26 de noviembre, de la Secretaría de Estado de Defensa, por la que se crea el portal de internet del Hospital Central de la Defensa «Gómez Ulla», Centro Sanitario de Vida y Esperanza.",
+                                                "url_pdf": {
+                                                    "szBytes": "205831",
+                                                    "szKBytes": "201",
+                                                    "pagina_inicial": "166009",
+                                                    "pagina_final": "166011",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25452.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25452",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25452"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Prudencia financiera",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25453",
+                                                "control": "2024/18940",
+                                                "titulo": "Resolución de 4 de diciembre de 2024, de la Secretaría General del Tesoro y Financiación Internacional, por la que se actualiza el Anexo 1 incluido en la Resolución de 4 de julio de 2017, de la Secretaría General del Tesoro y Política Financiera, por la que se define el principio de prudencia financiera aplicable a las operaciones de endeudamiento y derivados de las comunidades autónomas y entidades locales.",
+                                                "url_pdf": {
+                                                    "szBytes": "278268",
+                                                    "szKBytes": "272",
+                                                    "pagina_inicial": "166012",
+                                                    "pagina_final": "166014",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25453.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25453",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25453"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1430",
+                                    "nombre": "TRIBUNAL SUPREMO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Autos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25454",
+                                                "control": "2024/18659",
+                                                "titulo": "Auto de 13 de noviembre de 2024, de la Sala Tercera del Tribunal Supremo, que acuerda la adopción de medida cautelar consistente en suspender cautelarmente la ejecución de la Oferta de Empleo Público para el ejercicio 2024 referida al Cuerpo Especial de Instituciones Penitenciarias, en el cupo de 73 plazas para cubrir mediante el procedimiento de acceso por el turno libre (Anexo I) y de 45 plazas para proveer por el procedimiento de promoción interna (Anexo VI).",
+                                                "url_pdf": {
+                                                    "szBytes": "192561",
+                                                    "szKBytes": "188",
+                                                    "pagina_inicial": "166015",
+                                                    "pagina_final": "166015",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25454.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25454",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25454"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "8010",
+                                    "nombre": "COMUNIDAD AUTÓNOMA DE ANDALUCÍA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Igualdad de oportunidades",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25455",
+                                                "control": "2024/18468",
+                                                "titulo": "Ley 5/2024, de 13 de noviembre, del Estatuto de las Mujeres Rurales y del Mar de Andalucía.",
+                                                "url_pdf": {
+                                                    "szBytes": "307644",
+                                                    "szKBytes": "300",
+                                                    "pagina_inicial": "166016",
+                                                    "pagina_final": "166034",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25455.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25455",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25455"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "8080",
+                                    "nombre": "COMUNIDAD AUTÓNOMA DE EXTREMADURA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Medidas fiscales. Vivienda",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25456",
+                                                "control": "2024/18469",
+                                                "titulo": "Decreto-ley 2/2024, de 22 de octubre, de medidas fiscales urgentes para impulsar el acceso a la vivienda en Extremadura.",
+                                                "url_pdf": {
+                                                    "szBytes": "327421",
+                                                    "szKBytes": "320",
+                                                    "pagina_inicial": "166035",
+                                                    "pagina_final": "166045",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25456.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25456",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25456"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25457",
+                                                "control": "2024/18818",
+                                                "titulo": "Orden INT/1377/2024, de 2 de diciembre, por la que se nombra para el Mando de la 2.ª Zona de la Guardia Civil, Comunidad Autónoma de Castilla-La Mancha (Toledo) al General de Brigada don Francisco Javier Vélez Alcalde.",
+                                                "url_pdf": {
+                                                    "szBytes": "191950",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "166046",
+                                                    "pagina_final": "166046",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25457.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25457",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25457"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9590",
+                                    "nombre": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25458",
+                                                "control": "2024/18679",
+                                                "titulo": "Orden EFD/1378/2024, de 22 de noviembre, por la que, a propuesta de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, se nombra personal funcionario de carrera de los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Profesores de Música y Artes Escénicas, Profesores de Artes Plásticas y Diseño y de Maestros de Taller de Artes Plásticas y Diseño a las personas seleccionadas en los procedimientos selectivos convocados por Resolución de 2 de febrero de 2022.",
+                                                "url_pdf": {
+                                                    "szBytes": "3272086",
+                                                    "szKBytes": "3195",
+                                                    "pagina_inicial": "166047",
+                                                    "pagina_final": "166111",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25458.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25458",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25458"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-25459",
+                                                    "control": "2024/18620",
+                                                    "titulo": "Resolución de 22 de noviembre de 2024, de la Universidad Nacional de Educación a Distancia, por la que se nombra Catedrático de Universidad a don Cristian Saborido Alejandro.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190679",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166112",
+                                                        "pagina_final": "166112",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25459.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25459",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25459"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25460",
+                                                    "control": "2024/18627",
+                                                    "titulo": "Resolución de 25 de noviembre de 2024, de la Universidad de Santiago de Compostela, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "210655",
+                                                        "szKBytes": "206",
+                                                        "pagina_inicial": "166113",
+                                                        "pagina_final": "166114",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25460.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25460",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25460"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25461",
+                                                    "control": "2024/18631",
+                                                    "titulo": "Resolución de 26 de noviembre de 2024, de la Universidad de Barcelona, por la que se nombra Profesor Titular de Universidad a don Salvador Oriola Requena.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191630",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "166115",
+                                                        "pagina_final": "166115",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25461.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25461",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25461"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25462",
+                                                    "control": "2024/18637",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad a don José Antonio Navia Manzano.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191931",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "166116",
+                                                        "pagina_final": "166116",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25462.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25462",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25462"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25463",
+                                                    "control": "2024/18638",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad a don José Vidal Núñez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192348",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "166117",
+                                                        "pagina_final": "166117",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25463.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25463",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25463"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25464",
+                                                    "control": "2024/18639",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Universidad de Alicante, por la que se nombra Catedrático de Universidad a don Alejandro Maté Morga.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191390",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "166118",
+                                                        "pagina_final": "166118",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25464.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25464",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25464"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25465",
+                                                    "control": "2024/18640",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Universidad de Huelva, por la que se nombra Catedrático de Universidad a don Miguel Ángel Delgado Canto.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192274",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "166119",
+                                                        "pagina_final": "166119",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25465.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25465",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25465"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25466",
+                                                    "control": "2024/18641",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Universidad de Huelva, por la que se nombra Profesor Titular de Universidad a don José Antonio Climent Rodríguez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192309",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "166120",
+                                                        "pagina_final": "166120",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25466.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25466",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25466"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25467",
+                                                    "control": "2024/18642",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Universidad Miguel Hernández de Elche, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194281",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "166121",
+                                                        "pagina_final": "166121",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25467.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25467",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25467"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25468",
+                                                    "control": "2024/18643",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Universidad Miguel Hernández de Elche, por la que se nombran Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192241",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "166122",
+                                                        "pagina_final": "166122",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25468.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25468",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25468"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25469",
+                                                    "control": "2024/18950",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Universidad de Burgos, por la que se nombra Catedrática de Universidad a doña María Fernández Hawrylak.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193104",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "166123",
+                                                        "pagina_final": "166123",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25469.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25469",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25469"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25470",
+                                                    "control": "2024/18951",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Universidad de Burgos, por la que se nombra Profesor Titular de Universidad a don Carlos Hugo Soria Cáceres.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192606",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "166124",
+                                                        "pagina_final": "166124",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25470.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25470",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25470"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25471",
+                                                    "control": "2024/18644",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, de la Universidad de Cádiz, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "196374",
+                                                        "szKBytes": "192",
+                                                        "pagina_inicial": "166125",
+                                                        "pagina_final": "166126",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25471.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25471",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25471"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25472",
+                                                    "control": "2024/18645",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, de la Universidad de Oviedo, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192050",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "166127",
+                                                        "pagina_final": "166127",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25472.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25472",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25472"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25473",
+                                                    "control": "2024/18646",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, de la Universidad de Oviedo, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192687",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "166128",
+                                                        "pagina_final": "166128",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25473.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25473",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25473"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Integraciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25474",
+                                                "control": "2024/18636",
+                                                "titulo": "Resolución de 27 de noviembre de 2024, de la Universidad de Huelva, por la que se integra en el Cuerpo de Profesores Titulares de Universidad a don Tomás Noguera Nebot.",
+                                                "url_pdf": {
+                                                    "szBytes": "195931",
+                                                    "szKBytes": "191",
+                                                    "pagina_inicial": "166129",
+                                                    "pagina_final": "166129",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25474.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25474",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25474"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario. Concursos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25475",
+                                                "control": "2024/18893",
+                                                "titulo": "Resolución de 3 de diciembre de 2024, de la Subsecretaría, por la que se corrigen errores en la de 21 de noviembre de 2024, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+                                                "url_pdf": {
+                                                    "szBytes": "191188",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "166130",
+                                                    "pagina_final": "166130",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25475.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25475",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25475"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25476",
+                                                "control": "2024/18831",
+                                                "titulo": "Resolución de 2 de diciembre de 2024, de la Secretaría de Estado de Función Pública, por la que se modifica la de 1 de octubre de 2024, por la que se designa el Tribunal calificador del proceso selectivo para el ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado, convocado por Resolución de 24 de julio de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "191727",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "166131",
+                                                    "pagina_final": "166131",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25476.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25476",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25476"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-25477",
+                                                    "control": "2024/106688",
+                                                    "titulo": "Resolución de 21 de noviembre de 2024, del Ayuntamiento de Venta de Baños (Palencia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190877",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166132",
+                                                        "pagina_final": "166132",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25477.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25477",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25477"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25478",
+                                                    "control": "2024/106679",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, de la Entidad Local Autónoma La Bobadilla (Jaén), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190627",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166133",
+                                                        "pagina_final": "166133",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25478.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25478",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25478"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25479",
+                                                    "control": "2024/106680",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, del Ayuntamiento de Torredonjimeno (Jaén), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190669",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166134",
+                                                        "pagina_final": "166134",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25479.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25479",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25479"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25480",
+                                                    "control": "2024/106686",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, del Ayuntamiento de Aranda de Duero (Burgos), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191038",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "166135",
+                                                        "pagina_final": "166135",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25480.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25480",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25480"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25481",
+                                                    "control": "2024/106690",
+                                                    "titulo": "Resolución de 27 de noviembre de 2024, del Ayuntamiento de Pájara (Las Palmas), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190589",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166136",
+                                                        "pagina_final": "166136",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25481.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25481",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25481"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25482",
+                                                    "control": "2024/106677",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Ourense, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "207437",
+                                                        "szKBytes": "203",
+                                                        "pagina_inicial": "166137",
+                                                        "pagina_final": "166140",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25482.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25482",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25482"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25483",
+                                                    "control": "2024/106681",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Cofrentes (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190394",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166141",
+                                                        "pagina_final": "166141",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25483.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25483",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25483"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25484",
+                                                    "control": "2024/106682",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Agón (Zaragoza), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190437",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166142",
+                                                        "pagina_final": "166142",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25484.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25484",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25484"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25485",
+                                                    "control": "2024/106683",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de San Pedro del Arroyo (Ávila), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190534",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166143",
+                                                        "pagina_final": "166143",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25485.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25485",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25485"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25486",
+                                                    "control": "2024/106684",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, de la Diputación Provincial de Córdoba, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192480",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "166144",
+                                                        "pagina_final": "166144",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25486.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25486",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25486"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25487",
+                                                    "control": "2024/106685",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Callosa d'en Sarrià (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190676",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166145",
+                                                        "pagina_final": "166145",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25487.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25487",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25487"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25488",
+                                                    "control": "2024/106687",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Los Palacios y Villafranca (Sevilla), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190530",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166146",
+                                                        "pagina_final": "166146",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25488.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25488",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25488"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25489",
+                                                    "control": "2024/106689",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Estivella (Valencia/València), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190488",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166147",
+                                                        "pagina_final": "166147",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25489.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25489",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25489"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25490",
+                                                    "control": "2024/106691",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Berga (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191086",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "166148",
+                                                        "pagina_final": "166148",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25490.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25490",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25490"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25491",
+                                                    "control": "2024/106692",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Arnedo (La Rioja), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190588",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166149",
+                                                        "pagina_final": "166149",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25491.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25491",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25491"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25492",
+                                                    "control": "2024/106693",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Consell (Illes Balears), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190509",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166150",
+                                                        "pagina_final": "166150",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25492.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25492",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25492"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25493",
+                                                    "control": "2024/106694",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Oiartzun (Gipuzkoa), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190837",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166151",
+                                                        "pagina_final": "166151",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25493.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25493",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25493"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25494",
+                                                    "control": "2024/106695",
+                                                    "titulo": "Resolución de 28 de noviembre de 2024, del Ayuntamiento de Eibar (Gipuzkoa), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190657",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166152",
+                                                        "pagina_final": "166152",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25494.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25494",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25494"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25495",
+                                                    "control": "2024/106776",
+                                                    "titulo": "Resolución de 3 de diciembre de 2024, del Ayuntamiento de Noja (Cantabria), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190227",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166153",
+                                                        "pagina_final": "166153",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25495.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25495",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25495"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25496",
+                                                    "control": "2024/106809",
+                                                    "titulo": "Resolución de 4 de diciembre de 2024, del Ayuntamiento de Maleján (Zaragoza), de corrección de errores de la de 25 de noviembre de 2024, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190963",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "166154",
+                                                        "pagina_final": "166154",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25496.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25496",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25496"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpos docentes universitarios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25497",
+                                                "control": "2024/18896",
+                                                "titulo": "Resolución de 25 de noviembre de 2024, de la Universidad de Salamanca, por la que se corrigen errores en la de 12 de noviembre de 2024, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
+                                                "url_pdf": {
+                                                    "szBytes": "191393",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "166155",
+                                                    "pagina_final": "166155",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25497.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25497",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25497"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Personal de administración y servicios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25498",
+                                                "control": "2024/18901",
+                                                "titulo": "Resolución de 26 de noviembre de 2024, de la Universidad de Cádiz, por la que se convoca proceso selectivo para la provisión, por el sistema general de acceso libre y por promoción interna, de plazas de personal laboral de la categoría de Titulado de Grado Medio de apoyo a la Docencia e Investigación.",
+                                                "url_pdf": {
+                                                    "szBytes": "289747",
+                                                    "szKBytes": "283",
+                                                    "pagina_inicial": "166156",
+                                                    "pagina_final": "166172",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25498.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25498",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25498"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "1820",
+                                    "nombre": "CONSEJO GENERAL DEL PODER JUDICIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Tribunal Supremo",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25499",
+                                                "control": "2024/18400",
+                                                "titulo": "Acuerdo de 19 de noviembre de 2024, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se publica el Acuerdo de 28 de octubre de 2024, de la Sala de Gobierno del Tribunal Supremo, relativo a la composición y funcionamiento de las salas y secciones del Tribunal Supremo y asignación de ponencias para el año judicial 2025.",
+                                                "url_pdf": {
+                                                    "szBytes": "339932",
+                                                    "szKBytes": "332",
+                                                    "pagina_inicial": "166173",
+                                                    "pagina_final": "166195",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25499.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25499",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25499"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios colectivos de trabajo",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-25500",
+                                                    "control": "2024/18497",
+                                                    "titulo": "Resolución de 26 de noviembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el Acta de modificación del X Convenio Colectivo de Iberia, Líneas Aéreas de España, Sociedad Anónima Operadora, Sociedad Unipersonal y sus tripulantes pilotos.",
+                                                    "url_pdf": {
+                                                        "szBytes": "715430",
+                                                        "szKBytes": "699",
+                                                        "pagina_inicial": "166196",
+                                                        "pagina_final": "166236",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25500.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25500",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25500"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25501",
+                                                    "control": "2024/18498",
+                                                    "titulo": "Resolución de 26 de noviembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo relativo a las tablas salariales provisionales del año 2024 y 2025 del Convenio colectivo para las empresas del sector de harinas panificables y sémolas para los años 2023, 2024 y 2025.",
+                                                    "url_pdf": {
+                                                        "szBytes": "268333",
+                                                        "szKBytes": "262",
+                                                        "pagina_inicial": "166237",
+                                                        "pagina_final": "166241",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25501.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25501",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25501"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25502",
+                                                    "control": "2024/18499",
+                                                    "titulo": "Resolución de 26 de noviembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Nestlé España, SA, Oficinas descentralizadas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "302479",
+                                                        "szKBytes": "295",
+                                                        "pagina_inicial": "166242",
+                                                        "pagina_final": "166257",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25502.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25502",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25502"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25503",
+                                                    "control": "2024/18500",
+                                                    "titulo": "Resolución de 26 de noviembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el V Convenio colectivo estatal del sector de radiodifusión comercial sonora.",
+                                                    "url_pdf": {
+                                                        "szBytes": "537400",
+                                                        "szKBytes": "525",
+                                                        "pagina_inicial": "166258",
+                                                        "pagina_final": "166303",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25503.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25503",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25503"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "3120",
+                                    "nombre": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Canarias. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25504",
+                                                "control": "2024/18964",
+                                                "titulo": "Resolución de 27 de noviembre de 2024, de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria, por la que se publica el Convenio con el Gobierno de Canarias y la Sociedad Anónima Estatal de Caución Agraria, S.M.E., por el que se establece el acuerdo de financiación del Instrumento Financiero de Gestión Centralizada de Garantía de Cartera FEADER 2023-2027.",
+                                                "url_pdf": {
+                                                    "szBytes": "595608",
+                                                    "szKBytes": "582",
+                                                    "pagina_inicial": "166304",
+                                                    "pagina_final": "166339",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25504.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25504",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25504"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Impacto ambiental",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25505",
+                                                "control": "2024/18509",
+                                                "titulo": "Resolución de 20 de noviembre de 2024, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto «Subestación de Ronda 400 KV y la línea de entrada/salida de Pinar del Rey-Tajo de la Encantada 2 y Jordana-Tajo de la Encantada».",
+                                                "url_pdf": {
+                                                    "szBytes": "725900",
+                                                    "szKBytes": "709",
+                                                    "pagina_inicial": "166340",
+                                                    "pagina_final": "166371",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25505.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25505",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25505"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Instalaciones eléctricas",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-25506",
+                                                    "control": "2024/18505",
+                                                    "titulo": "Resolución de 19 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Iberdrola Renovables Castilla-La Mancha, SAU, autorización administrativa previa para el módulo de generación fotovoltaica «Instalación Híbrida Callejas», de 49,5 MW de potencia instalada, y su infraestructura de evacuación, para su hibridación con el parque eólico existente, PE Callejas, de 49,5 MW de potencia instalada, en el término municipal de Campillo de Altobuey (Cuenca).",
+                                                    "url_pdf": {
+                                                        "szBytes": "240528",
+                                                        "szKBytes": "235",
+                                                        "pagina_inicial": "166372",
+                                                        "pagina_final": "166380",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25506.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25506",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25506"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25507",
+                                                    "control": "2024/18506",
+                                                    "titulo": "Resolución de 19 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Iberdrola Renovables Castilla-La Mancha, SAU, autorización administrativa previa para el módulo de generación fotovoltaica «Instalación Híbrida Maza», de 49,5 MW de potencia instalada, y su infraestructura de evacuación, para su hibridación con el parque eólico existente, PE Maza, de 49,5 MW de potencia instalada, en el término municipal de Campillo de Altobuey (Cuenca).",
+                                                    "url_pdf": {
+                                                        "szBytes": "241646",
+                                                        "szKBytes": "236",
+                                                        "pagina_inicial": "166381",
+                                                        "pagina_final": "166389",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25507.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25507",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25507"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25508",
+                                                    "control": "2024/18510",
+                                                    "titulo": "Resolución de 20 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Ebagui Renovables, SL, de autorización administrativa previa de la instalación fotovoltaica denominada «Fotovoltaica Navas Renovables I», de 100 MW de potencia pico, 84,17 MW de potencia instalada, y de su infraestructura de evacuación, en las provincias de Ávila y Madrid.",
+                                                    "url_pdf": {
+                                                        "szBytes": "227686",
+                                                        "szKBytes": "222",
+                                                        "pagina_inicial": "166390",
+                                                        "pagina_final": "166395",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25508.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25508",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25508"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25509",
+                                                    "control": "2024/18511",
+                                                    "titulo": "Resolución de 20 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Green Capital Development 126, SLU, de autorización administrativa previa de la instalación eólica Isidoro, de 54 MW de potencia instalada, y de su infraestructura de evacuación, en las provincias de Zamora y León.",
+                                                    "url_pdf": {
+                                                        "szBytes": "228868",
+                                                        "szKBytes": "224",
+                                                        "pagina_inicial": "166396",
+                                                        "pagina_final": "166401",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25509.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25509",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25509"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25510",
+                                                    "control": "2024/18512",
+                                                    "titulo": "Resolución de 20 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Green Capital Development 127, SLU, de autorización administrativa previa de la instalación eólica Veleta, de 66 MW de potencia instalada, y de su infraestructura de evacuación, en las provincias de Zamora y León.",
+                                                    "url_pdf": {
+                                                        "szBytes": "227252",
+                                                        "szKBytes": "222",
+                                                        "pagina_inicial": "166402",
+                                                        "pagina_final": "166407",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25510.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25510",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25510"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25511",
+                                                    "control": "2024/18513",
+                                                    "titulo": "Resolución de 20 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Green Capital Power, SL, de autorización administrativa previa del parque solar fotovoltaico Atenea, de 223,62 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de León.",
+                                                    "url_pdf": {
+                                                        "szBytes": "253781",
+                                                        "szKBytes": "248",
+                                                        "pagina_inicial": "166408",
+                                                        "pagina_final": "166417",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25511.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25511",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25511"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25512",
+                                                    "control": "2024/18514",
+                                                    "titulo": "Resolución de 20 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Iberdrola Renovables Castilla y León, SA, autorización administrativa previa para el módulo de generación fotovoltaica Radona II, de 31,5 MW de potencia instalada, y sus infraestructuras para evacuación de energía eléctrica, para su hibridación con el parque eólico existente Radona II, de 32 MW de potencia instalada, en los términos municipales de Taroda y Alcubilla de las Peñas (Soria).",
+                                                    "url_pdf": {
+                                                        "szBytes": "233358",
+                                                        "szKBytes": "228",
+                                                        "pagina_inicial": "166418",
+                                                        "pagina_final": "166424",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25512.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25512",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25512"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1020",
+                                    "nombre": "BANCO DE ESPAÑA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Mercado de divisas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25513",
+                                                "control": "2024/18977",
+                                                "titulo": "Resolución de 5 de diciembre de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 5 de diciembre de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+                                                "url_pdf": {
+                                                    "szBytes": "217052",
+                                                    "szKBytes": "212",
+                                                    "pagina_inicial": "166425",
+                                                    "pagina_final": "166426",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25513.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25513",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25513"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9534",
+                                    "nombre": "COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad de Madrid. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-25514",
+                                                "control": "2024/18523",
+                                                "titulo": "Resolución de 27 de noviembre de 2024, de la Comisión Nacional de los Mercados y la Competencia, por la que se publica el Convenio de cooperación educativa con la Universidad Rey Juan Carlos, para prácticas académicas externas.",
+                                                "url_pdf": {
+                                                    "szBytes": "273733",
+                                                    "szKBytes": "267",
+                                                    "pagina_inicial": "166427",
+                                                    "pagina_final": "166435",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25514.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25514",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25514"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5A",
+                            "nombre": "V. Anuncios. - A. Contratación del Sector Público",
+                            "departamento": {
+                                "codigo": "4335",
+                                "nombre": "MINISTERIO DE SANIDAD",
+                                "texto": {
+                                    "item": {
+                                        "identificador": "BOE-B-2024-44723",
+                                        "titulo": "Anuncio de corrección de errores de la Dirección del Instituto Nacional de Gestión Sanitaria, por el que se convoca licitación pública para la contratación del suministro del equipamiento para diagnóstico y terapia en Neurología, Neurocirugía y Psiquiatría, con destino al Hospital Universitario de Melilla. Expediente: PA 2024/114.",
+                                        "url_pdf": {
+                                            "szBytes": "145082",
+                                            "szKBytes": "142",
+                                            "pagina_inicial": "69855",
+                                            "pagina_final": "69855",
+                                            "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-B-2024-44723.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-44723",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-44723"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "5B",
+                            "nombre": "V. Anuncios. - B. Otros anuncios oficiales",
+                            "departamento": [
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-44724",
+                                            "titulo": "Extracto de la Orden Ministerial de 29 de noviembre de 2024 por la que se aprueba la tercera convocatoria de subvenciones en concurrencia no competitiva del Eco-incentivo para el impulso del transporte ferroviario de mercancías basado en el mérito ambiental y socioeconómico, en el marco del Plan de Recuperación, Transformación y Resiliencia -financiado por la Unión Europea- NextGenerationEU correspondiente al periodo de elegibilidad 2024.",
+                                            "url_pdf": {
+                                                "szBytes": "158474",
+                                                "szKBytes": "155",
+                                                "pagina_inicial": "69856",
+                                                "pagina_final": "69858",
+                                                "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-B-2024-44724.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-44724",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-44724"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-44725",
+                                            "titulo": "Anuncio de la Dirección General de Transporte por Carretera y Ferrocarril sobre el otorgamiento de ayudas para la formación en relación con el transporte por carretera para el año 2024.",
+                                            "url_pdf": {
+                                                "szBytes": "145810",
+                                                "szKBytes": "142",
+                                                "pagina_inicial": "69859",
+                                                "pagina_final": "69859",
+                                                "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-B-2024-44725.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-44725",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-44725"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-44726",
+                                            "titulo": "Extracto de la Resolución de 4 de diciembre de 2024 de la Presidencia de la Agencia Estatal de Investigación, por la que se aprueba la convocatoria 2024 de las ayudas Ramón y Cajal.",
+                                            "url_pdf": {
+                                                "szBytes": "153469",
+                                                "szKBytes": "150",
+                                                "pagina_inicial": "69860",
+                                                "pagina_final": "69861",
+                                                "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-B-2024-44726.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-44726",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-44726"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-44727",
+                                            "titulo": "Extracto de la Resolución de 4 de diciembre de 2024 de la Presidencia de la Agencia Estatal de Investigación, por la que se aprueba la convocatoria 2024 de las ayudas Juan de la Cierva.",
+                                            "url_pdf": {
+                                                "szBytes": "153267",
+                                                "szKBytes": "150",
+                                                "pagina_inicial": "69862",
+                                                "pagina_final": "69863",
+                                                "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-B-2024-44727.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-44727",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-44727"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-44728",
+                                            "titulo": "Extracto de la Resolución de 4 de diciembre de 2024 de la Presidencia de la Agencia Estatal de Investigación, por la que se aprueba la convocatoria 2024 de las ayudas Torres Quevedo.",
+                                            "url_pdf": {
+                                                "szBytes": "152506",
+                                                "szKBytes": "149",
+                                                "pagina_inicial": "69864",
+                                                "pagina_final": "69865",
+                                                "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-B-2024-44728.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-44728",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-44728"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-44729",
+                                            "titulo": "Extracto de la Resolución de 4 de diciembre de 2024 de la Presidencia de la Agencia Estatal de Investigación, por la que se aprueba la segunda convocatoria 2024 de las ayudas para la formación de doctores y doctoras en empresas y otras entidades «Doctorados Industriales».",
+                                            "url_pdf": {
+                                                "szBytes": "152903",
+                                                "szKBytes": "149",
+                                                "pagina_inicial": "69866",
+                                                "pagina_final": "69867",
+                                                "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-B-2024-44729.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-44729",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-44729"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "T",
+                            "nombre": "T.C. Sección del Tribunal Constitucional",
+                            "departamento": {
+                                "codigo": "1410",
+                                "nombre": "TRIBUNAL CONSTITUCIONAL",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Sentencias",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-25515",
+                                                    "control": "2024/18597",
+                                                    "titulo": "Sala Segunda. Sentencia 132/2024, de 4 de noviembre de 2024. Recurso de amparo 1128-2022. Promovido por doña María Teresita Laborda Sanz en relación con la sentencia de la Sala de lo Civil del Tribunal Supremo que desestimó, en casación, su impugnación de un precepto de los estatutos de la Pontificia, Real y Venerable Esclavitud del Santísimo Cristo de La Laguna. Vulneración de los derechos a la no discriminación por razón de género y de asociación: ingreso de mujeres en una cofradía que ostenta una posición de dominio en la realización de los actos devocionales. Votos particulares.",
+                                                    "url_pdf": {
+                                                        "szBytes": "380413",
+                                                        "szKBytes": "371",
+                                                        "pagina_inicial": "166436",
+                                                        "pagina_final": "166466",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25515.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25515",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25515"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25516",
+                                                    "control": "2024/18598",
+                                                    "titulo": "Sala Segunda. Sentencia 133/2024, de 4 de noviembre de 2024. Recurso de amparo 529-2023. Promovido por la Entidad de Gestión de Derechos de los Productores Audiovisuales en relación con la sentencia de la Audiencia Provincial de Murcia que confirma, en apelación, la absolución de los acusados de un delito contra la propiedad intelectual acordada por un juzgado de lo penal de su capital. Supuesta vulneración de los derechos a la tutela judicial efectiva (motivación) y a la defensa: resolución judicial absolutoria que expresa las razones fundadas en Derecho que sustentan la decisión adoptada y que no ignora el principio de primacía del Derecho de la Unión Europea.",
+                                                    "url_pdf": {
+                                                        "szBytes": "299188",
+                                                        "szKBytes": "292",
+                                                        "pagina_inicial": "166467",
+                                                        "pagina_final": "166482",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25516.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25516",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25516"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25517",
+                                                    "control": "2024/18599",
+                                                    "titulo": "Sala Segunda. Sentencia 134/2024, de 4 de noviembre de 2024. Recurso de amparo 634-2023. Promovido por Warner Bros. Entertainment, Inc., y otras compañías en relación con la sentencia de la Audiencia Provincial de Murcia que confirma, en apelación, la absolución de los acusados de un delito contra la propiedad intelectual acordada por un juzgado de lo penal de su capital. Supuesta vulneración del derecho a la tutela judicial efectiva (motivación): resolución judicial absolutoria que expresa las razones fundadas en Derecho que sustentan la decisión adoptada.",
+                                                    "url_pdf": {
+                                                        "szBytes": "273108",
+                                                        "szKBytes": "267",
+                                                        "pagina_inicial": "166483",
+                                                        "pagina_final": "166495",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25517.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25517",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25517"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25518",
+                                                    "control": "2024/18600",
+                                                    "titulo": "Sala Primera. Sentencia 135/2024, de 4 de noviembre de 2024. Recurso de amparo 2833-2023. Promovido por doña Yolanda Rivas Alcázar respecto de las resoluciones dictadas por un juzgado de lo social de Sevilla. Vulneración del derecho a un proceso sin dilaciones indebidas: señalamiento de vista con una demora de más de tres años debida a causas estructurales (STC 31/2023).",
+                                                    "url_pdf": {
+                                                        "szBytes": "247806",
+                                                        "szKBytes": "242",
+                                                        "pagina_inicial": "166496",
+                                                        "pagina_final": "166504",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25518.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25518",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25518"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25519",
+                                                    "control": "2024/18601",
+                                                    "titulo": "Pleno. Sentencia 136/2024, de 5 de noviembre de 2024. Recurso de inconstitucionalidad 2901-2021. Interpuesto por cincuenta diputados del Grupo Parlamentario Vox en el Congreso de los Diputados respecto del artículo único, apartado quinto, de la Ley 8/2021, de 25 de febrero, de modificación de la Ley 8/2008, de 10 de julio, de salud de Galicia. Reserva de ley orgánica y competencias en materia de salud: nulidad de los preceptos legales autonómicos que habilitan a los órganos autonómicos la adopción de medidas preventivas y tipifican infracciones en materia de salud pública. Voto particular.",
+                                                    "url_pdf": {
+                                                        "szBytes": "414257",
+                                                        "szKBytes": "405",
+                                                        "pagina_inicial": "166505",
+                                                        "pagina_final": "166542",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25519.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25519",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25519"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25520",
+                                                    "control": "2024/18602",
+                                                    "titulo": "Pleno. Sentencia 137/2024, de 6 de noviembre de 2024. Recurso de amparo 1303-2022. Promovido por don Santiago Abascal Conde y otros cincuenta y un diputados del Grupo Parlamentario Vox en el Congreso de los Diputados respecto de las resoluciones dictadas por la presidenta del Congreso de los Diputados sobre la votación de convalidación del Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral, la garantía de estabilidad en el empleo y la transformación del mercado de trabajo. Supuesta vulneración del derecho al ejercicio del cargo representativo: STC 114/2024 (ejercicio del voto telemático al que no sucede una solicitud o actuación personal tempestiva del propio diputado que acredite su expresa voluntad de optar por el ejercicio presencial de su voto y por la anulación del voto telemático autorizado y emitido). Voto particular.",
+                                                    "url_pdf": {
+                                                        "szBytes": "340263",
+                                                        "szKBytes": "332",
+                                                        "pagina_inicial": "166543",
+                                                        "pagina_final": "166566",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25520.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25520",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25520"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25521",
+                                                    "control": "2024/18603",
+                                                    "titulo": "Pleno. Sentencia 138/2024, de 6 de noviembre de 2024. Recurso de amparo 3616-2022. Promovido por doña María Concepción Gamarra Ruiz-Clavijo, diputada y portavoz del Grupo Parlamentario Popular del Congreso de los Diputados respecto de las resoluciones dictadas por la presidenta del Congreso de los Diputados sobre la votación de convalidación del Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral, la garantía de estabilidad en el empleo y la transformación del mercado de trabajo. Supuesta vulneración del derecho al ejercicio del cargo representativo: STC 114/2024 (ejercicio del voto telemático al que no sucede una solicitud o actuación personal tempestiva del propio diputado que acredite su expresa voluntad de optar por el ejercicio presencial de su voto y por la anulación del voto telemático autorizado y emitido). Voto particular.",
+                                                    "url_pdf": {
+                                                        "szBytes": "288986",
+                                                        "szKBytes": "282",
+                                                        "pagina_inicial": "166567",
+                                                        "pagina_final": "166582",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25521.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25521",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25521"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25522",
+                                                    "control": "2024/18604",
+                                                    "titulo": "Pleno. Sentencia 139/2024, de 6 de noviembre de 2024. Recurso de inconstitucionalidad 6914-2022. Interpuesto por más de cincuenta diputados del Grupo Parlamentario Popular en el Congreso de los Diputados respecto de la Ley Orgánica 8/2022, de 27 de julio, de modificación de los artículos 570 bis y 599 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial. Principio de interdicción de la arbitrariedad de los poderes públicos, primacía del Derecho de la Unión Europea y derecho a la participación en los asuntos públicos, régimen jurídico del Tribunal Constitucional: constitucionalidad de los preceptos legales que limitan las competencias a ejercer por el Consejo General del Poder Judicial en prórroga de funciones tras expirar su mandato. Votos particulares.",
+                                                    "url_pdf": {
+                                                        "szBytes": "417089",
+                                                        "szKBytes": "407",
+                                                        "pagina_inicial": "166583",
+                                                        "pagina_final": "166616",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25522.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25522",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25522"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-25523",
+                                                    "control": "2024/18605",
+                                                    "titulo": "Pleno. Sentencia 140/2024, de 6 de noviembre de 2024. Cuestión de inconstitucionalidad 6694-2023. Planteada por la Sala de lo Social del Tribunal Superior de Justicia de Cataluña, en relación con el artículo 48, apartados 4, 5 y 6, del texto refundido de la Ley del estatuto de los trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, en conexión con el artículo 177 del texto refundido de la Ley general de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre. Principios de igualdad y no discriminación por razón de sexo y de protección de la familia y de los hijos; régimen de Seguridad Social: inconstitucionalidad de la regulación legal de los permisos por nacimiento y cuidado de menor que omite la posibilidad de que las madres biológicas de familias monoparentales, trabajadoras por cuenta ajena, puedan ampliar su permiso por nacimiento disfrutando del permiso que correspondería al otro progenitor, caso de existir. Votos particulares.",
+                                                    "url_pdf": {
+                                                        "szBytes": "425249",
+                                                        "szKBytes": "415",
+                                                        "pagina_inicial": "166617",
+                                                        "pagina_final": "166654",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/12/06/pdfs/BOE-A-2024-25523.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25523",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25523"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

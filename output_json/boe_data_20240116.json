@@ -1,0 +1,2216 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20240116"
+            },
+            "diario": [
+                {
+                    "numero": "14",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2024-14",
+                        "url_pdf": {
+                            "szBytes": "322188",
+                            "szKBytes": "315",
+                            "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-S-2024-14.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": [
+                                {
+                                    "codigo": "9562",
+                                    "nombre": "MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Tratados internacionales",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-773",
+                                                "control": "2024/568",
+                                                "titulo": "Texto enmendado aprobado en París el 15 de noviembre de 2023 del Anexo I, Listas de sustancias y métodos prohibidos, de la Convención Internacional contra el dopaje en el deporte, hecha en París el 18 de noviembre de 2005.",
+                                                "url_pdf": {
+                                                    "szBytes": "276943",
+                                                    "szKBytes": "270",
+                                                    "pagina_inicial": "4298",
+                                                    "pagina_final": "4310",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-773.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-773",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-773"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "3120",
+                                    "nombre": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Animales. Identificación y registro",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-774",
+                                                "control": "2024/721",
+                                                "titulo": "Corrección de errores del Real Decreto 787/2023, de 17 de octubre, por el que se dictan disposiciones para regular el sistema de trazabilidad, identificación y registro de determinadas especies de animales terrestres en cautividad.",
+                                                "url_pdf": {
+                                                    "szBytes": "190906",
+                                                    "szKBytes": "186",
+                                                    "pagina_inicial": "4311",
+                                                    "pagina_final": "4311",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-774.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-774",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-774"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-775",
+                                                "control": "2024/490",
+                                                "titulo": "Resolución de 14 de diciembre de 2023, de la Secretaría de Estado de Seguridad, por la que se nombra funcionario de carrera del Cuerpo Nacional de Policía, Escala Básica, al Policía Alumno don Pedro Jesús Sánchez Ramos.",
+                                                "url_pdf": {
+                                                    "szBytes": "197504",
+                                                    "szKBytes": "193",
+                                                    "pagina_inicial": "4312",
+                                                    "pagina_final": "4313",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-775.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-775",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-775"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-776",
+                                                "control": "2024/493",
+                                                "titulo": "Resolución de 8 de enero de 2024, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 24 de noviembre de 2023.",
+                                                "url_pdf": {
+                                                    "szBytes": "212584",
+                                                    "szKBytes": "208",
+                                                    "pagina_inicial": "4314",
+                                                    "pagina_final": "4315",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-776.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-776",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-776"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpo Nacional de Médicos Forenses",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-777",
+                                                "control": "2024/596",
+                                                "titulo": "Orden PJC/13/2024, de 10 de enero, por la que se aprueba la relación provisional de personas admitidas y excluidas en el proceso selectivo extraordinario para acceso por el turno libre, en el Cuerpo Nacional de Médicos Forenses, por el sistema selectivo de concurso oposición, convocado por Orden JUS/1326/2022, de 28 de diciembre.",
+                                                "url_pdf": {
+                                                    "szBytes": "217241",
+                                                    "szKBytes": "212",
+                                                    "pagina_inicial": "4316",
+                                                    "pagina_final": "4318",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-777.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-777",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-777"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpo de Ingenieros de Montes de la Hacienda Pública",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-778",
+                                                    "control": "2024/648",
+                                                    "titulo": "Resolución de 10 de enero de 2024, de la Subsecretaría, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Ingenieros de Montes de la Hacienda Pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "447005",
+                                                        "szKBytes": "437",
+                                                        "pagina_inicial": "4319",
+                                                        "pagina_final": "4350",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-778.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-778",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-778"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-779",
+                                                    "control": "2024/649",
+                                                    "titulo": "Resolución de 10 de enero de 2024, de la Subsecretaría, por la que se publica la relación de personas aprobadas en las fases de oposición y concurso-oposición del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Ingenieros de Montes de la Hacienda Pública, convocado por Resolución de 17 de febrero de 2023.",
+                                                    "url_pdf": {
+                                                        "szBytes": "210387",
+                                                        "szKBytes": "205",
+                                                        "pagina_inicial": "4351",
+                                                        "pagina_final": "4352",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-779.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-779",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-779"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpo de Enfermeros de Instituciones Penitenciarias",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-780",
+                                                "control": "2024/650",
+                                                "titulo": "Resolución de 11 de enero de 2024, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo en los Servicios Periféricos de la Secretaría General de Instituciones Penitenciarias.",
+                                                "url_pdf": {
+                                                    "szBytes": "1146921",
+                                                    "szKBytes": "1120",
+                                                    "pagina_inicial": "4353",
+                                                    "pagina_final": "4379",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-780.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-780",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-780"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Cuerpo Superior de Técnicos de Instituciones Penitenciarias",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-781",
+                                                "control": "2024/651",
+                                                "titulo": "Resolución de 11 de enero de 2024, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo en los Servicios Periféricos de la Secretaría General de Instituciones Penitenciarias.",
+                                                "url_pdf": {
+                                                    "szBytes": "1476062",
+                                                    "szKBytes": "1441",
+                                                    "pagina_inicial": "4380",
+                                                    "pagina_final": "4414",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-781.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-781",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-781"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9590",
+                                    "nombre": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpos de funcionarios docentes",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-782",
+                                                "control": "2024/500",
+                                                "titulo": "Resolución de 8 de enero de 2024, de la Secretaría de Estado de Educación, por la que se convoca concurso para la selección y nombramiento de directores en los centros docentes públicos no universitarios en las Ciudades de Ceuta y Melilla.",
+                                                "url_pdf": {
+                                                    "szBytes": "240561",
+                                                    "szKBytes": "235",
+                                                    "pagina_inicial": "4415",
+                                                    "pagina_final": "4421",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-782.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-782",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-782"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de administración local con habilitación de carácter nacional",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-783",
+                                                    "control": "2024/503",
+                                                    "titulo": "Resolución de 29 de diciembre de 2023, de la Dirección General de la Función Pública, por la que se publica la convocatoria del concurso unitario de provisión de puestos de trabajo reservados a personal funcionario de administración local con habilitación de carácter nacional, en el ámbito de la Comunidad Autónoma del País Vasco.",
+                                                    "url_pdf": {
+                                                        "szBytes": "195952",
+                                                        "szKBytes": "191",
+                                                        "pagina_inicial": "4422",
+                                                        "pagina_final": "4423",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-783.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-783",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-783"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-784",
+                                                    "control": "2024/505",
+                                                    "titulo": "Resolución de 29 de diciembre de 2023, de la Dirección General de la Función Pública, por la que se da publicidad a la relación individualizada de méritos generales del personal funcionario de administración local con habilitación de carácter nacional para el concurso unitario 2023.",
+                                                    "url_pdf": {
+                                                        "szBytes": "195845",
+                                                        "szKBytes": "191",
+                                                        "pagina_inicial": "4424",
+                                                        "pagina_final": "4425",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-784.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-784",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-784"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-785",
+                                                    "control": "2024/652",
+                                                    "titulo": "Resolución de 29 de diciembre de 2023, de la Dirección General de la Función Pública, por la que se convoca concurso unitario de provisión de puestos de trabajo reservados a personal funcionario de administración local con habilitación de carácter nacional para el año 2023.",
+                                                    "url_pdf": {
+                                                        "szBytes": "8368035",
+                                                        "szKBytes": "8172",
+                                                        "pagina_inicial": "4426",
+                                                        "pagina_final": "4632",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-785.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-785",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-785"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-786",
+                                                    "control": "2024/347",
+                                                    "titulo": "Resolución de 27 de noviembre de 2023, del Ayuntamiento de Arroyomolinos (Madrid), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191903",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "4633",
+                                                        "pagina_final": "4633",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-786.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-786",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-786"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-787",
+                                                    "control": "2024/661",
+                                                    "titulo": "Resolución de 13 de diciembre de 2023, del Ayuntamiento de La Puebla de los Infantes (Sevilla), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190985",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "4634",
+                                                        "pagina_final": "4634",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-787.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-787",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-787"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-788",
+                                                    "control": "2024/351",
+                                                    "titulo": "Resolución de 18 de diciembre de 2023, del Ayuntamiento de La Robla (León), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190333",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "4635",
+                                                        "pagina_final": "4635",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-788.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-788",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-788"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-789",
+                                                    "control": "2024/352",
+                                                    "titulo": "Resolución de 19 de diciembre de 2023, del Ayuntamiento de Coirós (A Coruña), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191113",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "4636",
+                                                        "pagina_final": "4636",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-789.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-789",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-789"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-790",
+                                                    "control": "2024/354",
+                                                    "titulo": "Resolución de 25 de diciembre de 2023, del Ayuntamiento de Esparreguera (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191041",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "4637",
+                                                        "pagina_final": "4637",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-790.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-790",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-790"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-791",
+                                                    "control": "2024/355",
+                                                    "titulo": "Resolución de 28 de diciembre de 2023, del Ayuntamiento de Cazalilla (Jaén), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191324",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "4638",
+                                                        "pagina_final": "4638",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-791.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-791",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-791"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-792",
+                                                    "control": "2024/357",
+                                                    "titulo": "Resolución de 28 de diciembre de 2023, del Ayuntamiento de Picanya (Valencia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190999",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "4639",
+                                                        "pagina_final": "4639",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-792.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-792",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-792"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-793",
+                                                    "control": "2024/362",
+                                                    "titulo": "Resolución de 5 de enero de 2024, del Ayuntamiento de Fuenlabrada (Madrid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192601",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "4640",
+                                                        "pagina_final": "4640",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-793.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-793",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-793"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-794",
+                                                    "control": "2024/363",
+                                                    "titulo": "Resolución de 5 de enero de 2024, del Ayuntamiento de Ponferrada (León), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191353",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "4641",
+                                                        "pagina_final": "4641",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-794.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-794",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-794"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-795",
+                                                    "control": "2024/665",
+                                                    "titulo": "Resolución de 5 de enero de 2024, del Cabildo Insular de Fuerteventura (Las Palmas), que deja parcialmente sin efecto la de 27 de diciembre de 2023, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190428",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "4642",
+                                                        "pagina_final": "4642",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-795.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-795",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-795"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-796",
+                                                    "control": "2024/365",
+                                                    "titulo": "Resolución de 8 de enero de 2024, del Ayuntamiento de Archidona (Málaga), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191334",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "4643",
+                                                        "pagina_final": "4643",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-796.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-796",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-796"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-797",
+                                                    "control": "2024/366",
+                                                    "titulo": "Resolución de 8 de enero de 2024, del Ayuntamiento de Bilbao (Bizkaia), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191193",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "4644",
+                                                        "pagina_final": "4644",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-797.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-797",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-797"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-798",
+                                                    "control": "2024/367",
+                                                    "titulo": "Resolución de 8 de enero de 2024, del Ayuntamiento de Caspe (Zaragoza), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192201",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "4645",
+                                                        "pagina_final": "4645",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-798.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-798",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-798"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-799",
+                                                    "control": "2024/368",
+                                                    "titulo": "Resolución de 8 de enero de 2024, del Ayuntamiento de Castroverde (Lugo), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191133",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "4646",
+                                                        "pagina_final": "4646",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-799.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-799",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-799"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-800",
+                                                    "control": "2024/619",
+                                                    "titulo": "Resolución de 9 de enero de 2024, del Ayuntamiento de Madrid, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190349",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "4647",
+                                                        "pagina_final": "4647",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-800.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-800",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-800"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9562",
+                                    "nombre": "MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Traductores-Intérpretes Jurados",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-801",
+                                                "control": "2024/524",
+                                                "titulo": "Resolución de 9 de enero de 2024, de la Subsecretaría, por la que se convocan exámenes compensatorios para la obtención del título de Traductor/a Jurado/a y/o Intérprete Jurado/a por el procedimiento de reconocimiento de cualificaciones profesionales.",
+                                                "url_pdf": {
+                                                    "szBytes": "209257",
+                                                    "szKBytes": "204",
+                                                    "pagina_inicial": "4648",
+                                                    "pagina_final": "4650",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-801.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-801",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-801"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Homologaciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-802",
+                                                "control": "2024/694",
+                                                "titulo": "Resolución 1A0/38002/2023, de 13 de noviembre, del Centro Criptológico Nacional, por la que se certifica la seguridad del producto «Microsoft Windows 11 (version 22H2), Microsoft Windows 10 (version 22H2), Microsoft Windows Server 2022, Microsoft Windows Server Datacenter: Azure Edition, Microsoft Azure Stack HCIv2 version 22H2, Microsoft Azure Stack Hub y Microsoft Azure Stack Edge», solicitado por Microsoft Corporation.",
+                                                "url_pdf": {
+                                                    "szBytes": "200755",
+                                                    "szKBytes": "196",
+                                                    "pagina_inicial": "4651",
+                                                    "pagina_final": "4652",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-802.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-802",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-802"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma del Principado de Asturias. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-803",
+                                                "control": "2024/697",
+                                                "titulo": "Resolución de 8 de enero de 2024, de la Presidencia del Consejo de Transparencia y Buen Gobierno A.A.I., por la que se publica la prórroga del Convenio con la Comunidad Autónoma del Principado de Asturias, para el traslado del ejercicio de la competencia para la resolución de las reclamaciones previstas en el artículo 24 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.",
+                                                "url_pdf": {
+                                                    "szBytes": "208901",
+                                                    "szKBytes": "204",
+                                                    "pagina_inicial": "4653",
+                                                    "pagina_final": "4656",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-803.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-803",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-803"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9590",
+                                    "nombre": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpos de funcionarios docentes",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-804",
+                                                "control": "2024/633",
+                                                "titulo": "Resolución de 10 de enero de 2024, de la Dirección General de Planificación y Gestión Educativa, por la que se publica el Acuerdo en el sector de la enseñanza privada concertada por el que se establecen las condiciones de la financiación de las jubilaciones parciales del profesorado de los centros docentes privados sostenidos con fondos públicos en las ciudades de Ceuta y Melilla, en los años 2023, 2024 y 2025.",
+                                                "url_pdf": {
+                                                    "szBytes": "197388",
+                                                    "szKBytes": "193",
+                                                    "pagina_inicial": "4657",
+                                                    "pagina_final": "4658",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-804.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-804",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-804"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Impacto ambiental",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-805",
+                                                "control": "2024/554",
+                                                "titulo": "Resolución de 10 de enero de 2024, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de determinación de afección ambiental del proyecto «Instalación híbrida eólica \"Parque Eólico Campanario III Híbrido\" de 10 MW, y su infraestructura de evacuación, en Bonete (Albacete)».",
+                                                "url_pdf": {
+                                                    "szBytes": "298180",
+                                                    "szKBytes": "291",
+                                                    "pagina_inicial": "4659",
+                                                    "pagina_final": "4675",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-805.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-805",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-805"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Instalaciones eléctricas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-806",
+                                                "control": "2024/371",
+                                                "titulo": "Resolución de 29 de diciembre de 2023, de la Secretaría de Estado de Energía, por la que se publica el Acuerdo por el que se adoptan las instrucciones necesarias para el abandono del proyecto para albergar un Almacén Temporal Centralizado en el municipio de Villar de Cañas (Cuenca) y se insta a la Empresa Nacional de Residuos Radiactivos, SA, S.M.E., a llevar a cabo las actuaciones que procedan para la terminación ordenada de los procedimientos iniciados para su puesta en funcionamiento.",
+                                                "url_pdf": {
+                                                    "szBytes": "204222",
+                                                    "szKBytes": "199",
+                                                    "pagina_inicial": "4676",
+                                                    "pagina_final": "4678",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-806.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-806",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-806"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Normas Técnicas de Auditoría",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-807",
+                                                "control": "2023/26979",
+                                                "titulo": "Resolución de 20 de diciembre de 2023, del Instituto de Contabilidad y Auditoría de Cuentas, por la que se somete a información pública la actualización de las Normas Técnicas de Auditoría, resultado de la adaptación de las Normas Internacionales de Auditoría para su aplicación en España (NIA-ES), las Normas de Control de Calidad Interno, resultado de la adaptación de las Normas Internacionales de Gestión de Calidad 1 y 2 para su aplicación en España (NIGC 1-ES y NIGC 2-ES) y el Glosario de Términos, resultado de la adaptación del publicado junto con estas Normas Internacionales para su aplicación en España.",
+                                                "url_pdf": {
+                                                    "szBytes": "11049116",
+                                                    "szKBytes": "10790",
+                                                    "pagina_inicial": "4679",
+                                                    "pagina_final": "6044",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-807.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-807",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-807"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1020",
+                                    "nombre": "BANCO DE ESPAÑA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Mercado de divisas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-808",
+                                                "control": "2024/719",
+                                                "titulo": "Resolución de 15 de enero de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 15 de enero de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+                                                "url_pdf": {
+                                                    "szBytes": "216836",
+                                                    "szKBytes": "212",
+                                                    "pagina_inicial": "6045",
+                                                    "pagina_final": "6046",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-808.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-808",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-808"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Planes de estudios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-809",
+                                                "control": "2024/483",
+                                                "titulo": "Resolución de 4 de enero de 2024, de la Universidad de Zaragoza, por la que se publica el plan de estudios de Máster Universitario Erasmus Mundus en Ingeniería de Membranas para un Desarrollo Sostenible/Erasmus Mundus Master in Membrane Engineering for a Sustainable Development.",
+                                                "url_pdf": {
+                                                    "szBytes": "308404",
+                                                    "szKBytes": "301",
+                                                    "pagina_inicial": "6047",
+                                                    "pagina_final": "6050",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-A-2024-809.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-809",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-809"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "4",
+                            "nombre": "IV. Administración de Justicia",
+                            "departamento": [
+                                {
+                                    "codigo": "9552",
+                                    "nombre": "AUDIENCIA NACIONAL",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-1221",
+                                        "titulo": "MADRID",
+                                        "url_pdf": {
+                                            "szBytes": "140734",
+                                            "szKBytes": "137",
+                                            "pagina_inicial": "1901",
+                                            "pagina_final": "1901",
+                                            "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1221.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1221",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1221"
+                                    }
+                                },
+                                {
+                                    "codigo": "9546",
+                                    "nombre": "JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1222",
+                                            "titulo": "ALICANTE/ALACANT",
+                                            "url_pdf": {
+                                                "szBytes": "141509",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1902",
+                                                "pagina_final": "1902",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1222.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1222",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1222"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1223",
+                                            "titulo": "ALICANTE/ALACANT",
+                                            "url_pdf": {
+                                                "szBytes": "141609",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1903",
+                                                "pagina_final": "1903",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1223.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1223",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1223"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1224",
+                                            "titulo": "ALMERIA",
+                                            "url_pdf": {
+                                                "szBytes": "141306",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1904",
+                                                "pagina_final": "1904",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1224.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1224",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1224"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1225",
+                                            "titulo": "ARONA",
+                                            "url_pdf": {
+                                                "szBytes": "141493",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1905",
+                                                "pagina_final": "1905",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1225.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1225",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1225"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1226",
+                                            "titulo": "ARRECIFE DE LANZAROTE",
+                                            "url_pdf": {
+                                                "szBytes": "141939",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1906",
+                                                "pagina_final": "1906",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1226.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1226",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1226"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1227",
+                                            "titulo": "BAENA",
+                                            "url_pdf": {
+                                                "szBytes": "141512",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1907",
+                                                "pagina_final": "1907",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1227.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1227",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1227"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1228",
+                                            "titulo": "BARAKALDO",
+                                            "url_pdf": {
+                                                "szBytes": "141644",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1908",
+                                                "pagina_final": "1908",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1228.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1228",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1228"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1229",
+                                            "titulo": "BARCELONA",
+                                            "url_pdf": {
+                                                "szBytes": "141726",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1909",
+                                                "pagina_final": "1909",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1229.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1229",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1229"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1230",
+                                            "titulo": "BLANES",
+                                            "url_pdf": {
+                                                "szBytes": "141538",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1910",
+                                                "pagina_final": "1910",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1230.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1230",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1230"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1231",
+                                            "titulo": "CAROLINA",
+                                            "url_pdf": {
+                                                "szBytes": "141686",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1911",
+                                                "pagina_final": "1911",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1231.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1231",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1231"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1232",
+                                            "titulo": "CATARROJA",
+                                            "url_pdf": {
+                                                "szBytes": "141736",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1912",
+                                                "pagina_final": "1912",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1232.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1232",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1232"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1233",
+                                            "titulo": "CAZORLA",
+                                            "url_pdf": {
+                                                "szBytes": "141812",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1913",
+                                                "pagina_final": "1913",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1233.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1233",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1233"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1234",
+                                            "titulo": "CERDANYOLA DEL VALLES",
+                                            "url_pdf": {
+                                                "szBytes": "142311",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1914",
+                                                "pagina_final": "1914",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1234.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1234",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1234"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1235",
+                                            "titulo": "CIUDAD REAL",
+                                            "url_pdf": {
+                                                "szBytes": "141966",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1915",
+                                                "pagina_final": "1915",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1235.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1235",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1235"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1236",
+                                            "titulo": "DENIA",
+                                            "url_pdf": {
+                                                "szBytes": "141240",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1916",
+                                                "pagina_final": "1916",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1236.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1236",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1236"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1237",
+                                            "titulo": "DENIA",
+                                            "url_pdf": {
+                                                "szBytes": "141505",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1917",
+                                                "pagina_final": "1917",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1237.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1237",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1237"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1238",
+                                            "titulo": "EJIDO(EL)",
+                                            "url_pdf": {
+                                                "szBytes": "142022",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1918",
+                                                "pagina_final": "1918",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1238.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1238",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1238"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1239",
+                                            "titulo": "ESTEPA",
+                                            "url_pdf": {
+                                                "szBytes": "141405",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1919",
+                                                "pagina_final": "1919",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1239.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1239",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1239"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1240",
+                                            "titulo": "FREGENAL DE LA SIERRA",
+                                            "url_pdf": {
+                                                "szBytes": "142029",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1920",
+                                                "pagina_final": "1920",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1240.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1240",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1240"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1241",
+                                            "titulo": "HOSPITALET DE LLOBREGAT (L')",
+                                            "url_pdf": {
+                                                "szBytes": "142709",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1921",
+                                                "pagina_final": "1921",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1241.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1241",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1241"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1242",
+                                            "titulo": "IGUALADA",
+                                            "url_pdf": {
+                                                "szBytes": "141599",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1922",
+                                                "pagina_final": "1922",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1242.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1242",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1242"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1243",
+                                            "titulo": "JAEN",
+                                            "url_pdf": {
+                                                "szBytes": "141358",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1923",
+                                                "pagina_final": "1923",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1243.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1243",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1243"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1244",
+                                            "titulo": "JEREZ DE LA FRONTERA",
+                                            "url_pdf": {
+                                                "szBytes": "141806",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1924",
+                                                "pagina_final": "1924",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1244.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1244",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1244"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1245",
+                                            "titulo": "JEREZ DE LA FRONTERA",
+                                            "url_pdf": {
+                                                "szBytes": "141956",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1925",
+                                                "pagina_final": "1925",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1245.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1245",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1245"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1246",
+                                            "titulo": "LEON",
+                                            "url_pdf": {
+                                                "szBytes": "141336",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1926",
+                                                "pagina_final": "1926",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1246.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1246",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1246"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1247",
+                                            "titulo": "LOGROÑO",
+                                            "url_pdf": {
+                                                "szBytes": "141914",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1927",
+                                                "pagina_final": "1927",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1247.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1247",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1247"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1248",
+                                            "titulo": "MADRID",
+                                            "url_pdf": {
+                                                "szBytes": "141456",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1928",
+                                                "pagina_final": "1928",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1248.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1248",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1248"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1249",
+                                            "titulo": "MALAGA",
+                                            "url_pdf": {
+                                                "szBytes": "141522",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1929",
+                                                "pagina_final": "1929",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1249.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1249",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1249"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1250",
+                                            "titulo": "MALAGA",
+                                            "url_pdf": {
+                                                "szBytes": "141680",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1930",
+                                                "pagina_final": "1930",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1250.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1250",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1250"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1251",
+                                            "titulo": "MOLLET DEL VALLES",
+                                            "url_pdf": {
+                                                "szBytes": "142137",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1931",
+                                                "pagina_final": "1931",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1251.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1251",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1251"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1252",
+                                            "titulo": "NULES",
+                                            "url_pdf": {
+                                                "szBytes": "141564",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1932",
+                                                "pagina_final": "1932",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1252.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1252",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1252"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1253",
+                                            "titulo": "NULES",
+                                            "url_pdf": {
+                                                "szBytes": "141629",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1933",
+                                                "pagina_final": "1933",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1253.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1253",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1253"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1254",
+                                            "titulo": "PALMA DE MALLORCA",
+                                            "url_pdf": {
+                                                "szBytes": "142067",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1934",
+                                                "pagina_final": "1934",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1254.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1254",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1254"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1255",
+                                            "titulo": "RIBEIRA",
+                                            "url_pdf": {
+                                                "szBytes": "141522",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1935",
+                                                "pagina_final": "1935",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1255.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1255",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1255"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1256",
+                                            "titulo": "SANT FELIU DE LLOBREGAT",
+                                            "url_pdf": {
+                                                "szBytes": "142592",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1936",
+                                                "pagina_final": "1936",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1256.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1256",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1256"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1257",
+                                            "titulo": "SANT FELIU DE LLOBREGAT",
+                                            "url_pdf": {
+                                                "szBytes": "142658",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "1937",
+                                                "pagina_final": "1937",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1257.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1257",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1257"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1258",
+                                            "titulo": "TELDE",
+                                            "url_pdf": {
+                                                "szBytes": "141401",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1938",
+                                                "pagina_final": "1938",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1258.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1258",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1258"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1259",
+                                            "titulo": "VIGO",
+                                            "url_pdf": {
+                                                "szBytes": "141697",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1939",
+                                                "pagina_final": "1939",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1259.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1259",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1259"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1260",
+                                            "titulo": "ZARAGOZA",
+                                            "url_pdf": {
+                                                "szBytes": "141708",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1940",
+                                                "pagina_final": "1940",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1260.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1260",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1260"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9571",
+                                    "nombre": "SERVICIOS COMUNES PROCESALES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1261",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141010",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1941",
+                                                "pagina_final": "1941",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1261.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1261",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1261"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1262",
+                                            "titulo": "MURCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141012",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1942",
+                                                "pagina_final": "1942",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1262.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1262",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1262"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1263",
+                                            "titulo": "VALENCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141152",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1943",
+                                                "pagina_final": "1943",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1263.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1263",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1263"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1264",
+                                            "titulo": "VALENCIA",
+                                            "url_pdf": {
+                                                "szBytes": "141030",
+                                                "szKBytes": "138",
+                                                "pagina_inicial": "1944",
+                                                "pagina_final": "1944",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1264.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1264",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1264"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5A",
+                            "nombre": "V. Anuncios. - A. Contratación del Sector Público",
+                            "departamento": [
+                                {
+                                    "codigo": "4810",
+                                    "nombre": "MINISTERIO DE JUSTICIA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1265",
+                                            "titulo": "Anuncio de formalización de contratos de: Subsecretaría del Ministerio de Justicia. Objeto: Obras para la mejora de la eficiencia energética de los edificios judiciales afectados al Ministerio de Justicia. Grupo 2. Expediente: AOB/2023/056.",
+                                            "url_pdf": {
+                                                "szBytes": "186808",
+                                                "szKBytes": "182",
+                                                "pagina_inicial": "1945",
+                                                "pagina_final": "1949",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1265.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1265",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1265"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1266",
+                                            "titulo": "Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Justicia. Objeto: Servicio transporte de documentación voluminosa, enseres, paquetería y mensajería entre edificios judiciales adscritos a la Gerencia Territorial de Órganos Centrales y los envíos internacionales de documentación. Expediente: ASE/2023/114.",
+                                            "url_pdf": {
+                                                "szBytes": "159708",
+                                                "szKBytes": "156",
+                                                "pagina_inicial": "1950",
+                                                "pagina_final": "1951",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1266.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1266",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1266"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1267",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire. Objeto: 20232A06 Acuerdo Marco para el apoyo logistico de los sitemas de armas F-5(A.9), F-18 hornet (C.15), C-101 (E.25) y PC-21 (E.27). Expediente: 2023/EA02/00001257.",
+                                            "url_pdf": {
+                                                "szBytes": "162856",
+                                                "szKBytes": "159",
+                                                "pagina_inicial": "1952",
+                                                "pagina_final": "1953",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1267.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1267",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1267"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1268",
+                                            "titulo": "Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Personal. Objeto: Concesión del servicio de restauración, bar y cafetería del Cdscm. \"Santa Bárbara\" de León. Expediente: 2023/ETSAE0905/00002693E.",
+                                            "url_pdf": {
+                                                "szBytes": "152536",
+                                                "szKBytes": "149",
+                                                "pagina_inicial": "1954",
+                                                "pagina_final": "1954",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1268.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1268",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1268"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1269",
+                                            "titulo": "Anuncio de formalización de contratos de: Intendencia de Madrid. Objeto: (T.A) (03J) JESAT.-Mantenimiento y conservación de los equipamientos de cocina y lavandería delas dependencias. Expediente: 2023/AR21U/00002664E.",
+                                            "url_pdf": {
+                                                "szBytes": "157348",
+                                                "szKBytes": "154",
+                                                "pagina_inicial": "1955",
+                                                "pagina_final": "1956",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1269.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1269",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1269"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1270",
+                                            "titulo": "Anuncio de formalización de contratos de: Intendencia de Madrid. Objeto: Servicio de Socorrismo en Piscina Climatizada en Instalaciones Deportivas de Armada. Expediente: 2023/AR21U/00002666E.",
+                                            "url_pdf": {
+                                                "szBytes": "151187",
+                                                "szKBytes": "148",
+                                                "pagina_inicial": "1957",
+                                                "pagina_final": "1957",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1270.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1270",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1270"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1271",
+                                            "titulo": "Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Sur. Objeto: Servicio de retirada de residuos y desplazamiento de diversos elementos de la RLM GRAVELINAS (Badajoz) (ETH220024). Expediente: 2023/ETSAE0226/00007141E.",
+                                            "url_pdf": {
+                                                "szBytes": "156965",
+                                                "szKBytes": "153",
+                                                "pagina_inicial": "1958",
+                                                "pagina_final": "1959",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1271.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1271",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1271"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1272",
+                                            "titulo": "Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición accesorios instalación vehicular radios V/UHF SDR. Expediente: 2023/ETSAE0906/00005246E.",
+                                            "url_pdf": {
+                                                "szBytes": "162252",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "1960",
+                                                "pagina_final": "1961",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1272.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1272",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1272"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1273",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Servicios para adquisición de datos de los satelites sentinel de la esa para 2024. Expediente: 582023112300.",
+                                            "url_pdf": {
+                                                "szBytes": "159595",
+                                                "szKBytes": "156",
+                                                "pagina_inicial": "1962",
+                                                "pagina_final": "1963",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1273.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1273",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1273"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1274",
+                                            "titulo": "Anuncio de formalización de contratos de: Intendencia de Madrid. Objeto: Cursos de Ingenieria de Sistemas en la ETSIAN. Expediente: 2023/AR21U/00002892E.",
+                                            "url_pdf": {
+                                                "szBytes": "151356",
+                                                "szKBytes": "148",
+                                                "pagina_inicial": "1964",
+                                                "pagina_final": "1964",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1274.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1274",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1274"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1275",
+                                            "titulo": "Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base). Objeto: Adquisición de material de oficina para la Base Aérea de Torrejón 24-25. Expediente: 2023/EA22/00001865E.",
+                                            "url_pdf": {
+                                                "szBytes": "159001",
+                                                "szKBytes": "155",
+                                                "pagina_inicial": "1965",
+                                                "pagina_final": "1966",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1275.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1275",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1275"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1276",
+                                            "titulo": "Anuncio de formalización de contratos de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Servicio de posicionamiento de embarcaciones Short Burst Data. Expediente: 23710113600.",
+                                            "url_pdf": {
+                                                "szBytes": "157980",
+                                                "szKBytes": "154",
+                                                "pagina_inicial": "1967",
+                                                "pagina_final": "1968",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1276.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1276",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1276"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1277",
+                                            "titulo": "Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Illes Balears. Objeto: Mantenimiento de las instalaciones de calefacción y acondicionamiento de aire de los edificios de de la Delegación Especial en Illes Balears. Expediente: 23A40078500.",
+                                            "url_pdf": {
+                                                "szBytes": "167653",
+                                                "szKBytes": "164",
+                                                "pagina_inicial": "1969",
+                                                "pagina_final": "1971",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1277.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1277",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1277"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1278",
+                                            "titulo": "Anuncio de licitación de: Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada. Objeto: Acuerdo Marco para el suministro de combustibles en estaciones de servicio (AM21/2023). Expediente: 2023/136.",
+                                            "url_pdf": {
+                                                "szBytes": "173487",
+                                                "szKBytes": "169",
+                                                "pagina_inicial": "1972",
+                                                "pagina_final": "1976",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1278.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1278",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1278"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1279",
+                                            "titulo": "Anuncio de formalización de contratos de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Adquisición de monos de piloto de helicópteros para reposición de los integrantes del Área de Medios Aéreos de la Policía Nacional para los años 2023, 2024, 2025 y 2026. Expediente: Z23VE012/N10.",
+                                            "url_pdf": {
+                                                "szBytes": "162020",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "1977",
+                                                "pagina_final": "1978",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1279.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1279",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1279"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1280",
+                                            "titulo": "Anuncio de formalización de contratos de: Gerencia de la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo, M.P. Objeto: Servicio de confección de prenda polo manga corta hombre/mujer para la uniformidad del personal dependiente de la Secretaría General de Instituciones Penitenciarias. Expediente: 2023/00080.",
+                                            "url_pdf": {
+                                                "szBytes": "161241",
+                                                "szKBytes": "157",
+                                                "pagina_inicial": "1979",
+                                                "pagina_final": "1980",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1280.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1280",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1280"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1281",
+                                            "titulo": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicios de consultoria y asistencia para el control de las obras de rehabilitación del edificio para la base de mantenimiento de Torrelavega-Tanos (Cantabria). Expediente: 3.23/27507.0315.",
+                                            "url_pdf": {
+                                                "szBytes": "164872",
+                                                "szKBytes": "161",
+                                                "pagina_inicial": "1981",
+                                                "pagina_final": "1982",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1281.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1281",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1281"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1282",
+                                            "titulo": "Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicio de limpieza de las terminales de transporte de mercancías de Madrid Abroñigal,Vicálvaro y del Complejo de Villaverde pertenecientes a la Subdirección de Servicios Logísticos Centro. Expediente: 2.23/23108.0163.",
+                                            "url_pdf": {
+                                                "szBytes": "158223",
+                                                "szKBytes": "155",
+                                                "pagina_inicial": "1983",
+                                                "pagina_final": "1984",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1282.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1282",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1282"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1283",
+                                            "titulo": "Anuncio de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias (ADIF), por el que se comunican las nuevas fechas del procedimiento de contratación de los \"Servicios de asistencia técnica para el control y vigilancia en la ejecución de la obra de construcción de afecciones a IISS para la ampliación a 750 m de vías de apartado en la Estación de Almudévar\". (Expediente: 3.23/27507.0327).",
+                                            "url_pdf": {
+                                                "szBytes": "145995",
+                                                "szKBytes": "143",
+                                                "pagina_inicial": "1985",
+                                                "pagina_final": "1985",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1283.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1283",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1283"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1284",
+                                            "titulo": "Anuncio de formalización de contratos de: ADIF -Consejo de Administración. Objeto: Ejecución de las obras del proyecto constructivo de renovación del trayecto San Pablo-Almoraima de la línea Bobadilla-Algeciras. Pk 129+400 al 155+438. Fase 2. Expediente: 3.22/27507.0185.",
+                                            "url_pdf": {
+                                                "szBytes": "161519",
+                                                "szKBytes": "158",
+                                                "pagina_inicial": "1986",
+                                                "pagina_final": "1987",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1284.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1284",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1284"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9576",
+                                    "nombre": "MINISTERIO DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-1285",
+                                        "titulo": "Anuncio de formalización de contratos de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de Impresión y actividades conexas para el ONTSI. Expediente: 020/23-OT.",
+                                        "url_pdf": {
+                                            "szBytes": "158980",
+                                            "szKBytes": "155",
+                                            "pagina_inicial": "1988",
+                                            "pagina_final": "1989",
+                                            "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1285.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1285",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1285"
+                                    }
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1286",
+                                            "titulo": "Anuncio de licitación de: Dirección General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Objeto: Servicios de vigilancia de seguridad en los centros del CIEMAT, en Madrid, CEDER-Soria y CETA-Trujillo (Cáceres). Expediente: 296778-296779-296780.",
+                                            "url_pdf": {
+                                                "szBytes": "153198",
+                                                "szKBytes": "150",
+                                                "pagina_inicial": "1990",
+                                                "pagina_final": "1991",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1286.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1286",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1286"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1287",
+                                            "titulo": "Anuncio de licitación de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Servicio de vigilancia para Institutos y Centros de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: LOT23/24.",
+                                            "url_pdf": {
+                                                "szBytes": "152110",
+                                                "szKBytes": "149",
+                                                "pagina_inicial": "1992",
+                                                "pagina_final": "1992",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1287.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1287",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1287"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1288",
+                                            "titulo": "Anuncio de formalización de contratos de: INSS-Dirección provincial de Madrid. Objeto: Ejecución de los servicios de reparación de averías eléctricas y trabajos en las instalaciones de voz y datos, en los Centros de Atención e Información y Unidad Médica de Usera dependientes de la Dirección Provincial del Instituto Nacional de la Seguridad Social de Madrid, desde 1 de enero de 2024 a 31 de diciembre de 2024. Expediente: 28/VC-415/23.",
+                                            "url_pdf": {
+                                                "szBytes": "162924",
+                                                "szKBytes": "159",
+                                                "pagina_inicial": "1993",
+                                                "pagina_final": "1994",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1288.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1288",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1288"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1289",
+                                            "titulo": "Anuncio de licitación de: TGSS-Dirección provincial de Valencia. Objeto: Servicio de seguridad y vigilancia de la Dirección Provincial de la Tesorería General de la Seguridad Social de Valencia. Expediente: 46CG13720236393.",
+                                            "url_pdf": {
+                                                "szBytes": "150445",
+                                                "szKBytes": "147",
+                                                "pagina_inicial": "1995",
+                                                "pagina_final": "1995",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1289.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1289",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1289"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1290",
+                                            "titulo": "Anuncio de licitación de: TGSS-Dirección provincial de Valencia. Objeto: Servicio de limpieza Dirección Provincial de la Tesorería General de la Seguridad Social de Valencia y centros dependientes. Expediente: 46CG13620236391.",
+                                            "url_pdf": {
+                                                "szBytes": "171681",
+                                                "szKBytes": "168",
+                                                "pagina_inicial": "1996",
+                                                "pagina_final": "1998",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1290.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1290",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1290"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5B",
+                            "nombre": "V. Anuncios. - B. Otros anuncios oficiales",
+                            "departamento": [
+                                {
+                                    "codigo": "6110",
+                                    "nombre": "MINISTERIO DE DEFENSA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-1291",
+                                        "titulo": "Extracto de la Orden Ministerial 50/2023, de 18 de diciembre, por la que se convoca el Premio \"Fidel Pagés Miravé\" en su XIII edición.",
+                                        "url_pdf": {
+                                            "szBytes": "151946",
+                                            "szKBytes": "148",
+                                            "pagina_inicial": "1999",
+                                            "pagina_final": "2000",
+                                            "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1291.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1291",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1291"
+                                    }
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1292",
+                                            "titulo": "Resolución de la Delegación de Economía y Hacienda en Cádiz por la que se convoca subasta pública al alza de bienes inmuebles propiedad de la Administración General del Estado.",
+                                            "url_pdf": {
+                                                "szBytes": "151958",
+                                                "szKBytes": "148",
+                                                "pagina_inicial": "2001",
+                                                "pagina_final": "2002",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1292.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1292",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1292"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1293",
+                                            "titulo": "Extracto de la Resolución de 8 de enero de 2024 del Consejo de Administración del Consorcio de la Ciudad de Toledo por la que se aprueban las bases reguladoras de la concesión de subvención directa a la Asociación Amigos de los Patios de Toledo por la realización del certamen anual de patios de Toledo en el ejercicio 2024",
+                                            "url_pdf": {
+                                                "szBytes": "150387",
+                                                "szKBytes": "147",
+                                                "pagina_inicial": "2003",
+                                                "pagina_final": "2004",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1293.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1293",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1293"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1294",
+                                            "titulo": "Anuncio de la Demarcación de Carreteras del Estado en Andalucía Oriental por el que se publica la resolución de la Dirección General de Carreteras por la que se aprueba provisionalmente, y se ordena la incoación del trámite de información pública, del: Proyecto de Trazado \"Mejora de la travesía de Torrenueva Costa. Carretera N-340 PP.KK. 336+600 al 338+500. Provincia de Granada\". Clave: 33-GR-4340.",
+                                            "url_pdf": {
+                                                "szBytes": "168210",
+                                                "szKBytes": "164",
+                                                "pagina_inicial": "2005",
+                                                "pagina_final": "2007",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1294.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1294",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1294"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1295",
+                                            "titulo": "Anuncio de la Demarcación de Carreteras del Estado en Castilla-La Mancha por el que se somete a información pública la aprobación provisional del \"Estudio de delimitación de tramo urbano y establecimiento de la línea límite de edificación en núcleo urbano de Valdenoches, T.M. de Guadalajara, entre los pp.kk. 64+050 y 64+800 m.d. de la Autovía A-2. Fase 1: p.k. 64+050 a 64+700. Provincia de Guadalajara\". SGE-DTU-23-043.",
+                                            "url_pdf": {
+                                                "szBytes": "154475",
+                                                "szKBytes": "151",
+                                                "pagina_inicial": "2008",
+                                                "pagina_final": "2009",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1295.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1295",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1295"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1296",
+                                            "titulo": "Anuncio de la Demarcación de Carreteras del Estado en Castilla y León Oriental por el que se aprueba el expediente de información pública y definitivamente el Estudio de Delimitación de Tramo Urbano y Establecimiento de Línea Límite de Edificación de la carretera N-110 p.k. 273+470 a p.k. 274+218, Término Municipal de Muñogalindo (Provincia de Ávila). Clave: LLE-10-AV-2019.",
+                                            "url_pdf": {
+                                                "szBytes": "152155",
+                                                "szKBytes": "149",
+                                                "pagina_inicial": "2010",
+                                                "pagina_final": "2011",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1296.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1296",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1296"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1297",
+                                            "titulo": "Anuncio de la Demarcación de Carreteras del Estado en Castilla y León Occidental sobre Resolución Del Ministerio De Transportes y Movilidad Sostenible por la que se aprueba el Expediente de Información Pública y definitivamente el Proyecto de Trazado: \"Remodelación de la intersección actual en N-525 pp.kk. 0,950 con Camino Campo de Deportes y acceso a IES Los Salados. Provincia de Zamora\". Clave: 33-ZA-3720.",
+                                            "url_pdf": {
+                                                "szBytes": "151838",
+                                                "szKBytes": "148",
+                                                "pagina_inicial": "2012",
+                                                "pagina_final": "2013",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1297.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1297",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1297"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1298",
+                                            "titulo": "Anuncio de la Autoridad Portuaria de A Coruña de inicio del trámite de competencia de proyectos para la solicitud de una concesión administrativa a nombre de FUNDACION MOP- THE MOP FOUNDATION (C0786).",
+                                            "url_pdf": {
+                                                "szBytes": "147967",
+                                                "szKBytes": "144",
+                                                "pagina_inicial": "2014",
+                                                "pagina_final": "2014",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1298.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1298",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1298"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1299",
+                                            "titulo": "Anuncio de la Subdirección General de Hidrocarburos y Nuevos Combustibles, por el que se da publicidad a la Resolución de 29 de diciembre de 2023, por la que se establecen los listados de instalaciones de suministro de combustibles y carburantes obligadas a instalar infraestructura de recarga eléctrica en virtud de los apartados 7 y 8, del artículo 15 de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética.",
+                                            "url_pdf": {
+                                                "szBytes": "146793",
+                                                "szKBytes": "143",
+                                                "pagina_inicial": "2015",
+                                                "pagina_final": "2015",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1299.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1299",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1299"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1300",
+                                            "titulo": "Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de competencia de proyectos de solicitud de concesión de aprovechamiento de aguas públicas del expediente 4764/2023.",
+                                            "url_pdf": {
+                                                "szBytes": "153318",
+                                                "szKBytes": "150",
+                                                "pagina_inicial": "2016",
+                                                "pagina_final": "2017",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1300.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1300",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1300"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1301",
+                                            "titulo": "Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de 0,04 l/s de aguas a derivar del río Tajo, con destino a riego, en el término municipal de Noblejas (Toledo).",
+                                            "url_pdf": {
+                                                "szBytes": "149072",
+                                                "szKBytes": "146",
+                                                "pagina_inicial": "2018",
+                                                "pagina_final": "2018",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1301.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1301",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1301"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1302",
+                                            "titulo": "Anuncio de la Confederación Hidrográfica del Ebro, de información pública del expediente de extinción del aprovechamiento de agua a derivar del río Salazar, término municipal de Lumbier (Navarra), con destino a regadíos y usos agrarios. Expediente 2023-EXT-36.",
+                                            "url_pdf": {
+                                                "szBytes": "151323",
+                                                "szKBytes": "148",
+                                                "pagina_inicial": "2019",
+                                                "pagina_final": "2020",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1302.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1302",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1302"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1303",
+                                            "titulo": "Anuncio de la Demarcación de Costas en Asturias sobre otorgamiento de concesión de ocupación de dominio público marítimo-terrestre con destino a regularización de las infraestructuras de captación de agua para biofábrica de celulosa, en la ría de Navia, términos municipales de Coaña y Navia. Ref. CNC02/23/33/0001.",
+                                            "url_pdf": {
+                                                "szBytes": "146311",
+                                                "szKBytes": "143",
+                                                "pagina_inicial": "2021",
+                                                "pagina_final": "2021",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1303.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1303",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1303"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9534",
+                                    "nombre": "COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-1304",
+                                        "titulo": "Anuncio de la Comisión Nacional de los Mercados y la Competencia por el que se procede a hacer público la Resolución de fecha 15 de diciembre de 2023, por la que se determinan los operadores obligados a contribuir al Fondo Nacional del Servicio Universal de Comunicaciones Electrónicas por el ejercicio 2020 (SU/DTSA/006/23).",
+                                        "url_pdf": {
+                                            "szBytes": "162867",
+                                            "szKBytes": "159",
+                                            "pagina_inicial": "2022",
+                                            "pagina_final": "2023",
+                                            "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1304.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1304",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1304"
+                                    }
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-1305",
+                                        "titulo": "GESTION TRIBUTARIA PROVINCIAL ALBACETE",
+                                        "url_pdf": {
+                                            "szBytes": "142131",
+                                            "szKBytes": "139",
+                                            "pagina_inicial": "2024",
+                                            "pagina_final": "2024",
+                                            "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1305.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1305",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1305"
+                                    }
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1306",
+                                            "titulo": "Anuncio de la Universidad de Las Palmas de Gran Canaria sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "143598",
+                                                "szKBytes": "140",
+                                                "pagina_inicial": "2025",
+                                                "pagina_final": "2025",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1306.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1306",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1306"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1307",
+                                            "titulo": "Anuncio de la Universidad Pompeu Fabra sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "143237",
+                                                "szKBytes": "140",
+                                                "pagina_inicial": "2026",
+                                                "pagina_final": "2026",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1307.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1307",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1307"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1308",
+                                            "titulo": "Anuncio de la Universidad Pompeu Fabra sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "143291",
+                                                "szKBytes": "140",
+                                                "pagina_inicial": "2027",
+                                                "pagina_final": "2027",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1308.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1308",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1308"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1309",
+                                            "titulo": "Anuncio de la Universidad Pompeu Fabra sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "143454",
+                                                "szKBytes": "140",
+                                                "pagina_inicial": "2028",
+                                                "pagina_final": "2028",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1309.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1309",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1309"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1310",
+                                            "titulo": "Anuncio de la Universidad Pompeu Fabra sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "143168",
+                                                "szKBytes": "140",
+                                                "pagina_inicial": "2029",
+                                                "pagina_final": "2029",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1310.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1310",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1310"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1311",
+                                            "titulo": "Anuncio de la Facultad de Geografía e Historia de la Universidad de Valencia, sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "143360",
+                                                "szKBytes": "140",
+                                                "pagina_inicial": "2030",
+                                                "pagina_final": "2030",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1311.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1311",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1311"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1312",
+                                            "titulo": "Anuncio de la Facultad de Educación de la Universidad de Murcia sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "143095",
+                                                "szKBytes": "140",
+                                                "pagina_inicial": "2031",
+                                                "pagina_final": "2031",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1312.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1312",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1312"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1313",
+                                            "titulo": "Anuncio de la Facultad de Medicina de la Universidad Autónoma de Madrid sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "142848",
+                                                "szKBytes": "140",
+                                                "pagina_inicial": "2032",
+                                                "pagina_final": "2032",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1313.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1313",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1313"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1314",
+                                            "titulo": "Anuncio de la Escuela Politécnica Superior de Edificación de Barcelona de la Universitat Politècnica de Catalunya sobre extravío de título universitario de Arquitecto Técnico.",
+                                            "url_pdf": {
+                                                "szBytes": "144102",
+                                                "szKBytes": "141",
+                                                "pagina_inicial": "2033",
+                                                "pagina_final": "2033",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1314.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1314",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1314"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1315",
+                                            "titulo": "Anuncio de la Facultad de Ciencias de la Salud de la Universidad Pública de Navarra sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "143630",
+                                                "szKBytes": "140",
+                                                "pagina_inicial": "2034",
+                                                "pagina_final": "2034",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1315.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1315",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1315"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1316",
+                                            "titulo": "Anuncio de la Facultad de Ciencias del Deporte de la Universidad de Granada sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "142723",
+                                                "szKBytes": "139",
+                                                "pagina_inicial": "2035",
+                                                "pagina_final": "2035",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1316.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1316",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1316"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1317",
+                                            "titulo": "Anuncio de la Universidad de Las Palmas de Gran Canaria sobre extravío de título universitario.",
+                                            "url_pdf": {
+                                                "szBytes": "143124",
+                                                "szKBytes": "140",
+                                                "pagina_inicial": "2036",
+                                                "pagina_final": "2036",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1317.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1317",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1317"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5C",
+                            "nombre": "V. Anuncios. - C. Anuncios particulares",
+                            "departamento": [
+                                {
+                                    "codigo": "9202",
+                                    "nombre": "ANUNCIOS PARTICULARES",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-1318",
+                                        "titulo": "FUNDACIÓN CASER",
+                                        "url_pdf": {
+                                            "szBytes": "143890",
+                                            "szKBytes": "141",
+                                            "pagina_inicial": "2037",
+                                            "pagina_final": "2037",
+                                            "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1318.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1318",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1318"
+                                    }
+                                },
+                                {
+                                    "codigo": "9583",
+                                    "nombre": "CONVOCATORIAS DE JUNTAS",
+                                    "item": [
+                                        {
+                                            "identificador": "BOE-B-2024-1319",
+                                            "titulo": "COMUNIDAD DE REGANTES ALDEA DE SAN NICOLÁS.",
+                                            "url_pdf": {
+                                                "szBytes": "144097",
+                                                "szKBytes": "141",
+                                                "pagina_inicial": "2038",
+                                                "pagina_final": "2038",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1319.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1319",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1319"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1320",
+                                            "titulo": "COMUNIDAD DE REGANTES DE ALCOLEA DE TAJO",
+                                            "url_pdf": {
+                                                "szBytes": "146114",
+                                                "szKBytes": "143",
+                                                "pagina_inicial": "2039",
+                                                "pagina_final": "2039",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1320.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1320",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1320"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1321",
+                                            "titulo": "COMUNIDAD DE REGANTES DE MÉRIDA- CANAL DE LOBÓN.",
+                                            "url_pdf": {
+                                                "szBytes": "144189",
+                                                "szKBytes": "141",
+                                                "pagina_inicial": "2040",
+                                                "pagina_final": "2040",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1321.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1321",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1321"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1322",
+                                            "titulo": "COMUNIDAD DE REGANTES DE REQUENA.",
+                                            "url_pdf": {
+                                                "szBytes": "144179",
+                                                "szKBytes": "141",
+                                                "pagina_inicial": "2041",
+                                                "pagina_final": "2041",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1322.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1322",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1322"
+                                        },
+                                        {
+                                            "identificador": "BOE-B-2024-1323",
+                                            "titulo": "COMUNIDAD DE REGANTES PRESA DE LAS FRAGUAS",
+                                            "url_pdf": {
+                                                "szBytes": "145516",
+                                                "szKBytes": "142",
+                                                "pagina_inicial": "2042",
+                                                "pagina_final": "2042",
+                                                "texto": "https://www.boe.es/boe/dias/2024/01/16/pdfs/BOE-B-2024-1323.pdf"
+                                            },
+                                            "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-1323",
+                                            "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-1323"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

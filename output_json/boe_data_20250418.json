@@ -1,0 +1,1333 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20250418"
+            },
+            "diario": [
+                {
+                    "numero": "94",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2025-94",
+                        "url_pdf": {
+                            "szBytes": "257423",
+                            "szKBytes": "251",
+                            "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-S-2025-94.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "1820",
+                                    "nombre": "CONSEJO GENERAL DEL PODER JUDICIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7873",
+                                                "control": "2025/5931",
+                                                "titulo": "Orden de 8 de abril de 2025, por el que se nombra Decano de los Juzgados de Figueres al Juez David Fernández Torregrosa.",
+                                                "url_pdf": {
+                                                    "szBytes": "190110",
+                                                    "szKBytes": "186",
+                                                    "pagina_inicial": "54195",
+                                                    "pagina_final": "54195",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7873.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7873",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7873"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Adscripciones",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-7874",
+                                                    "control": "2025/5928",
+                                                    "titulo": "Acuerdo de 8 de abril de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se adscribe a la Magistrada doña María Mercedes Guerrero Romeo a la Audiencia Provincial de Álava, orden civil.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191147",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54196",
+                                                        "pagina_final": "54196",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7874.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7874",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7874"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7875",
+                                                    "control": "2025/5929",
+                                                    "titulo": "Acuerdo de 8 de abril de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se adscribe a la Magistrada doña Concepción Espejel Jorquera a la Sala de lo Penal de la Audiencia Nacional.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190941",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54197",
+                                                        "pagina_final": "54197",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7875.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7875",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7875"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7876",
+                                                    "control": "2025/5930",
+                                                    "titulo": "Acuerdo de 8 de abril de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se adscribe al Magistrado don Rafael Losada Armada a la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Cantabria.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191422",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54198",
+                                                        "pagina_final": "54198",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7876.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7876",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7876"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7877",
+                                                "control": "2025/6123",
+                                                "titulo": "Resolución de 15 de abril de 2025, de la Dirección de la Agencia Estatal de Administración Digital, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 13 de marzo de 2025.",
+                                                "url_pdf": {
+                                                    "szBytes": "215953",
+                                                    "szKBytes": "211",
+                                                    "pagina_inicial": "54199",
+                                                    "pagina_final": "54201",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7877.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7877",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7877"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4510",
+                                    "nombre": "MINISTERIO FISCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Ceses",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7878",
+                                                "control": "2025/5953",
+                                                "titulo": "Decreto de 9 de abril de 2025, del Fiscal General del Estado, por el que se dispone el cese de don Alberto Campomanes Caleza como Fiscal Delegado especialista de Criminalidad Informática en la Fiscalía Provincial de Huelva.",
+                                                "url_pdf": {
+                                                    "szBytes": "198149",
+                                                    "szKBytes": "194",
+                                                    "pagina_inicial": "54202",
+                                                    "pagina_final": "54203",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7878.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7878",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7878"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-7879",
+                                                    "control": "2025/5952",
+                                                    "titulo": "Decreto de 8 de abril de 2025, del Fiscal General del Estado, por el que se nombra Delegada de lo Social en la Fiscalía de la Comunidad Autónoma de Cantabria a doña Sandra Fernández Gutiérrez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "198002",
+                                                        "szKBytes": "193",
+                                                        "pagina_inicial": "54204",
+                                                        "pagina_final": "54205",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7879.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7879",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7879"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7880",
+                                                    "control": "2025/5954",
+                                                    "titulo": "Decreto de 9 de abril de 2025, del Fiscal General del Estado, por el que se nombra Fiscal Delegada de Vigilancia Penitenciaria en la Fiscalía Provincial de Huelva a doña María Dolores Mohedano Sánchez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "200277",
+                                                        "szKBytes": "196",
+                                                        "pagina_inicial": "54206",
+                                                        "pagina_final": "54207",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7880.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7880",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7880"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-7881",
+                                                    "control": "2025/5423",
+                                                    "titulo": "Resolución de 3 de abril de 2025, de la Universidad de Valladolid, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "232291",
+                                                        "szKBytes": "227",
+                                                        "pagina_inicial": "54208",
+                                                        "pagina_final": "54209",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7881.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7881",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7881"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7882",
+                                                    "control": "2025/5605",
+                                                    "titulo": "Resolución de 7 de abril de 2025, de la Universidad de Almería, por la que se nombra Catedrático de Universidad a don Antonio Jesús Casimiro Andújar.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191246",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54210",
+                                                        "pagina_final": "54210",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7882.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7882",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7882"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7883",
+                                                    "control": "2025/5606",
+                                                    "titulo": "Resolución de 7 de abril de 2025, de la Universidad de Almería, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "198219",
+                                                        "szKBytes": "194",
+                                                        "pagina_inicial": "54211",
+                                                        "pagina_final": "54211",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7883.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7883",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7883"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7884",
+                                                    "control": "2025/5611",
+                                                    "titulo": "Resolución de 7 de abril de 2025, de la Universidad de Salamanca, por la que se nombra Catedrática de Universidad a doña María Rosario Martín Ruano.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192133",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "54212",
+                                                        "pagina_final": "54212",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7884.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7884",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7884"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7885",
+                                                    "control": "2025/5615",
+                                                    "titulo": "Resolución de 7 de abril de 2025, de la Universidad de Salamanca, por la que se nombra Catedrático de Universidad a don Antonio Notario Ruíz.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191943",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54213",
+                                                        "pagina_final": "54213",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7885.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7885",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7885"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7886",
+                                                    "control": "2025/5618",
+                                                    "titulo": "Resolución de 7 de abril de 2025, de la Universidad de Salamanca, por la que se nombra Catedrático de Universidad a don Manuel Fuentes García.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192122",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "54214",
+                                                        "pagina_final": "54214",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7886.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7886",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7886"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7887",
+                                                    "control": "2025/5620",
+                                                    "titulo": "Resolución de 8 de abril de 2025, de la Universidad de León, por la que se nombra Catedrático de Universidad a don David Pérez Neira.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191597",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54215",
+                                                        "pagina_final": "54215",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7887.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7887",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7887"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7888",
+                                                    "control": "2025/5621",
+                                                    "titulo": "Resolución de 8 de abril de 2025, de la Universidad de León, por la que se nombra Profesora Titular de Universidad a doña Mercedes Jiménez Rosado.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192179",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "54216",
+                                                        "pagina_final": "54216",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7888.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7888",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7888"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7889",
+                                                    "control": "2025/5622",
+                                                    "titulo": "Resolución de 8 de abril de 2025, de la Universidad de Málaga, por la que se nombra Profesora Titular de Universidad a doña Elena Palomo Ríos.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192692",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "54217",
+                                                        "pagina_final": "54217",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7889.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7889",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7889"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7890",
+                                                    "control": "2025/5623",
+                                                    "titulo": "Resolución de 8 de abril de 2025, de la Universidad de Zaragoza, por la que se nombra Catedrático de Universidad a don José Luis Sarto Marzal.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192861",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "54218",
+                                                        "pagina_final": "54218",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7890.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7890",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7890"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7891",
+                                                    "control": "2025/5624",
+                                                    "titulo": "Resolución de 8 de abril de 2025, de la Universidad de Zaragoza, por la que se nombra Profesora Titular de Universidad a doña Eva Tresaco Vidaller.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192611",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "54219",
+                                                        "pagina_final": "54219",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7891.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7891",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7891"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7892",
+                                                    "control": "2025/5625",
+                                                    "titulo": "Resolución de 8 de abril de 2025, de la Universidad de Zaragoza, por la que se nombra Profesora Titular de Universidad a doña Olga María Mitjana Nerín.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192952",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "54220",
+                                                        "pagina_final": "54220",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7892.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7892",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7892"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "9562",
+                                    "nombre": "MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designación",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7893",
+                                                "control": "2025/5967",
+                                                "titulo": "Resolución de 11 de abril de 2025, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "239034",
+                                                    "szKBytes": "233",
+                                                    "pagina_inicial": "54221",
+                                                    "pagina_final": "54224",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7893.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7893",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7893"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designación",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7894",
+                                                "control": "2025/5974",
+                                                "titulo": "Resolución de 9 de abril de 2025, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "233824",
+                                                    "szKBytes": "228",
+                                                    "pagina_inicial": "54225",
+                                                    "pagina_final": "54228",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7894.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7894",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7894"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Funcionarios de administración local con habilitación de carácter nacional",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7895",
+                                                "control": "2025/5982",
+                                                "titulo": "Resolución de 14 de abril de 2025, de la Dirección General de la Función Pública, por la que se amplía el plazo de resolución del concurso ordinario para el año 2024 para la provisión de puestos de trabajo reservados a funcionarios de administración local con habilitación de carácter nacional, convocado por Resolución de 10 de enero de 2025.",
+                                                "url_pdf": {
+                                                    "szBytes": "195618",
+                                                    "szKBytes": "191",
+                                                    "pagina_inicial": "54229",
+                                                    "pagina_final": "54230",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7895.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7895",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7895"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Procedimientos de libre designación",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-7896",
+                                                    "control": "2025/5874",
+                                                    "titulo": "Resolución de 10 de abril de 2025, de la Dirección General de la Función Pública, por la que se publica la resolución que declara desierta la convocatoria para la provisión de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193460",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "54231",
+                                                        "pagina_final": "54231",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7896.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7896",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7896"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7897",
+                                                    "control": "2025/5979",
+                                                    "titulo": "Resolución de 10 de abril de 2025, de la Dirección General de la Función Pública, por la que se publica la resolución que declara desierta la convocatoria para la provisión de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193357",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "54232",
+                                                        "pagina_final": "54232",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7897.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7897",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7897"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1420",
+                                    "nombre": "TRIBUNAL DE CUENTAS",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario. Concursos",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7898",
+                                                "control": "2025/5984",
+                                                "titulo": "Resolución de 10 de abril de 2025, de la Presidencia del Tribunal de Cuentas, por la que se amplía el plazo para resolver el concurso específico para la provisión de puestos de trabajo, convocado por Resolución de 25 de septiembre de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "191507",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "54233",
+                                                    "pagina_final": "54233",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7898.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7898",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7898"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-7899",
+                                                    "control": "2025/101806",
+                                                    "titulo": "Resolución de 17 de marzo de 2023, del Ayuntamiento de Sonseca (Toledo), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190562",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54234",
+                                                        "pagina_final": "54234",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7899.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7899",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7899"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7900",
+                                                    "control": "2025/101805",
+                                                    "titulo": "Resolución de 24 de marzo de 2023, del Ayuntamiento de Sonseca (Toledo), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190440",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54235",
+                                                        "pagina_final": "54235",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7900.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7900",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7900"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7901",
+                                                    "control": "2025/101855",
+                                                    "titulo": "Resolución de 19 de marzo de 2025, del Ayuntamiento de Alcorcón (Madrid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190535",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54236",
+                                                        "pagina_final": "54236",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7901.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7901",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7901"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7902",
+                                                    "control": "2025/101861",
+                                                    "titulo": "Resolución de 25 de marzo de 2025, de la Mancomunidad Camp de Túria (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190482",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54237",
+                                                        "pagina_final": "54237",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7902.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7902",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7902"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7903",
+                                                    "control": "2025/101863",
+                                                    "titulo": "Resolución de 27 de marzo de 2025, del Ayuntamiento de Castelldefels (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190313",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54238",
+                                                        "pagina_final": "54238",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7903.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7903",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7903"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7904",
+                                                    "control": "2025/101839",
+                                                    "titulo": "Resolución de 4 de abril de 2025, del Ayuntamiento de Fuengirola (Málaga), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190986",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54239",
+                                                        "pagina_final": "54239",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7904.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7904",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7904"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7905",
+                                                    "control": "2025/101843",
+                                                    "titulo": "Resolución de 5 de abril de 2025, del Ayuntamiento de Paracuellos de Jarama (Madrid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190155",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54240",
+                                                        "pagina_final": "54240",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7905.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7905",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7905"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7906",
+                                                    "control": "2025/101835",
+                                                    "titulo": "Resolución de 8 de abril de 2025, del Ayuntamiento de Sarria (Lugo), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190888",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54241",
+                                                        "pagina_final": "54241",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7906.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7906",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7906"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7907",
+                                                    "control": "2025/101837",
+                                                    "titulo": "Resolución de 8 de abril de 2025, del Ayuntamiento de Torrelavega (Cantabria), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190542",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54242",
+                                                        "pagina_final": "54242",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7907.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7907",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7907"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7908",
+                                                    "control": "2025/101841",
+                                                    "titulo": "Resolución de 8 de abril de 2025, del Ayuntamiento de Onda (Castellón/Castelló), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190443",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54243",
+                                                        "pagina_final": "54243",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7908.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7908",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7908"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7909",
+                                                    "control": "2025/101845",
+                                                    "titulo": "Resolución de 8 de abril de 2025, del Ayuntamiento de Campillos (Málaga), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191036",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54244",
+                                                        "pagina_final": "54244",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7909.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7909",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7909"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7910",
+                                                    "control": "2025/101836",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de La Jonquera (Girona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191046",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54245",
+                                                        "pagina_final": "54245",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7910.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7910",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7910"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7911",
+                                                    "control": "2025/101838",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Campo de Criptana (Ciudad Real), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190655",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54246",
+                                                        "pagina_final": "54246",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7911.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7911",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7911"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7912",
+                                                    "control": "2025/101840",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Villajoyosa (Alicante), Organismo Autónomo Local Centro Municipal Hospital Asilo Santa Marta, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191602",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54247",
+                                                        "pagina_final": "54247",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7912.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7912",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7912"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7913",
+                                                    "control": "2025/101842",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Nájera (La Rioja), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190292",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54248",
+                                                        "pagina_final": "54248",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7913.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7913",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7913"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7914",
+                                                    "control": "2025/101844",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Algorfa (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190242",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54249",
+                                                        "pagina_final": "54249",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7914.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7914",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7914"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7915",
+                                                    "control": "2025/101846",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Caudete (Albacete), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190400",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54250",
+                                                        "pagina_final": "54250",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7915.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7915",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7915"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7916",
+                                                    "control": "2025/101848",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Viladecans (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190538",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54251",
+                                                        "pagina_final": "54251",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7916.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7916",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7916"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7917",
+                                                    "control": "2025/101849",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Cercedilla (Madrid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190481",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54252",
+                                                        "pagina_final": "54252",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7917.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7917",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7917"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7918",
+                                                    "control": "2025/101850",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de El Puig de Santa Maria (Valencia/València), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191765",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54253",
+                                                        "pagina_final": "54253",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7918.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7918",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7918"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7919",
+                                                    "control": "2025/101851",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de El Granado (Huelva), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190371",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54254",
+                                                        "pagina_final": "54254",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7919.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7919",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7919"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7920",
+                                                    "control": "2025/101852",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de El Real de la Jara (Sevilla), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190836",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54255",
+                                                        "pagina_final": "54255",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7920.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7920",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7920"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7921",
+                                                    "control": "2025/101853",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Torres (Jaén), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190980",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "54256",
+                                                        "pagina_final": "54256",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7921.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7921",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7921"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7922",
+                                                    "control": "2025/101854",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Yecla (Murcia), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190622",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54257",
+                                                        "pagina_final": "54257",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7922.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7922",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7922"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7923",
+                                                    "control": "2025/101856",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Arcos de la Frontera (Cádiz), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190788",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54258",
+                                                        "pagina_final": "54258",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7923.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7923",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7923"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7924",
+                                                    "control": "2025/101857",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Arcos de la Frontera (Cádiz), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190592",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54259",
+                                                        "pagina_final": "54259",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7924.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7924",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7924"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7925",
+                                                    "control": "2025/101858",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Yecla (Murcia), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190616",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54260",
+                                                        "pagina_final": "54260",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7925.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7925",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7925"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7926",
+                                                    "control": "2025/101859",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Yecla (Murcia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190347",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54261",
+                                                        "pagina_final": "54261",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7926.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7926",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7926"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7927",
+                                                    "control": "2025/101862",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Pontevedra, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190490",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "54262",
+                                                        "pagina_final": "54262",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7927.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7927",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7927"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7928",
+                                                    "control": "2025/101864",
+                                                    "titulo": "Resolución de 9 de abril de 2025, del Ayuntamiento de Lleida, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "197518",
+                                                        "szKBytes": "193",
+                                                        "pagina_inicial": "54263",
+                                                        "pagina_final": "54264",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7928.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7928",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7928"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de las Illes Balears. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7929",
+                                                "control": "2025/5991",
+                                                "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica el Convenio entre la Mutualidad General de Funcionarios Civiles del Estado, O.A., el Instituto Social de las Fuerzas Armadas, O.A., la Mutualidad General Judicial, O.A., y el Servicio de Salud de las Illes Balears, para la gestión, a través del sistema de receta electrónica del Servicio de Salud de las Illes Balears, de la prestación farmacéutica ambulatoria dispensada en oficina de farmacia del colectivo mutualista adscrito al mismo.",
+                                                "url_pdf": {
+                                                    "szBytes": "317159",
+                                                    "szKBytes": "310",
+                                                    "pagina_inicial": "54265",
+                                                    "pagina_final": "54276",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7929.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7929",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7929"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad Autónoma del País Vasco. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7930",
+                                                "control": "2025/5992",
+                                                "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica la tercera modificación del Convenio con la Comunidad Autónoma del País Vasco y el Administrador de Infraestructuras Ferroviarias, E.P.E., para la construcción de la nueva red ferroviaria en el País Vasco.",
+                                                "url_pdf": {
+                                                    "szBytes": "1715432",
+                                                    "szKBytes": "1675",
+                                                    "pagina_inicial": "54277",
+                                                    "pagina_final": "54288",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7930.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7930",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7930"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-7931",
+                                                    "control": "2025/5990",
+                                                    "titulo": "Resolución de 9 de abril de 2025, de la Gerencia del Consejo de Administración del Patrimonio Nacional, por la que se publica la Adenda de modificación y prórroga del Convenio con la Diputación Permanente de la Grandeza de España y Títulos del Reino y la Fundación Cultural de la Nobleza Española, para la celebración de la exposición «Felipe VI una década de la historia de la Corona de España».",
+                                                    "url_pdf": {
+                                                        "szBytes": "207052",
+                                                        "szKBytes": "202",
+                                                        "pagina_inicial": "54289",
+                                                        "pagina_final": "54291",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7931.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7931",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7931"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7932",
+                                                    "control": "2025/5993",
+                                                    "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica el Convenio entre el Servicio Público de Empleo Estatal, O.A., y la Corporación de Radio y Televisión Española, SA, S.M.E., para la difusión pública de información y conocimiento sobre el empleo y las prestaciones por desempleo.",
+                                                    "url_pdf": {
+                                                        "szBytes": "232346",
+                                                        "szKBytes": "227",
+                                                        "pagina_inicial": "54292",
+                                                        "pagina_final": "54297",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7932.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7932",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7932"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7933",
+                                                    "control": "2025/5994",
+                                                    "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica el Convenio de asistencia jurídica entre la Abogacía General del Estado e ICEX España Exportación e Inversiones, E.P.E.",
+                                                    "url_pdf": {
+                                                        "szBytes": "222469",
+                                                        "szKBytes": "217",
+                                                        "pagina_inicial": "54298",
+                                                        "pagina_final": "54302",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7933.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7933",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7933"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7934",
+                                                    "control": "2025/5995",
+                                                    "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica el Convenio de asistencia jurídica entre la Abogacía General del Estado y la Entidad Pública Empresarial Red.es, M.P.",
+                                                    "url_pdf": {
+                                                        "szBytes": "222978",
+                                                        "szKBytes": "218",
+                                                        "pagina_inicial": "54303",
+                                                        "pagina_final": "54307",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7934.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7934",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7934"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7935",
+                                                    "control": "2025/5996",
+                                                    "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica el Convenio de asistencia jurídica entre la Abogacía General del Estado y la Fundación Pública de Servicios Cueva de Nerja.",
+                                                    "url_pdf": {
+                                                        "szBytes": "223650",
+                                                        "szKBytes": "218",
+                                                        "pagina_inicial": "54308",
+                                                        "pagina_final": "54312",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7935.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7935",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7935"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7936",
+                                                    "control": "2025/5997",
+                                                    "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica el Convenio entre el Instituto Geográfico Nacional, el Organismo Autónomo Centro Nacional de Información Geográfica y la Dirección General del Catastro, para la mejora de información cartográfica del territorio nacional con modelos digitales del terreno a partir del proceso básico de los datos LIDAR Tercera Cobertura.",
+                                                    "url_pdf": {
+                                                        "szBytes": "394238",
+                                                        "szKBytes": "385",
+                                                        "pagina_inicial": "54313",
+                                                        "pagina_final": "54326",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7936.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7936",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7936"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7937",
+                                                    "control": "2025/5998",
+                                                    "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica el Convenio entre el Instituto Nacional de la Seguridad Social y la Autoridad Independiente de Responsabilidad Fiscal, AAI, para la cesión de información a las Administraciones Públicas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "266138",
+                                                        "szKBytes": "260",
+                                                        "pagina_inicial": "54327",
+                                                        "pagina_final": "54337",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7937.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7937",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7937"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7938",
+                                                    "control": "2025/5999",
+                                                    "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica el Convenio entre el Instituto Nacional de la Seguridad Social, el Instituto Social de la Marina y el Instituto Nacional de Gestión Sanitaria, para el acceso telemático a los informes médicos de los expedientes administrativos del INSS y del ISM por parte de los servicios públicos de salud.",
+                                                    "url_pdf": {
+                                                        "szBytes": "250323",
+                                                        "szKBytes": "244",
+                                                        "pagina_inicial": "54338",
+                                                        "pagina_final": "54347",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7938.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7938",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7938"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7939",
+                                                    "control": "2025/6000",
+                                                    "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica el Convenio entre la Agencia Estatal de Administración Tributaria y el Ministerio de Trabajo y Economía Social, en materia de cesión de información para fines estadísticos.",
+                                                    "url_pdf": {
+                                                        "szBytes": "220380",
+                                                        "szKBytes": "215",
+                                                        "pagina_inicial": "54348",
+                                                        "pagina_final": "54352",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7939.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7939",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7939"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7940",
+                                                    "control": "2025/6002",
+                                                    "titulo": "Resolución de 12 de abril de 2025, de la Subsecretaría, por la que se publica la Adenda de modificación y prórroga del Convenio entre la Secretaría de Estado de Digitalización e Inteligencia Artificial y la Real Academia Española, para el desarrollo del proyecto lengua española e inteligencia artificial, en el marco de la Estrategia Nacional de Inteligencia Artificial.",
+                                                    "url_pdf": {
+                                                        "szBytes": "274962",
+                                                        "szKBytes": "269",
+                                                        "pagina_inicial": "54353",
+                                                        "pagina_final": "54360",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7940.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7940",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7940"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7941",
+                                                "control": "2025/6008",
+                                                "titulo": "Resolución de 11 de abril de 2025, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de Chiva, para la incorporación del Cuerpo de Policía Local al Sistema de Seguimiento Integral de los casos de Violencia de Género.",
+                                                "url_pdf": {
+                                                    "szBytes": "230520",
+                                                    "szKBytes": "225",
+                                                    "pagina_inicial": "54361",
+                                                    "pagina_final": "54367",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7941.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7941",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7941"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Subvenciones",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2025-7942",
+                                                    "control": "2025/5812",
+                                                    "titulo": "Resolución de 8 de abril de 2025, de la Dirección General de Política Interior, por la que se publican las subvenciones estatales anuales, para atender los gastos de funcionamiento ordinario, abonadas a las diferentes formaciones políticas con representación en el Congreso de los Diputados, durante el primer trimestre del ejercicio 2025.",
+                                                    "url_pdf": {
+                                                        "szBytes": "209060",
+                                                        "szKBytes": "204",
+                                                        "pagina_inicial": "54368",
+                                                        "pagina_final": "54369",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7942.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7942",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7942"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2025-7943",
+                                                    "control": "2025/5813",
+                                                    "titulo": "Resolución de 8 de abril de 2025, de la Dirección General de Política Interior, por la que se publican las subvenciones estatales anuales, para sufragar los gastos de seguridad, abonadas a las diferentes formaciones políticas con representación en el Congreso de los Diputados, durante el primer trimestre del ejercicio 2025.",
+                                                    "url_pdf": {
+                                                        "szBytes": "208168",
+                                                        "szKBytes": "203",
+                                                        "pagina_inicial": "54370",
+                                                        "pagina_final": "54371",
+                                                        "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7943.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7943",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7943"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Servicios portuarios",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7944",
+                                                "control": "2025/5752",
+                                                "titulo": "Resolución de 3 de marzo de 2025, de la Autoridad Portuaria de A Coruña, sobre modificación del Pliego de prescripciones particulares del servicio portuario de practicaje en el Puerto de A Coruña.",
+                                                "url_pdf": {
+                                                    "szBytes": "224621",
+                                                    "szKBytes": "219",
+                                                    "pagina_inicial": "54372",
+                                                    "pagina_final": "54374",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7944.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7944",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7944"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4110",
+                                    "nombre": "MINISTERIO DE CULTURA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Andalucía. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7945",
+                                                "control": "2025/5825",
+                                                "titulo": "Resolución de 9 de abril de 2025, de la Dirección General de Patrimonio Cultural y Bellas Artes, por la que se publica el Convenio de cooperación educativa con la Universidad de Granada, para la realización de prácticas académicas externas en el Instituto del Patrimonio Cultural de España.",
+                                                "url_pdf": {
+                                                    "szBytes": "265144",
+                                                    "szKBytes": "259",
+                                                    "pagina_inicial": "54375",
+                                                    "pagina_final": "54383",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7945.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7945",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7945"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7946",
+                                                "control": "2025/5827",
+                                                "titulo": "Resolución de 8 de abril de 2025, de ICEX España Exportación e Inversiones, E.P.E., por la que se publica el Convenio con la Federación de Asociaciones de Escuelas de Español en España, para la organización de la misión inversa de prescriptores de opinión del sector del turismo idiomático y la enseñanza del español como lengua extranjera a celebrar en San Millán de la Cogolla/Logroño (La Rioja).",
+                                                "url_pdf": {
+                                                    "szBytes": "243382",
+                                                    "szKBytes": "238",
+                                                    "pagina_inicial": "54384",
+                                                    "pagina_final": "54391",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7946.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7946",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7946"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad de Madrid. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7947",
+                                                "control": "2025/5833",
+                                                "titulo": "Resolución de 9 de abril de 2025, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con la Universidad de Alcalá, para el desarrollo de prácticas académicas externas de grado y trabajos fin de grado.",
+                                                "url_pdf": {
+                                                    "szBytes": "327708",
+                                                    "szKBytes": "320",
+                                                    "pagina_inicial": "54392",
+                                                    "pagina_final": "54404",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7947.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7947",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7947"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7948",
+                                                "control": "2025/6042",
+                                                "titulo": "Resolución de 14 de abril de 2025, de la Secretaría General Técnica, por la que se publica la Adenda modificativa del Convenio con Biovida Saude LTDA, sobre la prestación de asistencia sanitaria subvencionada a los emigrantes españoles residentes en el estado de Paraná (Brasil) que carecen de recursos suficientes.",
+                                                "url_pdf": {
+                                                    "szBytes": "210071",
+                                                    "szKBytes": "205",
+                                                    "pagina_inicial": "54405",
+                                                    "pagina_final": "54407",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7948.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7948",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7948"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1020",
+                                    "nombre": "BANCO DE ESPAÑA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Entidades de crédito",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7949",
+                                                "control": "2025/5841",
+                                                "titulo": "Resolución de 9 de abril de 2025, del Banco de España, por la que se publica la baja en el Registro de entidades de crédito de Evo Banco, SA.",
+                                                "url_pdf": {
+                                                    "szBytes": "189789",
+                                                    "szKBytes": "185",
+                                                    "pagina_inicial": "54408",
+                                                    "pagina_final": "54408",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7949.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7949",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7949"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Planes de estudios",
+                                            "item": {
+                                                "identificador": "BOE-A-2025-7950",
+                                                "control": "2025/5843",
+                                                "titulo": "Resolución de 2 de abril de 2025, de la Universidad de Las Palmas de Gran Canaria, por la que se publica el plan de estudios de Graduado o Graduada en Biotecnología.",
+                                                "url_pdf": {
+                                                    "szBytes": "270297",
+                                                    "szKBytes": "264",
+                                                    "pagina_inicial": "54409",
+                                                    "pagina_final": "54411",
+                                                    "texto": "https://www.boe.es/boe/dias/2025/04/18/pdfs/BOE-A-2025-7950.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7950",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-7950"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1163 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20240329"
+            },
+            "diario": [
+                {
+                    "numero": "78",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2024-78",
+                        "url_pdf": {
+                            "szBytes": "235427",
+                            "szKBytes": "230",
+                            "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-S-2024-78.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": {
+                                "codigo": "9575",
+                                "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Gas natural. Precios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-6302",
+                                                "control": "2024/5611",
+                                                "titulo": "Resolución de 26 de marzo de 2024, de la Dirección General de Política Energética y Minas, por la que se publica la tarifa de último recurso de gas natural.",
+                                                "url_pdf": {
+                                                    "szBytes": "247655",
+                                                    "szKBytes": "242",
+                                                    "pagina_inicial": "36397",
+                                                    "pagina_final": "36401",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6302.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6302",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6302"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "1820",
+                                    "nombre": "CONSEJO GENERAL DEL PODER JUDICIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-6303",
+                                                "control": "2024/5575",
+                                                "titulo": "Real Decreto 234/2024, de 27 de febrero, por el que se nombra Decana de los Juzgados de L'Hospitalet de Llobregat a la Magistrada doña Carmen Lidia Ureña García.",
+                                                "url_pdf": {
+                                                    "szBytes": "191915",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "36402",
+                                                    "pagina_final": "36402",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6303.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6303",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6303"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-6304",
+                                                    "control": "2024/5574",
+                                                    "titulo": "Real Decreto 183/2024, de 13 de febrero, por el que se adjudica en propiedad la plaza de Magistrado de la Audiencia Provincial de Segovia a don Jesús Marina Reig.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191389",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36403",
+                                                        "pagina_final": "36403",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6304.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6304",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6304"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6305",
+                                                    "control": "2024/5576",
+                                                    "titulo": "Real Decreto 270/2024, de 12 de marzo, por el que se adjudica en propiedad la plaza del Juzgado de lo Contencioso-Administrativo número 2 de Córdoba al Magistrado don Ángel Gabriel Pérez Pérez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191708",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36404",
+                                                        "pagina_final": "36404",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6305.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6305",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6305"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6306",
+                                                    "control": "2024/5577",
+                                                    "titulo": "Real Decreto 271/2024, de 12 de marzo, por el que se adjudica en propiedad la plaza de Magistrado de la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Navarra al Magistrado don José Manuel Sánchez Siscart.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191930",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36405",
+                                                        "pagina_final": "36405",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6306.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6306",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6306"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4510",
+                                    "nombre": "MINISTERIO FISCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-6307",
+                                                "control": "2024/5453",
+                                                "titulo": "Decreto de 19 de marzo de 2024, del Fiscal General del Estado, por el que se nombra Fiscal Delegada Contra los Delitos de Odio y Discriminación en la Fiscalía Provincial de Lugo a doña Ana Vasco García.",
+                                                "url_pdf": {
+                                                    "szBytes": "199769",
+                                                    "szKBytes": "195",
+                                                    "pagina_inicial": "36406",
+                                                    "pagina_final": "36407",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6307.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6307",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6307"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-6308",
+                                                    "control": "2024/5297",
+                                                    "titulo": "Resolución de 15 de marzo de 2024, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192598",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "36408",
+                                                        "pagina_final": "36408",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6308.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6308",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6308"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6309",
+                                                    "control": "2024/5298",
+                                                    "titulo": "Resolución de 15 de marzo de 2024, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194988",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "36409",
+                                                        "pagina_final": "36410",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6309.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6309",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6309"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6310",
+                                                    "control": "2024/5300",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, de la Universidad de León, por la que se nombra Profesor Titular de Universidad a don Andrés Sáez Schwedt.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192161",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "36411",
+                                                        "pagina_final": "36411",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6310.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6310",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6310"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6311",
+                                                    "control": "2024/5301",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, de la Universidad de Málaga, por la que se nombran Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193169",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "36412",
+                                                        "pagina_final": "36412",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6311.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6311",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6311"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-6312",
+                                                    "control": "2024/100556",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Mungia (Bizkaia), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190751",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36413",
+                                                        "pagina_final": "36413",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6312.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6312",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6312"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6313",
+                                                    "control": "2024/100557",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, de la Diputación Provincial de Burgos, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190675",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36414",
+                                                        "pagina_final": "36414",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6313.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6313",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6313"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-6314",
+                                                    "control": "2024/5633",
+                                                    "titulo": "Resolución de 9 de febrero de 2024, del Ayuntamiento de Beniflà (Valencia), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191117",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36415",
+                                                        "pagina_final": "36415",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6314.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6314",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6314"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6315",
+                                                    "control": "2024/100563",
+                                                    "titulo": "Resolución de 14 de marzo de 2024, del Ayuntamiento de Collado Mediano (Madrid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190219",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36416",
+                                                        "pagina_final": "36416",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6315.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6315",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6315"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6316",
+                                                    "control": "2024/100573",
+                                                    "titulo": "Resolución de 14 de marzo de 2024, del Ayuntamiento de Palma (Illes Balears), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190522",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36417",
+                                                        "pagina_final": "36417",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6316.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6316",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6316"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6317",
+                                                    "control": "2024/100594",
+                                                    "titulo": "Resolución de 14 de marzo de 2024, del Ayuntamiento de Orduña (Bizkaia), Sociedad Urduñederra Urduña Ederra, SL, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191008",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36418",
+                                                        "pagina_final": "36418",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6317.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6317",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6317"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6318",
+                                                    "control": "2024/100560",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, del Ayuntamiento de Torrelodones (Madrid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190481",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36419",
+                                                        "pagina_final": "36419",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6318.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6318",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6318"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6319",
+                                                    "control": "2024/100561",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, del Ayuntamiento de Torrelodones (Madrid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190361",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36420",
+                                                        "pagina_final": "36420",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6319.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6319",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6319"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6320",
+                                                    "control": "2024/100564",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, del Cabildo Insular de Tenerife, Organismo Autónomo Instituto Insular de Atención Social y Sociosanitaria (Santa Cruz de Tenerife), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191347",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36421",
+                                                        "pagina_final": "36421",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6320.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6320",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6320"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6321",
+                                                    "control": "2024/100565",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, del Cabildo Insular de Tenerife, Organismo Autónomo Insular de Atención Social y Sociosanitaria (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191424",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36422",
+                                                        "pagina_final": "36422",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6321.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6321",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6321"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6322",
+                                                    "control": "2024/100569",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, del Ayuntamiento de San Roque (Cádiz), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "197414",
+                                                        "szKBytes": "193",
+                                                        "pagina_inicial": "36423",
+                                                        "pagina_final": "36424",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6322.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6322",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6322"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6323",
+                                                    "control": "2024/100574",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, del Ayuntamiento de Mungia (Bizkaia), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191745",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36425",
+                                                        "pagina_final": "36425",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6323.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6323",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6323"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6324",
+                                                    "control": "2024/100578",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, del Ayuntamiento de Campdevànol (Girona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190457",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36426",
+                                                        "pagina_final": "36426",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6324.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6324",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6324"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6325",
+                                                    "control": "2024/100595",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, del Ayuntamiento de Villanueva de la Torre (Guadalajara), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190779",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36427",
+                                                        "pagina_final": "36427",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6325.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6325",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6325"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6326",
+                                                    "control": "2024/100597",
+                                                    "titulo": "Resolución de 19 de marzo de 2024, del Ayuntamiento de Villanueva de la Torre (Guadalajara), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191041",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36428",
+                                                        "pagina_final": "36428",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6326.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6326",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6326"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6327",
+                                                    "control": "2024/100568",
+                                                    "titulo": "Resolución de 20 de marzo de 2024, del Ayuntamiento de Sant Vicenç de Torelló (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190724",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36429",
+                                                        "pagina_final": "36429",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6327.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6327",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6327"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6328",
+                                                    "control": "2024/100559",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Sant Esteve Sesrovires (Barcelona), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190969",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36430",
+                                                        "pagina_final": "36430",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6328.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6328",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6328"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6329",
+                                                    "control": "2024/100562",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Laredo (Cantabria), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190746",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36431",
+                                                        "pagina_final": "36431",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6329.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6329",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6329"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6330",
+                                                    "control": "2024/100566",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de San José del Valle (Cádiz), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190570",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36432",
+                                                        "pagina_final": "36432",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6330.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6330",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6330"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6331",
+                                                    "control": "2024/100567",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Roses (Girona), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "189989",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36433",
+                                                        "pagina_final": "36433",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6331.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6331",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6331"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6332",
+                                                    "control": "2024/100570",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Liétor (Albacete), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190473",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36434",
+                                                        "pagina_final": "36434",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6332.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6332",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6332"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6333",
+                                                    "control": "2024/100571",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Liétor (Albacete), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190480",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36435",
+                                                        "pagina_final": "36435",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6333.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6333",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6333"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6334",
+                                                    "control": "2024/100572",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Liétor (Albacete), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190500",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36436",
+                                                        "pagina_final": "36436",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6334.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6334",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6334"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6335",
+                                                    "control": "2024/100575",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Culleredo (A Coruña), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190849",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36437",
+                                                        "pagina_final": "36437",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6335.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6335",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6335"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6336",
+                                                    "control": "2024/100576",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Guillena (Sevilla), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190316",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36438",
+                                                        "pagina_final": "36438",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6336.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6336",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6336"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6337",
+                                                    "control": "2024/100577",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Culleredo (A Coruña), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190962",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36439",
+                                                        "pagina_final": "36439",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6337.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6337",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6337"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6338",
+                                                    "control": "2024/100579",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Santa Cruz de La Palma (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190530",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36440",
+                                                        "pagina_final": "36440",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6338.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6338",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6338"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6339",
+                                                    "control": "2024/100580",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, de la Diputación Provincial de Segovia, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190824",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36441",
+                                                        "pagina_final": "36441",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6339.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6339",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6339"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6340",
+                                                    "control": "2024/100581",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Utiel (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192168",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "36442",
+                                                        "pagina_final": "36442",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6340.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6340",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6340"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6341",
+                                                    "control": "2024/100583",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Manises (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191089",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36443",
+                                                        "pagina_final": "36443",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6341.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6341",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6341"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6342",
+                                                    "control": "2024/100585",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Manises (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190888",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36444",
+                                                        "pagina_final": "36444",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6342.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6342",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6342"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6343",
+                                                    "control": "2024/100586",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Guadalajara, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190284",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36445",
+                                                        "pagina_final": "36445",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6343.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6343",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6343"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6344",
+                                                    "control": "2024/100587",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de El Tiemblo (Ávila), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191404",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36446",
+                                                        "pagina_final": "36446",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6344.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6344",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6344"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6345",
+                                                    "control": "2024/100588",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Guadalajara, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190284",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36447",
+                                                        "pagina_final": "36447",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6345.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6345",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6345"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6346",
+                                                    "control": "2024/100589",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Paterna (Valencia/València), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191232",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36448",
+                                                        "pagina_final": "36448",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6346.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6346",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6346"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6347",
+                                                    "control": "2024/100590",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Banyeres del Penedès (Tarragona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190658",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36449",
+                                                        "pagina_final": "36449",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6347.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6347",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6347"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6348",
+                                                    "control": "2024/100591",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Poyales del Hoyo (Ávila), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190448",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36450",
+                                                        "pagina_final": "36450",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6348.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6348",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6348"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6349",
+                                                    "control": "2024/100592",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Poyales del Hoyo (Ávila), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190434",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36451",
+                                                        "pagina_final": "36451",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6349.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6349",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6349"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6350",
+                                                    "control": "2024/100596",
+                                                    "titulo": "Resolución de 21 de marzo de 2024, del Ayuntamiento de Arganda del Rey (Madrid), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190562",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36452",
+                                                        "pagina_final": "36452",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6350.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6350",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6350"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6351",
+                                                    "control": "2024/100558",
+                                                    "titulo": "Resolución de 22 de marzo de 2024, de la Diputación Provincial de Tarragona, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191708",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36453",
+                                                        "pagina_final": "36453",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6351.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6351",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6351"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6352",
+                                                    "control": "2024/100582",
+                                                    "titulo": "Resolución de 22 de marzo de 2024, del Ayuntamiento de Aznalcóllar (Sevilla), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191626",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "36454",
+                                                        "pagina_final": "36454",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6352.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6352",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6352"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6353",
+                                                    "control": "2024/100593",
+                                                    "titulo": "Resolución de 22 de marzo de 2024, de la Diputación Provincial de Girona, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190119",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36455",
+                                                        "pagina_final": "36455",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6353.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6353",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6353"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6354",
+                                                    "control": "2024/100720",
+                                                    "titulo": "Resolución de 25 de marzo de 2024, del Ayuntamiento de Badajoz, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190304",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "36456",
+                                                        "pagina_final": "36456",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6354.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6354",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6354"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal de administración y servicios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-6355",
+                                                    "control": "2024/5472",
+                                                    "titulo": "Resolución de 14 de marzo de 2024, de la Universitat Politècnica de València, por la que se convocan pruebas selectivas de acceso, por el sistema de promoción interna, a la categoría de Técnico Superior de Laboratorio.",
+                                                    "url_pdf": {
+                                                        "szBytes": "378595",
+                                                        "szKBytes": "370",
+                                                        "pagina_inicial": "36457",
+                                                        "pagina_final": "36479",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6355.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6355",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6355"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6356",
+                                                    "control": "2024/5473",
+                                                    "titulo": "Resolución de 14 de marzo de 2024, de la Universitat Politècnica de València, por la que se convocan pruebas selectivas de acceso, por el sistema de promoción interna, a la categoría de Técnico Superior de Laboratorio.",
+                                                    "url_pdf": {
+                                                        "szBytes": "401250",
+                                                        "szKBytes": "392",
+                                                        "pagina_inicial": "36480",
+                                                        "pagina_final": "36502",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6356.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6356",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6356"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6357",
+                                                    "control": "2024/5474",
+                                                    "titulo": "Resolución de 14 de marzo de 2024, de la Universitat Politècnica de València, por la que se convocan pruebas selectivas de acceso, por el sistema de promoción interna, a la categoría de Técnico Superior de Laboratorio.",
+                                                    "url_pdf": {
+                                                        "szBytes": "374711",
+                                                        "szKBytes": "366",
+                                                        "pagina_inicial": "36503",
+                                                        "pagina_final": "36525",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6357.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6357",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6357"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6358",
+                                                    "control": "2024/5475",
+                                                    "titulo": "Resolución de 14 de marzo de 2024, de la Universitat Politècnica de València, por la que se convocan pruebas selectivas de acceso, por el sistema de promoción interna, a la categoría de Técnico Superior de Laboratorio.",
+                                                    "url_pdf": {
+                                                        "szBytes": "379459",
+                                                        "szKBytes": "371",
+                                                        "pagina_inicial": "36526",
+                                                        "pagina_final": "36548",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6358.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6358",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6358"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Títulos nobiliarios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-6359",
+                                                "control": "2024/5549",
+                                                "titulo": "Real Decreto 245/2024, de 5 de marzo, por el que se autoriza a doña María Leticia Cienfuegos Margallo a suceder en el título nobiliario de Conde de Cienfuegos.",
+                                                "url_pdf": {
+                                                    "szBytes": "191385",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "36549",
+                                                    "pagina_final": "36549",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6359.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6359",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6359"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Cantabria. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-6360",
+                                                "control": "2024/5563",
+                                                "titulo": "Resolución de 22 de marzo de 2024, de la Presidencia de la Agencia Estatal de Meteorología, por la que se publica el Convenio con la Universidad de Cantabria, para la realización de prácticas académicas externas.",
+                                                "url_pdf": {
+                                                    "szBytes": "272356",
+                                                    "szKBytes": "266",
+                                                    "pagina_inicial": "36550",
+                                                    "pagina_final": "36559",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6360.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6360",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6360"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Impacto ambiental",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-6361",
+                                                "control": "2024/5418",
+                                                "titulo": "Resolución de 19 de marzo de 2024, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto \"Parque eólico Gargalois, de 55 MW, y su infraestructura de evacuación, en la provincia de Asturias\".",
+                                                "url_pdf": {
+                                                    "szBytes": "608418",
+                                                    "szKBytes": "594",
+                                                    "pagina_inicial": "36560",
+                                                    "pagina_final": "36575",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6361.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6361",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6361"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Instalaciones eléctricas",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-6362",
+                                                    "control": "2024/5413",
+                                                    "titulo": "Resolución de 9 de octubre de 2023, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Green Capital Development XLII, SL, de autorización administrativa previa del parque eólico Acario, de 54 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de León.",
+                                                    "url_pdf": {
+                                                        "szBytes": "217117",
+                                                        "szKBytes": "212",
+                                                        "pagina_inicial": "36576",
+                                                        "pagina_final": "36580",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6362.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6362",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6362"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6363",
+                                                    "control": "2024/5414",
+                                                    "titulo": "Resolución de 9 de octubre de 2023, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Green Capital Development XLVII, SL, de autorización administrativa previa del parque eólico Tureno, de 54 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de León.",
+                                                    "url_pdf": {
+                                                        "szBytes": "219676",
+                                                        "szKBytes": "215",
+                                                        "pagina_inicial": "36581",
+                                                        "pagina_final": "36585",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6363.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6363",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6363"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6364",
+                                                    "control": "2024/5415",
+                                                    "titulo": "Resolución de 13 de marzo de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Varadero Solar, SLU, autorización administrativa de construcción para la instalación fotovoltaica Varadero Solar, de 47,71 MW de potencia instalada, y sus infraestructuras de evacuación, en Arganda del Rey y Loeches (Madrid).",
+                                                    "url_pdf": {
+                                                        "szBytes": "235764",
+                                                        "szKBytes": "230",
+                                                        "pagina_inicial": "36586",
+                                                        "pagina_final": "36593",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6364.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6364",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6364"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6365",
+                                                    "control": "2024/5416",
+                                                    "titulo": "Resolución de 13 de marzo de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Gallocanta Solar, SLU, autorización administrativa de construcción para la instalación fotovoltaica Gallocanta Solar, de 91,2 MW de potencia instalada, y sus infraestructuras de evacuación, en Loeches (Madrid) y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "235040",
+                                                        "szKBytes": "230",
+                                                        "pagina_inicial": "36594",
+                                                        "pagina_final": "36601",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6365.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6365",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6365"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6366",
+                                                    "control": "2024/5422",
+                                                    "titulo": "Resolución de 20 de marzo de 2024, de la Dirección General de Política Energética y Minas, por la que se corrigen errores en la de 4 de diciembre de 2023, por la que se otorga a Energía Inagotable de Proxima Centauri, SL, autorización administrativa previa para el parque eólico \"Proxima Centauri\", de 28 MW de potencia instalada, y sus infraestructuras de evacuación, en Almudévar y de Alcalá de Gurrea (Huesca).",
+                                                    "url_pdf": {
+                                                        "szBytes": "199856",
+                                                        "szKBytes": "195",
+                                                        "pagina_inicial": "36602",
+                                                        "pagina_final": "36603",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6366.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6366",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6366"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6367",
+                                                    "control": "2024/5423",
+                                                    "titulo": "Resolución de 20 de marzo de 2024, de la Dirección General de Política Energética y Minas, por la que se corrigen errores en la de 4 de diciembre de 2023, por la que se otorga a Energía Inagotable de Stigma, SL, autorización administrativa previa para el parque eólico Stigma, de 28 MW de potencia instalada, y sus infraestructuras de evacuación, ubicados en Gurrea de Gállego (Huesca).",
+                                                    "url_pdf": {
+                                                        "szBytes": "198409",
+                                                        "szKBytes": "194",
+                                                        "pagina_inicial": "36604",
+                                                        "pagina_final": "36605",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6367.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6367",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6367"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Cataluña. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-6368",
+                                                "control": "2024/5569",
+                                                "titulo": "Resolución de 21 de marzo de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre el Instituto Nacional de la Seguridad Social y la Generalitat de Catalunya, para la realización de actuaciones en relación con los trabajadores afectos de patologías derivadas de la utilización laboral del amianto.",
+                                                "url_pdf": {
+                                                    "szBytes": "458429",
+                                                    "szKBytes": "448",
+                                                    "pagina_inicial": "36606",
+                                                    "pagina_final": "36622",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6368.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6368",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6368"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Planes de estudios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-6369",
+                                                    "control": "2024/5344",
+                                                    "titulo": "Resolución de 15 de marzo de 2024, de la Universidad Pontificia Comillas, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Derecho.",
+                                                    "url_pdf": {
+                                                        "szBytes": "282917",
+                                                        "szKBytes": "276",
+                                                        "pagina_inicial": "36623",
+                                                        "pagina_final": "36626",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6369.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6369",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6369"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6370",
+                                                    "control": "2024/5345",
+                                                    "titulo": "Resolución de 15 de marzo de 2024, de la Universidad Pontificia Comillas, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Enfermería.",
+                                                    "url_pdf": {
+                                                        "szBytes": "237739",
+                                                        "szKBytes": "232",
+                                                        "pagina_inicial": "36627",
+                                                        "pagina_final": "36628",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6370.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6370",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6370"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6371",
+                                                    "control": "2024/5346",
+                                                    "titulo": "Resolución de 15 de marzo de 2024, de la Universidad Pontificia Comillas, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Filosofía, Política y Economía.",
+                                                    "url_pdf": {
+                                                        "szBytes": "280657",
+                                                        "szKBytes": "274",
+                                                        "pagina_inicial": "36629",
+                                                        "pagina_final": "36632",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6371.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6371",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6371"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-6372",
+                                                    "control": "2024/5347",
+                                                    "titulo": "Resolución de 15 de marzo de 2024, de la Universidad Pontificia Comillas, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Fisioterapia.",
+                                                    "url_pdf": {
+                                                        "szBytes": "250326",
+                                                        "szKBytes": "244",
+                                                        "pagina_inicial": "36633",
+                                                        "pagina_final": "36635",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/03/29/pdfs/BOE-A-2024-6372.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6372",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6372"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1003 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20240815"
+            },
+            "diario": [
+                {
+                    "numero": "197",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2024-197",
+                        "url_pdf": {
+                            "szBytes": "240269",
+                            "szKBytes": "235",
+                            "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-S-2024-197.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": {
+                                "codigo": "8010",
+                                "nombre": "COMUNIDAD AUTÓNOMA DE ANDALUCÍA",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Organización",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16885",
+                                                "control": "2024/12695",
+                                                "titulo": "Ley 2/2024, de 19 de julio, del Consejo Consultivo de Andalucía.",
+                                                "url_pdf": {
+                                                    "szBytes": "266404",
+                                                    "szKBytes": "260",
+                                                    "pagina_inicial": "105843",
+                                                    "pagina_final": "105854",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16885.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16885",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16885"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Universidades privadas",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-16886",
+                                                    "control": "2024/12696",
+                                                    "titulo": "Ley 3/2024, de 26 de julio, de reconocimiento de la universidad privada Universidad Alfonso X el Sabio Mare Nostrum.",
+                                                    "url_pdf": {
+                                                        "szBytes": "244276",
+                                                        "szKBytes": "239",
+                                                        "pagina_inicial": "105855",
+                                                        "pagina_final": "105863",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16886.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16886",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16886"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16887",
+                                                    "control": "2024/12697",
+                                                    "titulo": "Ley 4/2024, de 26 de julio, de reconocimiento de la universidad privada Universidad Europea de Andalucía.",
+                                                    "url_pdf": {
+                                                        "szBytes": "244338",
+                                                        "szKBytes": "239",
+                                                        "pagina_inicial": "105864",
+                                                        "pagina_final": "105872",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16887.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16887",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16887"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": {
+                                "codigo": "7320",
+                                "nombre": "MINISTERIO DEL INTERIOR",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16888",
+                                                "control": "2024/12868",
+                                                "titulo": "Resolución de 7 de agosto de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 8 de mayo de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "210432",
+                                                    "szKBytes": "206",
+                                                    "pagina_inicial": "105873",
+                                                    "pagina_final": "105873",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16888.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16888",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16888"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designación",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-16889",
+                                                    "control": "2024/12870",
+                                                    "titulo": "Resolución de 7 de agosto de 2024, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "244247",
+                                                        "szKBytes": "239",
+                                                        "pagina_inicial": "105874",
+                                                        "pagina_final": "105876",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16889.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16889",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16889"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16890",
+                                                    "control": "2024/12871",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "265549",
+                                                        "szKBytes": "259",
+                                                        "pagina_inicial": "105877",
+                                                        "pagina_final": "105879",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16890.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16890",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16890"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9593",
+                                    "nombre": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designación",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16891",
+                                                "control": "2024/12802",
+                                                "titulo": "Resolución de 6 de agosto de 2024, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "362660",
+                                                    "szKBytes": "354",
+                                                    "pagina_inicial": "105880",
+                                                    "pagina_final": "105882",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16891.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16891",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16891"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designación",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16892",
+                                                "control": "2024/12872",
+                                                "titulo": "Resolución de 7 de agosto de 2024, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "239477",
+                                                    "szKBytes": "234",
+                                                    "pagina_inicial": "105883",
+                                                    "pagina_final": "105886",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16892.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16892",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16892"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Escala Técnica de Gestión de Organismos Autónomos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16893",
+                                                "control": "2024/12716",
+                                                "titulo": "Resolución de 2 de agosto de 2024, de la Secretaría de Estado de Función Pública, por la que se designa el Tribunal calificador del proceso selectivo para acceso, por el sistema de promoción interna, para personal funcionario y personal laboral fijo, a la Escala Técnica de Gestión de Organismos Autónomos, convocado por Resolución de 1 de julio de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "197175",
+                                                    "szKBytes": "193",
+                                                    "pagina_inicial": "105887",
+                                                    "pagina_final": "105888",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16893.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16893",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16893"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Procedimientos de libre designación",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16894",
+                                                "control": "2024/12895",
+                                                "titulo": "Resolución de 30 de julio de 2024, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "285829",
+                                                    "szKBytes": "279",
+                                                    "pagina_inicial": "105889",
+                                                    "pagina_final": "105893",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16894.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16894",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16894"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9534",
+                                    "nombre": "COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designación",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16895",
+                                                "control": "2024/12959",
+                                                "titulo": "Resolución de 14 de agosto de 2024, de la Comisión Nacional de los Mercados y la Competencia, por la que se deja sin efecto la Resolución de 17 de julio de 2024, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+                                                "url_pdf": {
+                                                    "szBytes": "192348",
+                                                    "szKBytes": "188",
+                                                    "pagina_inicial": "105894",
+                                                    "pagina_final": "105894",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16895.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16895",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16895"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACIÓN LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-16896",
+                                                    "control": "2024/103726",
+                                                    "titulo": "Resolución de 31 de julio de 2024, de la Diputación Provincial de Valencia/València, referente a la convocatoria para proveer puestos de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190821",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105895",
+                                                        "pagina_final": "105895",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16896.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16896",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16896"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16897",
+                                                    "control": "2024/103900",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, de la Agencia Pública de Servicios Económicos Provinciales de Málaga-Patronato de Recaudación, referente a la convocatoria para proveer puestos de trabajo por el sistema de libre designación.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191578",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "105896",
+                                                        "pagina_final": "105896",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16897.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16897",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16897"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16898",
+                                                    "control": "2024/104004",
+                                                    "titulo": "Resolución de 12 de agosto de 2024, del Ayuntamiento de Astorga (León), de corrección de errores de la de 12 de julio de 2024, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190524",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105897",
+                                                        "pagina_final": "105897",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16898.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16898",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16898"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-16899",
+                                                    "control": "2024/103908",
+                                                    "titulo": "Resolución de 5 de agosto de 2024, del Ayuntamiento de Castellar de Santiago (Ciudad Real), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190635",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105898",
+                                                        "pagina_final": "105898",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16899.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16899",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16899"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16900",
+                                                    "control": "2024/103901",
+                                                    "titulo": "Resolución de 7 de agosto de 2024, de la Diputación Provincial de Lleida, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194348",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "105899",
+                                                        "pagina_final": "105900",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16900.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16900",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16900"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16901",
+                                                    "control": "2024/103902",
+                                                    "titulo": "Resolución de 7 de agosto de 2024, de la Diputación Provincial de Lleida, Patronato Intercomarcal de Turismo Tierras de Lleida, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190433",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105901",
+                                                        "pagina_final": "105901",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16901.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16901",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16901"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16902",
+                                                    "control": "2024/103903",
+                                                    "titulo": "Resolución de 7 de agosto de 2024, de la Diputación Provincial de Lleida, Organismo Autónomo de Gestión y Recaudación de Tributos Locales, referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192180",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "105902",
+                                                        "pagina_final": "105902",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16902.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16902",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16902"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16903",
+                                                    "control": "2024/103904",
+                                                    "titulo": "Resolución de 7 de agosto de 2024, del Ayuntamiento de Aroche (Huelva), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191486",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "105903",
+                                                        "pagina_final": "105903",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16903.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16903",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16903"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16904",
+                                                    "control": "2024/103905",
+                                                    "titulo": "Resolución de 7 de agosto de 2024, del Consorcio para la Gestión de Servicios Medioambientales de la Diputación de Badajoz, PROMEDIO (Badajoz), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191694",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "105904",
+                                                        "pagina_final": "105904",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16904.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16904",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16904"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16905",
+                                                    "control": "2024/103906",
+                                                    "titulo": "Resolución de 7 de agosto de 2024, del Ayuntamiento de Calzada de Calatrava (Ciudad Real), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190498",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105905",
+                                                        "pagina_final": "105905",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16905.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16905",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16905"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16906",
+                                                    "control": "2024/103907",
+                                                    "titulo": "Resolución de 7 de agosto de 2024, del Ayuntamiento de Molina de Segura (Murcia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190973",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105906",
+                                                        "pagina_final": "105906",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16906.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16906",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16906"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16907",
+                                                    "control": "2024/103914",
+                                                    "titulo": "Resolución de 7 de agosto de 2024, del Ayuntamiento de Villanueva de Algaidas (Málaga), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190486",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105907",
+                                                        "pagina_final": "105907",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16907.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16907",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16907"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16908",
+                                                    "control": "2024/103915",
+                                                    "titulo": "Resolución de 7 de agosto de 2024, del Ayuntamiento de Motilla del Palancar (Cuenca), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192092",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "105908",
+                                                        "pagina_final": "105908",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16908.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16908",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16908"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16909",
+                                                    "control": "2024/103909",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de Villa de Otura (Granada), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190994",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "105909",
+                                                        "pagina_final": "105909",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16909.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16909",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16909"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16910",
+                                                    "control": "2024/103910",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de Aitona (Lleida), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190433",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105910",
+                                                        "pagina_final": "105910",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16910.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16910",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16910"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16911",
+                                                    "control": "2024/103911",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de Almenara (Castellón/Castelló), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190642",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105911",
+                                                        "pagina_final": "105911",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16911.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16911",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16911"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16912",
+                                                    "control": "2024/103912",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de Aitona (Lleida), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190471",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105912",
+                                                        "pagina_final": "105912",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16912.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16912",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16912"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16913",
+                                                    "control": "2024/103913",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de Guardo (Palencia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190931",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105913",
+                                                        "pagina_final": "105913",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16913.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16913",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16913"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16914",
+                                                    "control": "2024/103916",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de La Pobla Tornesa (Castellón/Castelló), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191349",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "105914",
+                                                        "pagina_final": "105914",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16914.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16914",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16914"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16915",
+                                                    "control": "2024/103917",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de Almuñécar (Granada), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191361",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "105915",
+                                                        "pagina_final": "105915",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16915.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16915",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16915"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16916",
+                                                    "control": "2024/103918",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de Allande (Asturias), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190259",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105916",
+                                                        "pagina_final": "105916",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16916.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16916",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16916"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16917",
+                                                    "control": "2024/103919",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de Maracena (Granada), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190896",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105917",
+                                                        "pagina_final": "105917",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16917.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16917",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16917"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16918",
+                                                    "control": "2024/103920",
+                                                    "titulo": "Resolución de 8 de agosto de 2024, del Ayuntamiento de Carmona (Sevilla), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191602",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "105918",
+                                                        "pagina_final": "105918",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16918.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16918",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16918"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16919",
+                                                    "control": "2024/104000",
+                                                    "titulo": "Resolución de 12 de agosto de 2024, del Ayuntamiento de Puebla de Sancho Pérez (Badajoz), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191176",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "105919",
+                                                        "pagina_final": "105919",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16919.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16919",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16919"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16920",
+                                                    "control": "2024/104001",
+                                                    "titulo": "Resolución de 12 de agosto de 2024, del Ayuntamiento de Palomas (Badajoz), de corrección de errores de la de 26 de julio de 2024, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190926",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "105920",
+                                                        "pagina_final": "105920",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16920.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16920",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16920"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16921",
+                                                    "control": "2024/104002",
+                                                    "titulo": "Resolución de 12 de agosto de 2024, del Ayuntamiento de El Real de Gandia (Valencia/València), de corrección de errores de la de 26 de julio de 2024, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191562",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "105921",
+                                                        "pagina_final": "105921",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16921.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16921",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16921"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16922",
+                                                    "control": "2024/104003",
+                                                    "titulo": "Resolución de 12 de agosto de 2024, del Ayuntamiento de Salvaleón (Badajoz), de corrección de errores de la de 2 de agosto de 2024, referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191253",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "105922",
+                                                        "pagina_final": "105922",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16922.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16922",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16922"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpos docentes universitarios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-16923",
+                                                    "control": "2024/12960",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, de la Universidad de Burgos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
+                                                    "url_pdf": {
+                                                        "szBytes": "369795",
+                                                        "szKBytes": "361",
+                                                        "pagina_inicial": "105923",
+                                                        "pagina_final": "105936",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16923.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16923",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16923"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16924",
+                                                    "control": "2024/12961",
+                                                    "titulo": "Resolución de 13 de agosto de 2024, de la Universidad de Burgos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
+                                                    "url_pdf": {
+                                                        "szBytes": "371733",
+                                                        "szKBytes": "363",
+                                                        "pagina_inicial": "105937",
+                                                        "pagina_final": "105950",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16924.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16924",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16924"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Instalaciones eléctricas",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-16925",
+                                                    "control": "2024/12812",
+                                                    "titulo": "Resolución de 24 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Caelum Renovables, SL, autorización administrativa previa y autorización administrativa de construcción para la instalación fotovoltaica Caelum IV, de 119,20 MW de potencia pico, 106,43 MW de potencia instalada, y sus infraestructuras de evacuación, en los términos municipales de Gusendos de los Oteros, Corbillos de los Oteros, Santas Martas y Pajares de los Oteros (León), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "241192",
+                                                        "szKBytes": "236",
+                                                        "pagina_inicial": "105951",
+                                                        "pagina_final": "105958",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16925.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16925",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16925"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16926",
+                                                    "control": "2024/12814",
+                                                    "titulo": "Resolución de 24 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Energías Renovables de Aeternitas, SL, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para el parque eólico Concejo II, de 48,8 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Cantavieja y La Iglesuela del Cid (Teruel), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "246521",
+                                                        "szKBytes": "241",
+                                                        "pagina_inicial": "105959",
+                                                        "pagina_final": "105967",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16926.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16926",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16926"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16927",
+                                                    "control": "2024/12815",
+                                                    "titulo": "Resolución de 24 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Energías Renovables de Ascanio, SL, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para el parque eólico Concejo III, de 42,7 MW de potencia instalada, y sus infraestructuras de evacuación, en el término municipal de Cantavieja (Teruel), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "240724",
+                                                        "szKBytes": "235",
+                                                        "pagina_inicial": "105968",
+                                                        "pagina_final": "105976",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16927.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16927",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16927"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16928",
+                                                    "control": "2024/12816",
+                                                    "titulo": "Resolución de 24 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Energías Renovables de Gladiateur 10, SL, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para el parque eólico La Vacada IV, de 30,5 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Mosqueruela y Puertomingalvo (Teruel), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "245108",
+                                                        "szKBytes": "239",
+                                                        "pagina_inicial": "105977",
+                                                        "pagina_final": "105986",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16928.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16928",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16928"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16929",
+                                                    "control": "2024/12817",
+                                                    "titulo": "Resolución de 24 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Energías Renovables de Gladiateur 11, SL, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para el parque eólico La Vacada V, de 24,4 MW de potencia instalada, y sus infraestructuras de evacuación, en el término municipal de Fortanete (Teruel), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "240286",
+                                                        "szKBytes": "235",
+                                                        "pagina_inicial": "105987",
+                                                        "pagina_final": "105995",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16929.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16929",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16929"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-16930",
+                                                    "control": "2024/12826",
+                                                    "titulo": "Resolución de 24 de julio de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Roble New Energy, SL, autorización administrativa previa y autorización administrativa de construcción para la instalación fotovoltaica \"Villameca I Solar PV\", de 87,4 MW de potencia instalada, y sus infraestructuras de evacuación, en los términos municipales de Benavides, Quintana del Castillo y Villamejil (León), y se declara, en concreto, su utilidad pública.",
+                                                    "url_pdf": {
+                                                        "szBytes": "243577",
+                                                        "szKBytes": "238",
+                                                        "pagina_inicial": "105996",
+                                                        "pagina_final": "106004",
+                                                        "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16930.pdf"
+                                                    },
+                                                    "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16930",
+                                                    "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16930"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4110",
+                                    "nombre": "MINISTERIO DE CULTURA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Patrimonio histórico",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16931",
+                                                "control": "2024/12914",
+                                                "titulo": "Orden CLT/868/2024, de 10 de agosto, por la que se otorga la garantía del Estado a 42 obras para su exhibición en la exposición temporal \"Sorolla. Cien años de Modernidad\", en la Galería de las Colecciones Reales de Patrimonio Nacional.",
+                                                "url_pdf": {
+                                                    "szBytes": "287373",
+                                                    "szKBytes": "281",
+                                                    "pagina_inicial": "106005",
+                                                    "pagina_final": "106011",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16931.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16931",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16931"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Premios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16932",
+                                                "control": "2024/12828",
+                                                "titulo": "Orden CLT/869/2024, de 29 de julio, por la que se concede el Premio a las Mejores Encuadernaciones Artísticas correspondiente al año 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "196366",
+                                                    "szKBytes": "192",
+                                                    "pagina_inicial": "106012",
+                                                    "pagina_final": "106012",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16932.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16932",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16932"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4335",
+                                    "nombre": "MINISTERIO DE SANIDAD",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Recursos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16933",
+                                                "control": "2024/12835",
+                                                "titulo": "Resolución de 5 de agosto de 2024, del Instituto Nacional de Gestión Sanitaria, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 526/2024, interpuesto ante el Tribunal Superior de Justicia de Madrid, Sala de lo Contencioso-Administrativo, Sección Tercera.",
+                                                "url_pdf": {
+                                                    "szBytes": "191314",
+                                                    "szKBytes": "187",
+                                                    "pagina_inicial": "106013",
+                                                    "pagina_final": "106013",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16933.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16933",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16933"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9588",
+                                    "nombre": "MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16934",
+                                                "control": "2024/12919",
+                                                "titulo": "Resolución de 29 de julio de 2024, del Real Patronato sobre Discapacidad, por la que se publica el Convenio con la Federación Nacional Aspaym, para desarrollar el proyecto XXVII Campamento Aspaym 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "262716",
+                                                    "szKBytes": "257",
+                                                    "pagina_inicial": "106014",
+                                                    "pagina_final": "106025",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16934.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16934",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16934"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1020",
+                                    "nombre": "BANCO DE ESPAÑA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Mercado de divisas",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16935",
+                                                "control": "2024/12945",
+                                                "titulo": "Resolución de 14 de agosto de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 14 de agosto de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+                                                "url_pdf": {
+                                                    "szBytes": "217109",
+                                                    "szKBytes": "212",
+                                                    "pagina_inicial": "106026",
+                                                    "pagina_final": "106027",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16935.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16935",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16935"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1840",
+                                    "nombre": "CONSEJO DE SEGURIDAD NUCLEAR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Autónoma de Cantabria. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16936",
+                                                "control": "2024/12887",
+                                                "titulo": "Resolución de 7 de agosto de 2024, del Consejo de Seguridad Nuclear, por la que se publica el Convenio con la Universidad de Cantabria, para ejecución de proyecto de I+D sobre \"Análisis de modelos numéricos y experimentales para la investigación de incendios en centrales nucleares\".",
+                                                "url_pdf": {
+                                                    "szBytes": "346510",
+                                                    "szKBytes": "338",
+                                                    "pagina_inicial": "106028",
+                                                    "pagina_final": "106042",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16936.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16936",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16936"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9581",
+                                    "nombre": "CONSEJO DE TRANSPARENCIA Y BUEN GOBIERNO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Ciudad de Ceuta. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-16937",
+                                                "control": "2024/12927",
+                                                "titulo": "Resolución de 3 de julio de 2024, del Consejo de Transparencia y Buen Gobierno, A.A.I., por la que se publica la prórroga del Convenio con la Ciudad de Ceuta, para la resolución de las reclamaciones previstas en el artículo 24 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.",
+                                                "url_pdf": {
+                                                    "szBytes": "217351",
+                                                    "szKBytes": "212",
+                                                    "pagina_inicial": "106043",
+                                                    "pagina_final": "106046",
+                                                    "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-A-2024-16937.pdf"
+                                                },
+                                                "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16937",
+                                                "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-16937"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "5B",
+                            "nombre": "V. Anuncios. - B. Otros anuncios oficiales",
+                            "departamento": [
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29458",
+                                        "titulo": "Anuncio del ADIF-Alta Velocidad por el que se somete a información pública a efectos de declaración de la necesidad de ocupación el \"Proyecto de acondicionamiento y mejora de drenajes entre los PP.KK. 403+000 al 545+000. Eje Noreste. Tramo 3.a, 3.b y 3.c.\".",
+                                        "url_pdf": {
+                                            "szBytes": "169318",
+                                            "szKBytes": "165",
+                                            "pagina_inicial": "45613",
+                                            "pagina_final": "45614",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-B-2024-29458.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29458",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29458"
+                                    }
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+                                    "item": {
+                                        "identificador": "BOE-B-2024-29459",
+                                        "titulo": "Resolución de la Presidencia de la Confederación Hidrográfica del Segura, O.A, por la que se declara la situación excepcional por sequía extraordinaria para el ámbito del subsistema cuenca de la unidad territorial I.Principal.",
+                                        "url_pdf": {
+                                            "szBytes": "156818",
+                                            "szKBytes": "153",
+                                            "pagina_inicial": "45615",
+                                            "pagina_final": "45617",
+                                            "texto": "https://www.boe.es/boe/dias/2024/08/15/pdfs/BOE-B-2024-29459.pdf"
+                                        },
+                                        "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-29459",
+                                        "url_xml": "https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-29459"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
