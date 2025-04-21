@@ -146,8 +146,10 @@ def process_item(item, all_items, metadatos, diario_num, sumario_diario, seccion
         url_pdf = item['url_pdf']
         if isinstance(url_pdf, dict):
             url_pdf_text = url_pdf.get('texto', '')
+            pdf_kbytes = url_pdf.get('szKBytes', 0)
         elif isinstance(url_pdf, str):
             url_pdf_text = url_pdf
+            pdf_kbytes = 0  # Default to 0 if not provided
 
     # Get sumario_url_pdf safely
     sumario_url_pdf = ''
@@ -226,6 +228,7 @@ def process_item(item, all_items, metadatos, diario_num, sumario_diario, seccion
         'item_url_pdf': url_pdf_text,
         'item_url_html': item.get('url_html', ''),
         'item_url_xml': item_url_xml,
-        'texto': item_texto  # Add the extracted texto to the item data
+        'texto': item_texto,  # Add the extracted texto to the item data
+        'szKBytes': pdf_kbytes,
     }
     all_items.append(item_data)

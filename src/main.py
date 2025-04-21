@@ -22,7 +22,7 @@ def parse_arguments():
     return parser.parse_args()
 
 def main(date=None):
-    """Main function to run the ETL process"""
+    """Main function to run the ETL process from a python console. --date YYYY-MM-DD can be passed to retrive specific date"""
     args = parse_arguments()
 
     # If date is provided as an argument, use it; otherwise, use the default date
@@ -40,7 +40,5 @@ def main(date=None):
 
 
 if __name__ == "__main__":
-    main(
-        date="2025-04-17",  # Example date, can be replaced with a dynamic date
-    )
+    main()
     

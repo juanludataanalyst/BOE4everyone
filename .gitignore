@@ -161,6 +161,9 @@ cython_debug/
 
 #/output
 #/output_json
+/tests
+/lambda
+
 dev.ipynb
 extract_boe_json.py
 test_flatten_boe.py
