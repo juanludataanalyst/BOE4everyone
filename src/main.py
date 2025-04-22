@@ -15,27 +15,25 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description='Extract data from BOE API')
     parser.add_argument(
         '--date',
-        type=lambda s: datetime.strptime(s, '%Y-%m-%d'),
+        type=lambda s: datetime.strptime(s, '%Y-%m-%d').strftime('%Y%m%d'),
         help='Date to extract data for in format YYYY-MM-DD'
     )
     
     return parser.parse_args()
 
-def main(date=None):
+def main():
     """Main function to run the ETL process from a python console. --date YYYY-MM-DD can be passed to retrive specific date"""
     args = parse_arguments()
 
     # If date is provided as an argument, use it; otherwise, use the default date
     if args.date:
         date = args.date
-    elif date:
-        date = datetime.strptime(date, '%Y-%m-%d')
-    elif date == None:
-        date = datetime.now()
+    else:
+        date = datetime.today().strftime('%Y%m%d')
     
-    print(f"Recibiendo el BOE con fecha: {date.strftime('%Y-%m-%d')}")
+    print(f"Recibiendo el BOE con fecha: {date}")
     
-    df = get_boe_data(date)
+    df = get_boe_data(date=date)
     return df
 
 
