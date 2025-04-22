@@ -23,7 +23,7 @@ def get_boe_data(date=None, data=None, **kwards):
     if kwards:
         if "s3_bucket" in kwards:
             s3_bucket = kwards["s3_bucket"]
-        mode = "lambda"
+            mode = "lambda"
         
 
     # Check if date and data are provided
@@ -33,9 +33,8 @@ def get_boe_data(date=None, data=None, **kwards):
     elif data is None:
         if date is None:
             # If no date is provided, use today's date
-            date = datetime.now()
             # Format date as YYYYMMDD
-            date_str = date.strftime('%Y%m%d')
+            date_str = datetime.today().strftime('%Y%m%d')
         else:
             date_str = date
          
@@ -126,9 +125,3 @@ def save_to_s3(body, bucket, key, content_type = None):
         Key=key,
         Body=body,
         ContentType=content_type)
-
-
-if __name__ == "__main__":
-    # Example usage
-    df = get_boe_data()
-    print("completed")
