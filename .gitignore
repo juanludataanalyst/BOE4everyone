@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+*.csv
+
+
 # Distribution / packaging
 .Python
 build/
@@ -166,3 +169,5 @@ dev.ipynb
 extract_boe_json.py
 test_flatten_boe.py
 process_all_files.py
+output_csv/boe_data_20250422.csv
+output_csv/boe_data_20250422.csv
