@@ -1,76 +1,76 @@
 # BOE Data ETL Pipeline Project
 
-Este documento describe la estructura y el flujo de trabajo de un pipeline ETL para el BOE. A continuación, se listan las tareas principales del proyecto. Marca las tareas completadas con [x] y las pendientes con [ ].
+This document describes the structure and workflow of an ETL pipeline for BOE. Below is a checklist of the main project tasks. Mark completed tasks with [x] and pending ones with [ ].
 
-## Lista de Tareas
+## Task List
 
 ### Task 1: Set Up Project Environment
-- [x] Inicializar estructura del proyecto y dependencias.
-  - [x] Crear entorno virtual Python (`python -m venv venv`).
-  - [x] Instalar librerías requeridas (`pip install requests pandas lxml supabase-py`).
-  - [ ] Configurar variables de entorno para Supabase en `.env`.
-  - [x] Crear estructura de directorios y archivos principales.
+- [x] Initialize project structure and dependencies.
+  - [x] Create Python virtual environment (`python -m venv venv`).
+  - [x] Install required libraries (`pip install requests pandas lxml supabase-py`).
+  - [ ] Set up Supabase environment variables in `.env`.
+  - [x] Create directory structure and main files.
 
 ### Task 2: Implement API Data Extraction
-- [x] Modificar `get_boe.py` para extraer datos JSON de la API BOE de forma robusta.
-  - [x] Manejar errores de API y reintentos.
-  - [x] Validar respuesta JSON.
-  - [x] Guardar JSON crudo en `output_json/`.
+- [x] Modify `get_boe.py` to robustly extract JSON data from the BOE API.
+  - [x] Handle API errors and retries.
+  - [x] Validate JSON response.
+  - [x] Save raw JSON in `output_json/`.
 
 ### Task 3: Flatten JSON Data
-- [x] Actualizar `process_boe.py` para aplanar la estructura JSON.
-  - [x] Extraer campos relevantes.
-  - [x] Manejar estructuras anidadas.
-  - [x] Añadir logging para seguimiento.
+- [x] Update `process_boe.py` to flatten the JSON structure.
+  - [x] Extract relevant fields.
+  - [x] Handle nested structures.
+  - [x] Add logging for tracking.
 
 ### Task 4: Download and Parse XML
-- [x] Mejorar `process_item` para descargar y parsear XML.
-  - [x] Descargar XML con timeout.
-  - [x] Parsear `<texto>` del XML.
-  - [x] Manejar errores y guardar texto en `output_txt/`.
+- [x] Improve `process_item` to download and parse XML.
+  - [x] Download XML with timeout.
+  - [x] Parse `<texto>` from XML.
+  - [x] Handle errors and save text in `output_txt/`.
 
 ### Task 5: Chunk Text Content
-- [ ] Implementar lógica de chunking en `process_boe.py`.
-  - [ ] Dividir texto en chunks.
-  - [ ] Asignar IDs únicos a cada chunk.
-  - [ ] Guardar chunks en lista de diccionarios.
-  - [ ] Añadir chunks al diccionario de cada ítem.
+- [ ] Implement chunking logic in `process_boe.py`.
+  - [ ] Split text into chunks.
+  - [ ] Assign unique IDs to each chunk.
+  - [ ] Store chunks in a list of dictionaries.
+  - [ ] Add chunks to each item dictionary.
 
 ### Task 6: Set Up Supabase Database
-- [ ] Configurar Supabase y definir el esquema.
-  - [ ] Crear proyecto y obtener credenciales.
-  - [ ] Definir tablas `boe_items` y `boe_text_chunks`.
-  - [ ] Probar el esquema con datos de ejemplo.
+- [ ] Set up Supabase and define schema.
+  - [ ] Create project and obtain credentials.
+  - [ ] Define `boe_items` and `boe_text_chunks` tables.
+  - [ ] Test schema with sample data.
 
 ### Task 7: Implement Database Storage
-- [ ] Añadir lógica en `get_boe.py` para almacenar en Supabase.
-  - [ ] Insertar metadatos en `boe_items`.
-  - [ ] Insertar chunks en `boe_text_chunks`.
-  - [ ] Manejar duplicados y errores.
-  - [ ] Log de inserciones y errores.
+- [ ] Add logic in `get_boe.py` to store in Supabase.
+  - [ ] Insert metadata into `boe_items`.
+  - [ ] Insert chunks into `boe_text_chunks`.
+  - [ ] Handle duplicates and errors.
+  - [ ] Log inserts and errors.
 
 ### Task 8: Generate XML Output
-- [ ] Crear salida XML desde los datos procesados.
-  - [ ] Función para generar XML con chunks.
-  - [ ] Guardar XML en `output_xml/`.
-  - [ ] Soportar UTF-8 y caracteres especiales.
+- [ ] Create XML output from processed data.
+  - [ ] Function to generate XML with chunks.
+  - [ ] Save XML in `output_xml/`.
+  - [ ] Support UTF-8 and special characters.
 
 ### Task 9: Test the Pipeline
-- [x] Validar el pipeline end-to-end con datos de ejemplo.
-  - [x] Ejecutar pipeline para una fecha específica.
-  - [x] Verificar salidas JSON, CSV, TXT.
-  - [ ] Verificar salida XML.
-  - [ ] Verificar tablas Supabase.
-  - [x] Probar manejo de errores.
+- [x] Validate the end-to-end pipeline with sample data.
+  - [x] Run pipeline for a specific date.
+  - [x] Verify JSON, CSV, TXT outputs.
+  - [ ] Verify XML output.
+  - [ ] Verify Supabase tables.
+  - [x] Test error handling.
 
 ### Task 10: Document and Deploy
-- [ ] Finalizar documentación y preparar despliegue.
-  - [ ] Actualizar `README.md` con instrucciones y ejemplos.
-  - [ ] Documentar esquema de Supabase.
-  - [ ] Automatizar ejecución diaria (ej: AWS Lambda).
-  - [ ] Configurar monitorización.
+- [ ] Finalize documentation and prepare deployment.
+  - [ ] Update `README.md` with instructions and examples.
+  - [ ] Document Supabase schema.
+  - [ ] Automate daily execution (e.g., AWS Lambda).
+  - [ ] Set up monitoring.
 
-## Notas
-- El pipeline descarga y parsea XML para extraer y fragmentar el texto.
-- Supabase se usará como base de datos (PostgreSQL).
-- El chunking y la salida XML deben estar alineados con la estructura de la base de datos.
+## Notes
+- The pipeline downloads and parses XML to extract and chunk text.
+- Supabase will be used as the database (PostgreSQL).
+- Chunking and XML output should be aligned with the database structure.
