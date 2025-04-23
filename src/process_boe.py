@@ -126,46 +126,19 @@ def flatten_boe_data(data):
 
 
 def process_item(item, all_items, metadatos, diario_num, sumario_diario, seccion_codigo, seccion_nombre, depto_codigo, depto_nombre, epigrafe_nombre):
-    item_url_xml = item.get('url_xml', '')
-    print(f"📥 Descargando XML: {item_url_xml}")
-    
-    item_texto = ''
-    if item_url_xml:
-        try:
-            time.sleep(0.25)
-            max_retries = 5
-            retry_delay = 2
-            
-            for retry in range(max_retries):
-                try:
-                    response = requests.get(item_url_xml, timeout=30)
-                    if response.status_code == 200:
-                        break
-                    elif response.status_code == 429:
-                        sleep_time = retry_delay * (2 ** retry)
-                        print(f"⏳ Rate limit alcanzado. Esperando {sleep_time}s antes de reintentar...")
-                        time.sleep(sleep_time)
-                    else:
-                        print(f"⚠️ Status {response.status_code}. Reintentando en {retry_delay}s...")
-                        time.sleep(retry_delay)
-                except requests.exceptions.RequestException as e:
-                    print(f"❌ Error de red: {str(e)}")
-                    time.sleep(retry_delay)
-            
-            if response.status_code == 200:
-                tree = ET.fromstring(response.content)
-                texto_element = tree.find('.//texto')
-                if texto_element is not None:
-                    texto_content = []
-                    for elem in texto_element.iter():
-                        if elem.tag != 'texto' and elem.text:
-                            texto_content.append(elem.text.strip())
-                    item_texto = ' '.join(texto_content).replace('|', '&#124;')
-            else:
-                print(f"❌ No se pudo descargar el XML tras {max_retries} intentos: {item_url_xml}")
-        except Exception as e:
-            print(f"🚨 Excepción general en process_item(): {str(e)}")
-    
+    # Extraer solo la URL y el tamaño en KB si los campos son dict
+    def extract_url(field):
+        val = item.get(field, '')
+        if isinstance(val, dict):
+            return val.get('url', '')
+        return val
+
+    def extract_szKBytes():
+        val = item.get('url_pdf', '')
+        if isinstance(val, dict):
+            return int(val.get('szKBytes', 0))
+        return 0
+
     item_data = {
         'fecha_publicacion': metadatos.get('fecha_publicacion', ''),
         'publicacion': metadatos.get('publicacion', ''),
@@ -179,11 +152,10 @@ def process_item(item, all_items, metadatos, diario_num, sumario_diario, seccion
         'epigrafe_nombre': epigrafe_nombre,
         'item_id': item.get('identificador', ''),
         'item_titulo': item.get('titulo', ''),
-        'item_url_pdf': item.get('url_pdf', ''),
-        'item_url_html': item.get('url_html', ''),
-        'item_url_xml': item_url_xml,
-        'texto': item_texto,
-        'szKBytes': item.get('szKBytes', 0),
+        'item_url_pdf': extract_url('url_pdf'),
+        'item_url_html': extract_url('url_html'),
+        'item_url_xml': extract_url('url_xml'),
+        'szKBytes': extract_szKBytes(),
     }
 
     print(f"✅ Item añadido: {item_data['item_titulo'][:60]}...")
