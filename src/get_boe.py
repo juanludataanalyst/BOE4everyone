@@ -89,6 +89,23 @@ def get_boe_data(date=None, data=None, **kwards):
         df.to_csv(csv_output_path, index=False, encoding='utf-8', sep='|')
         logger.info("CSV data saved to %s", csv_output_path)
 
+        # Eliminar columnas no esenciales después de guardar el CSV
+        campos_esenciales = [
+            'fecha_publicacion',
+            'diario_numero',
+            'sumario_id',
+            'seccion_codigo',
+            'seccion_nombre',
+            'departamento_codigo',
+            'departamento_nombre',
+            'epigrafe_nombre',
+            'item_id',
+            'item_titulo',
+            'item_url_pdf',
+            'item_url_xml'
+        ]
+        df = df[campos_esenciales]
+
     elif mode == "lambda":
         csv_buffer = StringIO()
         df.to_csv(csv_buffer, index=False, encoding='utf-8', sep='|')
@@ -99,6 +116,23 @@ def get_boe_data(date=None, data=None, **kwards):
             content_type='text/csv'
         )
         logger.info("CSV data saved to S3 bucket %s with key %s", s3_bucket, csv_output_path)
+
+        # Eliminar columnas no esenciales después de guardar el CSV
+        campos_esenciales = [
+            'fecha_publicacion',
+            'diario_numero',
+            'sumario_id',
+            'seccion_codigo',
+            'seccion_nombre',
+            'departamento_codigo',
+            'departamento_nombre',
+            'epigrafe_nombre',
+            'item_id',
+            'item_titulo',
+            'item_url_pdf',
+            'item_url_xml'
+        ]
+        df = df[campos_esenciales]
 
     return df
 

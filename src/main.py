@@ -62,6 +62,8 @@ def main():
     print(f"Recibiendo el BOE con fecha: {date}")
     
     df = get_boe_data(date=date)
+    print("\nDataFrame reducido tras eliminar campos no esenciales:")
+    print(df.head(10))
     return df
 
 
