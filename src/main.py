@@ -3,6 +3,7 @@
 
 import argparse
 import requests
+import os
 from datetime import datetime
 from get_boe import get_boe_data
 from xml.etree import ElementTree as ET
@@ -64,6 +65,28 @@ def main():
     df = get_boe_data(date=date)
     print("\nDataFrame reducido tras eliminar campos no esenciales:")
     print(df.head(10))
+
+    # Crear carpeta de salida si no existe
+    xml_output_dir = "output_xml"
+    os.makedirs(xml_output_dir, exist_ok=True)
+
+    # Descargar y guardar cada XML
+    for idx, row in df.iterrows():
+        url = row['item_url_xml']
+        item_id = row['item_id']
+        if not url or not item_id:
+            continue
+        try:
+            response = requests.get(url, timeout=30)
+            if response.status_code == 200:
+                xml_path = os.path.join(xml_output_dir, f"{item_id}.xml")
+                with open(xml_path, "wb") as f:
+                    f.write(response.content)
+                print(f"✅ Guardado: {xml_path}")
+            else:
+                print(f"❌ Error {response.status_code} al descargar {url}")
+        except Exception as e:
+            print(f"🚨 Excepción al descargar {url}: {str(e)}")
     return df
 
 
