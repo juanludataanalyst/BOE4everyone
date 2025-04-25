@@ -83,121 +83,132 @@ def chunk_xml_documents(df, xml_dir="output_xml"):
     print(f"Total procesados: {total}")
 
 
-def chunk_boe_5b_blocks_and_tables(xml_path, item_id, output_dir):
+def xml_block_to_markdown(elem):
+    if elem.tag == "p":
+        return elem.text.strip() if elem.text else ""
+    elif elem.tag == "table":
+        table_rows = []
+        for row in elem.findall(".//tr"):
+            row_cells = []
+            for cell in row:
+                cell_text = "".join(cell.itertext()).strip()
+                row_cells.append(cell_text)
+            table_rows.append("| " + " | ".join(row_cells) + " |")
+        return "\n".join(table_rows)
+    elif elem.tag in ("ul", "ol"):
+        items = []
+        for li in elem.findall(".//li"):
+            li_text = "".join(li.itertext()).strip()
+            items.append(f"- {li_text}")
+        return "\n".join(items)
+    elif elem.tag == "dl":
+        dl_lines = []
+        for dt in elem.findall("dt"):
+            term = "".join(dt.itertext()).strip()
+            dl_lines.append(f"**{term}**")
+            dd = dt.getnext()
+            if dd is not None and dd.tag == "dd":
+                definition = "".join(dd.itertext()).strip()
+                dl_lines.append(f": {definition}")
+        return "\n".join(dl_lines)
+    return ""
+
+
+def chunk_boe_universal_markdown(xml_path, item_id, output_dir, max_tokens=500):
     tree = ET.parse(xml_path)
     root = tree.getroot()
     texto = root.find("texto")
+    if texto is None:
+        print(f"No se encontró <texto> en {xml_path}")
+        return
 
-    chunks = []
-    current_paragraphs = []
-
+    md_blocks = []
     for elem in texto:
-        if elem.tag == "p":
-            current_paragraphs.append(elem.text.strip() if elem.text else "")
-        elif elem.tag == "table":
-            # Guarda los párrafos acumulados antes de la tabla
-            if current_paragraphs:
-                chunk_text = "\n".join(current_paragraphs).strip()
-                if chunk_text:
-                    chunks.append({"type": "paragraph_block", "text": chunk_text})
-                current_paragraphs = []
-            # Guarda la tabla como chunk
-            table_text = []
-            for row in elem.findall(".//tr"):
-                row_text = []
-                for cell in row:
-                    cell_text = "".join(cell.itertext()).strip()
-                    row_text.append(cell_text)
-                table_text.append(" | ".join(row_text))
-            chunks.append({"type": "table", "text": "\n".join(table_text)})
-    # Guarda los párrafos restantes después de la última tabla
-    if current_paragraphs:
-        chunk_text = "\n".join(current_paragraphs).strip()
-        if chunk_text:
-            chunks.append({"type": "paragraph_block", "text": chunk_text})
+        md = xml_block_to_markdown(elem)
+        if md:
+            md_blocks.append(md)
 
-    # Guarda cada chunk como archivo individual en el directorio de salida
+    # Chunking universal
+    chunks = []
+    current_chunk = []
+    current_tokens = 0
+    for block in md_blocks:
+        block_tokens = count_tokens(block)
+        if current_tokens + block_tokens > max_tokens and current_chunk:
+            chunks.append("\n\n".join(current_chunk))
+            current_chunk = [block]
+            current_tokens = block_tokens
+        else:
+            current_chunk.append(block)
+            current_tokens += block_tokens
+    if current_chunk:
+        chunks.append("\n\n".join(current_chunk))
+
     os.makedirs(output_dir, exist_ok=True)
-    for i, chunk in enumerate(chunks):
-        chunk_filename = f"{item_id}_chunk_{i+1}_{chunk['type']}.txt"
+    for i, chunk_text in enumerate(chunks):
+        chunk_filename = f"{item_id}_chunk_{i+1}_universal.md"
         chunk_path = os.path.join(output_dir, chunk_filename)
         with open(chunk_path, "w", encoding="utf-8") as f:
-            f.write(chunk["text"])
-    print(f"Guardados {len(chunks)} chunks para {item_id}")
+            f.write(chunk_text)
+    print(f"Guardados {len(chunks)} chunks universales markdown para {item_id}")
 
 
-def chunk_all_5b(df, xml_dir, output_dir):
-    df_5b = df[df['seccion_codigo'] == '5B']
-    for idx, row in df_5b.iterrows():
-        item_id = row['item_id']
-        xml_path = os.path.join(xml_dir, f"{item_id}.xml")
-        if os.path.exists(xml_path):
-            chunk_boe_5b_blocks_and_tables(xml_path, item_id, output_dir)
-        else:
-            print(f"No se encontró el XML: {xml_path}")
-
-
-def chunk_boe_5b_blocks_and_tables_markdown(xml_path, item_id, output_dir):
+def chunk_boe_5a_dl_sections(xml_path, item_id, output_dir, max_tokens=500):
     tree = ET.parse(xml_path)
     root = tree.getroot()
     texto = root.find("texto")
+    if texto is None:
+        print(f"No se encontró <texto> en {xml_path}")
+        return
 
-    chunks = []
-    current_paragraphs = []
-    all_tables_md = []
+    dl_chunks = []
+    for dl in texto.findall("dl"):
+        dl_text = []
+        for elem in dl:
+            if elem.tag == "dt":
+                term = "".join(elem.itertext()).strip()
+                dl_text.append(f"**{term}**")
+            elif elem.tag == "dd":
+                definition = "".join(elem.itertext()).strip()
+                dl_text.append(f": {definition}")
+        chunk_text = "\n".join(dl_text)
+        if chunk_text.strip():
+            dl_chunks.append(chunk_text)
 
-    for elem in texto:
-        if elem.tag == "p":
-            current_paragraphs.append(elem.text.strip() if elem.text else "")
-        elif elem.tag == "table":
-            # Si hay un título justo antes de la tabla, lo incluimos
-            table_title = ""
-            if current_paragraphs:
-                table_title = "\n".join(current_paragraphs).strip()
-                current_paragraphs = []
-            # Extrae la tabla en formato markdown
-            table_rows = []
-            for row in elem.findall(".//tr"):
-                row_cells = []
-                for cell in row:
-                    cell_text = "".join(cell.itertext()).strip()
-                    row_cells.append(cell_text)
-                table_rows.append("| " + " | ".join(row_cells) + " |")
-            table_md = "\n".join(table_rows)
-            if table_title:
-                all_tables_md.append(f"**{table_title}**\n{table_md}")
-            else:
-                all_tables_md.append(table_md)
-
-    # Chunk de párrafos (si hay texto fuera de tablas)
-    if current_paragraphs:
-        chunk_text = "\n".join(current_paragraphs).strip()
-        if chunk_text:
-            chunks.append({"type": "paragraph_block", "text": chunk_text})
-
-    # Chunk único con todas las tablas en markdown
-    if all_tables_md:
-        chunks.append({"type": "all_tables", "text": "\n\n---\n\n".join(all_tables_md)})
-
-    # Guarda cada chunk como markdown
     os.makedirs(output_dir, exist_ok=True)
-    for i, chunk in enumerate(chunks):
-        chunk_filename = f"{item_id}_chunk_{i+1}_{chunk['type']}.md"
+    for i, chunk_text in enumerate(dl_chunks):
+        chunk_filename = f"{item_id}_chunk_{i+1}_5A_dl.md"
         chunk_path = os.path.join(output_dir, chunk_filename)
         with open(chunk_path, "w", encoding="utf-8") as f:
-            f.write(chunk["text"])
-    print(f"Guardados {len(chunks)} chunks markdown para {item_id}")
+            f.write(chunk_text)
+    print(f"Guardados {len(dl_chunks)} chunks 5A (por <dl>) para {item_id}")
 
 
-def chunk_all_5b_markdown(df, xml_dir, output_dir):
-    df_5b = df[df['seccion_codigo'] == '5B']
-    for idx, row in df_5b.iterrows():
+def chunk_all_boe(df, xml_dir, output_dir_universal, output_dir_5a, max_tokens=500):
+    for idx, row in df.iterrows():
         item_id = row['item_id']
+        seccion_codigo = row.get('seccion_codigo', '')
         xml_path = os.path.join(xml_dir, f"{item_id}.xml")
-        if os.path.exists(xml_path):
-            chunk_boe_5b_blocks_and_tables_markdown(xml_path, item_id, output_dir)
-        else:
+        if not os.path.exists(xml_path):
             print(f"No se encontró el XML: {xml_path}")
+            continue
+
+        # Excepción: 5A (contratación pública)
+        if seccion_codigo == '5A':
+            chunk_boe_5a_dl_sections(xml_path, item_id, output_dir_5a, max_tokens)
+        else:
+            chunk_boe_universal_markdown(xml_path, item_id, output_dir_universal, max_tokens)
+
+
+try:
+    import tiktoken
+    def count_tokens(text):
+        enc = tiktoken.get_encoding("cl100k_base")
+        return len(enc.encode(text))
+except ImportError:
+    def count_tokens(text):
+        # Aproximación: 1 token ~= 0.75 palabras
+        return int(len(text.split()) / 0.75)
 
 
 def main():
@@ -245,11 +256,8 @@ def main():
     # Llamada a chunk_xml_documents para analizar los XML descargados
     chunk_xml_documents(df, xml_dir=xml_output_dir)
     
-    # Llamada a chunk_all_5b para procesar todos los documentos 5B
-    chunk_all_5b(df, xml_output_dir, "chunks")
-    
-    # Llamada a chunk_all_5b_markdown para procesar todos los documentos 5B en markdown
-    chunk_all_5b_markdown(df, xml_output_dir, "chunks_markdown")
+    # Llamada a chunk_all_boe para procesar todos los documentos
+    chunk_all_boe(df, xml_output_dir, "chunks_universal", "chunks_5A", max_tokens=500)
     return df
 
 if __name__ == "__main__":

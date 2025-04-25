@@ -8,8 +8,8 @@ __pycache__/
 *txt
 *.csv
 *.xml
-*.md
 
+chunks*/*
 
 # Distribution / packaging
 .Python
