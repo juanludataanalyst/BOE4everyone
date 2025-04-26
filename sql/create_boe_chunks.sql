@@ -7,8 +7,7 @@ create table boe_chunks (
     chunk_number integer not null,           -- Índice del chunk en el documento
     chunk_id text not null,                  -- item_id + '_' + chunk_number (único por chunk)
     chunk_text text not null,                -- Texto del chunk
-    chunk_summary text,                      -- Resumen del chunk (puede ser null)
-    embedding vector(1536) not null,         -- Ajusta la dimensión según tu modelo (ej: OpenAI 1536)
+    embedding vector(384) not null,         -- Ajusta la dimensión según tu modelo (ej: OpenAI 1536)
     metadata jsonb not null default '{}'::jsonb, -- Metadatos adicionales
     created_at timestamp with time zone default timezone('utc'::text, now()) not null,
     unique(item_id, chunk_number)
@@ -22,7 +21,7 @@ create index idx_boe_chunks_metadata on boe_chunks using gin (metadata);
 
 -- Función para búsqueda semántica de chunks
 create function match_boe_chunks (
-  query_embedding vector(1536),
+  query_embedding vector(384),
   match_count int default 10,
   filter jsonb DEFAULT '{}'::jsonb
 ) returns table (
@@ -31,8 +30,7 @@ create function match_boe_chunks (
   chunk_number integer,
   chunk_id text,
   chunk_text text,
-  chunk_summary text,
-  embedding vector(1536),
+  embedding vector(384),
   metadata jsonb,
   similarity float
 )
@@ -47,7 +45,6 @@ begin
     chunk_number,
     chunk_id,
     chunk_text,
-    chunk_summary,
     embedding,
     metadata,
     1 - (boe_chunks.embedding <=> query_embedding) as similarity

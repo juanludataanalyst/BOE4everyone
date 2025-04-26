@@ -15,6 +15,7 @@ from utiils_get_data import get_boe_data
 from utils import (
     insertar_boe_metadatos_supabase, 
     parse_xml_from_url, 
+    get_embedding,  # Importa la función para embeddings
     )
 
 
@@ -33,54 +34,6 @@ def parse_arguments():
     )
     
     return parser.parse_args()
-
-def get_chunking_strategy(row):
-    if row['seccion_codigo'] == '2A' and row['epigrafe_nombre'] == 'Nombramientos':
-        return 'document'
-    elif row['seccion_codigo'] == '2B':
-        return 'intro_and_each_list'
-    elif row['seccion_codigo'] == '3' and row['departamento_nombre'] == 'Universidades':
-        return 'intro_and_each_table'
-    elif row['seccion_codigo'] == '5A':
-        return 'each_dl_section'
-    elif row['seccion_codigo'] == '5B':
-        return 'blocks_and_tables'
-    elif row['seccion_codigo'] == '5C':
-        return 'document'
-    else:
-        return 'otros'
-
-
-def chunk_xml_documents(df, xml_dir="output_xml"):
-    """
-    Procesa todos los XML en xml_dir, determina la estrategia de chunking y prepara para dividirlos.
-    Imprime la estrategia seleccionada para cada documento y un resumen de conteos por tipo.
-    """
-    from collections import Counter
-
-    strategy_counter = Counter()
-    total = 0
-    not_found = 0
-
-    for item_id in df['item_id']:
-        xml_path = os.path.join(xml_dir, f"{item_id}.xml")
-        if not os.path.exists(xml_path):
-            print(f"❌ No existe el XML: {xml_path}")
-            not_found += 1
-            continue
-        row = df[df['item_id'] == item_id].iloc[0]
-        strategy = get_chunking_strategy(row)
-        strategy_counter[strategy] += 1
-        total += 1
-        xml_url = row.get('item_url_xml', 'URL no encontrada')
-        print(f"Procesando {xml_path} (url: {xml_url}) con estrategia: {strategy}")
-
-    print("\nResumen de documentos por tipo de chunking:")
-    for strategy, count in strategy_counter.items():
-        print(f"- {strategy}: {count}")
-    if not_found > 0:
-        print(f"- No encontrados: {not_found}")
-    print(f"Total procesados: {total}")
 
 
 def xml_block_to_markdown(elem):
@@ -103,18 +56,31 @@ def xml_block_to_markdown(elem):
         return "\n".join(items)
     elif elem.tag == "dl":
         dl_lines = []
-        for dt in elem.findall("dt"):
-            term = "".join(dt.itertext()).strip()
-            dl_lines.append(f"**{term}**")
-            dd = dt.getnext()
-            if dd is not None and dd.tag == "dd":
-                definition = "".join(dd.itertext()).strip()
-                dl_lines.append(f": {definition}")
+        children = list(elem)
+        i = 0
+        while i < len(children):
+            if children[i].tag == "dt":
+                term = "".join(children[i].itertext()).strip()
+                dl_lines.append(f"**{term}**")
+                # Busca el siguiente elemento y verifica si es un dd
+                if i + 1 < len(children) and children[i + 1].tag == "dd":
+                    definition = "".join(children[i + 1].itertext()).strip()
+                    dl_lines.append(f": {definition}")
+                    i += 1  # Saltar el dd ya procesado
+            i += 1
         return "\n".join(dl_lines)
     return ""
 
 
-def chunk_boe_universal_markdown(xml_path, item_id, output_dir, max_tokens=500):
+def chunk_boe_markdown(xml_path, item_id, output_dir, max_tokens=1000):
+    """
+    Estrategia de chunking:
+    - Convierte cada elemento estructural (<p>, <table>, <ul>, <ol>, <dl>, etc.) en un bloque markdown.
+    - Nunca parte un chunk en medio de un bloque: los bloques siempre se mantienen completos.
+    - Acumula bloques completos hasta que el límite de tokens (por defecto 1000) se supera.
+    - Los documentos pequeños (<= max_tokens) se guardan como un solo chunk.
+    - Nomenclatura: <item_id>.md si es un único chunk, o <item_id>_chunkN.md si hay varios.
+    """
     tree = ET.parse(xml_path)
     root = tree.getroot()
     texto = root.find("texto")
@@ -128,12 +94,20 @@ def chunk_boe_universal_markdown(xml_path, item_id, output_dir, max_tokens=500):
         if md:
             md_blocks.append(md)
 
-    # Chunking universal
+    # Chunking: nunca parte un bloque
     chunks = []
     current_chunk = []
     current_tokens = 0
     for block in md_blocks:
         block_tokens = count_tokens(block)
+        # Si el bloque por sí solo excede el límite, se pone solo en un chunk
+        if block_tokens > max_tokens:
+            if current_chunk:
+                chunks.append("\n\n".join(current_chunk))
+                current_chunk = []
+                current_tokens = 0
+            chunks.append(block)
+            continue
         if current_tokens + block_tokens > max_tokens and current_chunk:
             chunks.append("\n\n".join(current_chunk))
             current_chunk = [block]
@@ -145,12 +119,19 @@ def chunk_boe_universal_markdown(xml_path, item_id, output_dir, max_tokens=500):
         chunks.append("\n\n".join(current_chunk))
 
     os.makedirs(output_dir, exist_ok=True)
+    single_chunk = len(chunks) == 1
     for i, chunk_text in enumerate(chunks):
-        chunk_filename = f"{item_id}_chunk_{i+1}_universal.md"
+        if single_chunk:
+            chunk_filename = f"{item_id}.md"
+        else:
+            chunk_filename = f"{item_id}_chunk{i+1}.md"
         chunk_path = os.path.join(output_dir, chunk_filename)
         with open(chunk_path, "w", encoding="utf-8") as f:
             f.write(chunk_text)
-    print(f"Guardados {len(chunks)} chunks universales markdown para {item_id}")
+        embedding = get_embedding(chunk_text)
+        print(f"🔹 Embedding para {chunk_filename}: {embedding[:8]}... (dim={len(embedding)})")
+        print(f"✅ Guardado chunk: {chunk_filename} (tokens: {count_tokens(chunk_text)}) - Bloques completos, nunca partidos.")
+    print(f"Guardados {len(chunks)} chunk(s) markdown para {item_id}")
 
 
 def chunk_boe_5a_dl_sections(xml_path, item_id, output_dir, max_tokens=500):
@@ -184,22 +165,14 @@ def chunk_boe_5a_dl_sections(xml_path, item_id, output_dir, max_tokens=500):
     print(f"Guardados {len(dl_chunks)} chunks 5A (por <dl>) para {item_id}")
 
 
-def chunk_all_boe(df, xml_dir, output_dir_universal, output_dir_5a, max_tokens=500):
+def chunk_all_boe(df, xml_dir, output_dir, max_tokens=1000):
     for idx, row in df.iterrows():
         item_id = row['item_id']
-        seccion_codigo = row.get('seccion_codigo', '')
         xml_path = os.path.join(xml_dir, f"{item_id}.xml")
         if not os.path.exists(xml_path):
             print(f"No se encontró el XML: {xml_path}")
             continue
-
-        # Excepción: 5A (contratación pública)
-        #if seccion_codigo == '5A':
-        #    chunk_boe_5a_dl_sections(xml_path, item_id, output_dir_5a, max_tokens)
-        #else:
-        #    chunk_boe_universal_markdown(xml_path, item_id, output_dir_universal, max_tokens)
-
-        chunk_boe_universal_markdown(xml_path, item_id, output_dir_universal, max_tokens)
+        chunk_boe_markdown(xml_path, item_id, output_dir, max_tokens)
 
 
 
@@ -256,11 +229,12 @@ def main():
         except Exception as e:
             print(f"🚨 Error descargando {url}: {e}")
 
-    # Llamada a chunk_xml_documents para analizar los XML descargados
-    chunk_xml_documents(df, xml_dir=xml_output_dir)
-    
     # Llamada a chunk_all_boe para procesar todos los documentos
-    chunk_all_boe(df, xml_output_dir, "chunks_universal", "chunks_5A", max_tokens=1000)
+    chunk_all_boe(df, xml_output_dir, "chunks", max_tokens=1000)
+
+
+
+    
     return df
 
 if __name__ == "__main__":
