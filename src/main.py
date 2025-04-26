@@ -72,7 +72,7 @@ def xml_block_to_markdown(elem):
     return ""
 
 
-def chunk_boe_markdown(xml_path, item_id, output_dir, max_tokens=1000):
+def chunk_boe_markdown(xml_path, item_id, output_dir, max_tokens=1000, metadata=None):
     """
     Estrategia de chunking:
     - Convierte cada elemento estructural (<p>, <table>, <ul>, <ol>, <dl>, etc.) en un bloque markdown.
@@ -80,7 +80,20 @@ def chunk_boe_markdown(xml_path, item_id, output_dir, max_tokens=1000):
     - Acumula bloques completos hasta que el límite de tokens (por defecto 1000) se supera.
     - Los documentos pequeños (<= max_tokens) se guardan como un solo chunk.
     - Nomenclatura: <item_id>.md si es un único chunk, o <item_id>_chunkN.md si hay varios.
+    Además, inserta cada chunk en la tabla boe_chunks de Supabase inmediatamente tras generarlo.
     """
+    import os
+    import requests
+    import json
+    from supabase import create_client, Client
+    from dotenv import load_dotenv
+
+    # Inicializa Supabase solo una vez
+    load_dotenv()
+    url = os.getenv("SUPABASE_URL")
+    key = os.getenv("SUPABASE_SERVICE_KEY")
+    supabase: Client = create_client(url, key)
+
     tree = ET.parse(xml_path)
     root = tree.getroot()
     texto = root.find("texto")
@@ -88,26 +101,17 @@ def chunk_boe_markdown(xml_path, item_id, output_dir, max_tokens=1000):
         print(f"No se encontró <texto> en {xml_path}")
         return
 
-    md_blocks = []
+    blocks = []
     for elem in texto:
-        md = xml_block_to_markdown(elem)
-        if md:
-            md_blocks.append(md)
+        block = xml_block_to_markdown(elem)
+        if block.strip():
+            blocks.append(block)
 
-    # Chunking: nunca parte un bloque
     chunks = []
     current_chunk = []
     current_tokens = 0
-    for block in md_blocks:
+    for block in blocks:
         block_tokens = count_tokens(block)
-        # Si el bloque por sí solo excede el límite, se pone solo en un chunk
-        if block_tokens > max_tokens:
-            if current_chunk:
-                chunks.append("\n\n".join(current_chunk))
-                current_chunk = []
-                current_tokens = 0
-            chunks.append(block)
-            continue
         if current_tokens + block_tokens > max_tokens and current_chunk:
             chunks.append("\n\n".join(current_chunk))
             current_chunk = [block]
@@ -119,50 +123,38 @@ def chunk_boe_markdown(xml_path, item_id, output_dir, max_tokens=1000):
         chunks.append("\n\n".join(current_chunk))
 
     os.makedirs(output_dir, exist_ok=True)
-    single_chunk = len(chunks) == 1
     for i, chunk_text in enumerate(chunks):
-        if single_chunk:
+        if len(chunks) == 1:
             chunk_filename = f"{item_id}.md"
+            chunk_id = item_id
         else:
             chunk_filename = f"{item_id}_chunk{i+1}.md"
+            chunk_id = f"{item_id}_chunk{i+1}"
         chunk_path = os.path.join(output_dir, chunk_filename)
         with open(chunk_path, "w", encoding="utf-8") as f:
             f.write(chunk_text)
         embedding = get_embedding(chunk_text)
         print(f"🔹 Embedding para {chunk_filename}: {embedding[:8]}... (dim={len(embedding)})")
         print(f"✅ Guardado chunk: {chunk_filename} (tokens: {count_tokens(chunk_text)}) - Bloques completos, nunca partidos.")
+
+        # Inserta el chunk en Supabase
+        data = {
+            "item_id": item_id,
+            "chunk_number": i + 1,
+            "chunk_id": chunk_id,
+            "chunk_text": chunk_text,
+            "embedding": embedding,
+            "metadata": metadata or {},
+        }
+        try:
+            resp = supabase.table("boe_chunks").insert(data).execute()
+            if hasattr(resp, "status_code") and resp.status_code == 201:
+                print(f"✅ Insertado chunk {chunk_id} en Supabase")
+            else:
+                print(f"❌ Error insertando chunk {chunk_id}: {resp}")
+        except Exception as e:
+            print(f"🚨 Excepción insertando chunk {chunk_id}: {e}")
     print(f"Guardados {len(chunks)} chunk(s) markdown para {item_id}")
-
-
-def chunk_boe_5a_dl_sections(xml_path, item_id, output_dir, max_tokens=500):
-    tree = ET.parse(xml_path)
-    root = tree.getroot()
-    texto = root.find("texto")
-    if texto is None:
-        print(f"No se encontró <texto> en {xml_path}")
-        return
-
-    dl_chunks = []
-    for dl in texto.findall("dl"):
-        dl_text = []
-        for elem in dl:
-            if elem.tag == "dt":
-                term = "".join(elem.itertext()).strip()
-                dl_text.append(f"**{term}**")
-            elif elem.tag == "dd":
-                definition = "".join(elem.itertext()).strip()
-                dl_text.append(f": {definition}")
-        chunk_text = "\n".join(dl_text)
-        if chunk_text.strip():
-            dl_chunks.append(chunk_text)
-
-    os.makedirs(output_dir, exist_ok=True)
-    for i, chunk_text in enumerate(dl_chunks):
-        chunk_filename = f"{item_id}_chunk_{i+1}_5A_dl.md"
-        chunk_path = os.path.join(output_dir, chunk_filename)
-        with open(chunk_path, "w", encoding="utf-8") as f:
-            f.write(chunk_text)
-    print(f"Guardados {len(dl_chunks)} chunks 5A (por <dl>) para {item_id}")
 
 
 def chunk_all_boe(df, xml_dir, output_dir, max_tokens=1000):
@@ -172,8 +164,7 @@ def chunk_all_boe(df, xml_dir, output_dir, max_tokens=1000):
         if not os.path.exists(xml_path):
             print(f"No se encontró el XML: {xml_path}")
             continue
-        chunk_boe_markdown(xml_path, item_id, output_dir, max_tokens)
-
+        chunk_boe_markdown(xml_path, item_id, output_dir, max_tokens, metadata=row.to_dict())
 
 
 try:
