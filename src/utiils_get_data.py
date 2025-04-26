@@ -260,7 +260,8 @@ def get_boe_data(date=None, data=None, **kwards):
             'item_id',
             'item_titulo',
             'item_url_pdf',
-            'item_url_xml'
+            'item_url_xml',
+            'szKBytes'
         ]
         df = df[campos_esenciales]
 
@@ -288,7 +289,8 @@ def get_boe_data(date=None, data=None, **kwards):
             'item_id',
             'item_titulo',
             'item_url_pdf',
-            'item_url_xml'
+            'item_url_xml',
+            szKBytes
         ]
         df = df[campos_esenciales]
 

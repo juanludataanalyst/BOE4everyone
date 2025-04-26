@@ -194,10 +194,13 @@ def chunk_all_boe(df, xml_dir, output_dir_universal, output_dir_5a, max_tokens=5
             continue
 
         # Excepción: 5A (contratación pública)
-        if seccion_codigo == '5A':
-            chunk_boe_5a_dl_sections(xml_path, item_id, output_dir_5a, max_tokens)
-        else:
-            chunk_boe_universal_markdown(xml_path, item_id, output_dir_universal, max_tokens)
+        #if seccion_codigo == '5A':
+        #    chunk_boe_5a_dl_sections(xml_path, item_id, output_dir_5a, max_tokens)
+        #else:
+        #    chunk_boe_universal_markdown(xml_path, item_id, output_dir_universal, max_tokens)
+
+        chunk_boe_universal_markdown(xml_path, item_id, output_dir_universal, max_tokens)
+
 
 
 try:
@@ -257,7 +260,7 @@ def main():
     chunk_xml_documents(df, xml_dir=xml_output_dir)
     
     # Llamada a chunk_all_boe para procesar todos los documentos
-    chunk_all_boe(df, xml_output_dir, "chunks_universal", "chunks_5A", max_tokens=500)
+    chunk_all_boe(df, xml_output_dir, "chunks_universal", "chunks_5A", max_tokens=1000)
     return df
 
 if __name__ == "__main__":
